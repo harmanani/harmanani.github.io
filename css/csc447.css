@@ -1,7 +1,7 @@
 .version.csc447 /* version checker */
 {
-	color: #00000A;
-	background-color: #C78D23;
+	color: #0000E6;
+	background-color: #3D1DCA;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	padding-top: 18px;
-	padding-bottom: 418px;
+	padding-bottom: 422px;
 	width: 0.01px;
 }
 

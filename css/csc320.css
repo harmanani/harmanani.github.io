@@ -1,7 +1,7 @@
 .version.csc320 /* version checker */
 {
-	color: #0000E0;
-	background-color: #381848;
+	color: #0000F1;
+	background-color: #ABF66F;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	padding-top: 18px;
-	padding-bottom: 200px;
+	padding-bottom: 476px;
 	width: 0.01px;
 }
 
@@ -36,7 +36,7 @@
 
 #menuu3392
 {
-	z-index: 230;
+	z-index: 228;
 	width: 648px;
 	border-style: none;
 	border-color: transparent;
@@ -325,7 +325,7 @@
 
 #u3428
 {
-	z-index: 227;
+	z-index: 225;
 	width: 105px;
 	height: 95px;
 	border-style: none;
@@ -338,7 +338,7 @@
 
 #u3466
 {
-	z-index: 229;
+	z-index: 227;
 	width: 105px;
 	height: 95px;
 	border-style: none;
@@ -351,7 +351,7 @@
 
 #u3385
 {
-	z-index: 228;
+	z-index: 226;
 	width: 105px;
 	height: 95px;
 	border-style: none;
@@ -394,7 +394,7 @@
 	z-index: 3;
 }
 
-#u3379
+#u3378
 {
 	z-index: 4;
 	width: 648px;
@@ -403,11 +403,11 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/tianhe%202%20corridor-u2694-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/120327043014-computer-chip-super-flops-horizontal-large-gallery.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u3378
+#u3380
 {
 	z-index: 5;
 	width: 648px;
@@ -416,50 +416,18 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/riboions-u2692-fr.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u3380
-{
-	z-index: 6;
-	width: 648px;
-	height: 400px;
-	border-style: none;
-	border-color: #999999;
-	margin-right: -10000px;
-	position: relative;
-	background: #DEDEDE url("../images/0_0_0_0_70__news_titan%20x%20money.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/shutterstock_148957235.jpg") no-repeat center center;
 	background-size: cover;
 }
 
 #u3371
 {
-	z-index: 7;
-	width: 50px;
+	z-index: 6;
+	width: 30px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 370px;
-	left: 598px;
-}
-
-#u3372
-{
-	position: absolute;
-	width: 10px;
-	height: 10px;
-	border-color: #DEDEDE;
-	background-color: #DEDEDE;
-}
-
-#u3372:hover
-{
-	border-color: #999999;
-	background-color: #DEDEDE;
-	width: 10px;
-	height: 10px;
-	min-height: 0px;
-	margin: 0px;
+	left: 618px;
 }
 
 #u3373
@@ -469,7 +437,6 @@
 	height: 10px;
 	border-color: #DEDEDE;
 	background-color: #DEDEDE;
-	left: 20px;
 }
 
 #u3373:hover
@@ -489,7 +456,7 @@
 	height: 10px;
 	border-color: #DEDEDE;
 	background-color: #DEDEDE;
-	left: 40px;
+	left: 20px;
 }
 
 #u3374:hover
@@ -502,7 +469,7 @@
 	margin: 0px;
 }
 
-#u3372.PamphletThumbSelected,#u3373.PamphletThumbSelected,#u3374.PamphletThumbSelected
+#u3373.PamphletThumbSelected,#u3374.PamphletThumbSelected
 {
 	border-color: #999999;
 	background-color: #EE4171;
@@ -521,7 +488,7 @@
 
 #u3388
 {
-	z-index: 11;
+	z-index: 9;
 	width: 315px;
 	height: 184px;
 	border-color: #000000;
@@ -534,7 +501,7 @@
 
 #u3387-3
 {
-	z-index: 12;
+	z-index: 10;
 	width: 315px;
 	min-height: 216px;
 	border-color: #000000;
@@ -547,7 +514,7 @@
 
 #u3390
 {
-	z-index: 15;
+	z-index: 13;
 	width: 130px;
 	border-width: 7px;
 	border-style: solid;
@@ -572,7 +539,7 @@
 
 #u3386-6
 {
-	z-index: 17;
+	z-index: 15;
 	width: 315px;
 	min-height: 37px;
 	background-color: transparent;
@@ -603,7 +570,7 @@
 
 #accordionu3429
 {
-	z-index: 23;
+	z-index: 21;
 	width: 979px;
 	border-width: 1px;
 	border-style: solid;
@@ -616,7 +583,7 @@
 
 #u3450
 {
-	z-index: 24;
+	z-index: 22;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -624,7 +591,7 @@
 
 #u3453-4
 {
-	z-index: 25;
+	z-index: 23;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -665,7 +632,7 @@
 
 #u3451
 {
-	z-index: 29;
+	z-index: 27;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -677,7 +644,7 @@
 
 #u3452-4
 {
-	z-index: 30;
+	z-index: 28;
 	width: 938px;
 	min-height: 45px;
 	border-style: none;
@@ -697,7 +664,7 @@
 
 #u3462
 {
-	z-index: 34;
+	z-index: 32;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -705,7 +672,7 @@
 
 #u3465-4
 {
-	z-index: 35;
+	z-index: 33;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -746,7 +713,7 @@
 
 #u3463
 {
-	z-index: 39;
+	z-index: 37;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -758,7 +725,7 @@
 
 #u3464-15
 {
-	z-index: 40;
+	z-index: 38;
 	width: 935px;
 	min-height: 91px;
 	border-style: none;
@@ -877,7 +844,7 @@
 
 #u3434
 {
-	z-index: 55;
+	z-index: 53;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -885,7 +852,7 @@
 
 #u3435-4
 {
-	z-index: 56;
+	z-index: 54;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -926,7 +893,7 @@
 
 #u3436
 {
-	z-index: 60;
+	z-index: 58;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -937,7 +904,7 @@
 
 #u3437-49
 {
-	z-index: 61;
+	z-index: 59;
 	width: 935px;
 	min-height: 327px;
 	background-color: transparent;
@@ -959,7 +926,7 @@
 
 #u3442
 {
-	z-index: 110;
+	z-index: 108;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -967,7 +934,7 @@
 
 #u3443-4
 {
-	z-index: 111;
+	z-index: 109;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -1008,7 +975,7 @@
 
 #u3444
 {
-	z-index: 115;
+	z-index: 113;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -1020,7 +987,7 @@
 
 #u3445-21
 {
-	z-index: 116;
+	z-index: 114;
 	width: 937px;
 	min-height: 110px;
 	background-color: transparent;
@@ -1038,7 +1005,7 @@
 
 #u3430
 {
-	z-index: 137;
+	z-index: 135;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -1046,7 +1013,7 @@
 
 #u3433-4
 {
-	z-index: 138;
+	z-index: 136;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -1087,7 +1054,7 @@
 
 #u3431
 {
-	z-index: 142;
+	z-index: 140;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -1099,7 +1066,7 @@
 
 #u3432-20
 {
-	z-index: 143;
+	z-index: 141;
 	width: 942px;
 	min-height: 109px;
 	border-style: none;
@@ -1149,7 +1116,7 @@
 
 #u3458
 {
-	z-index: 163;
+	z-index: 161;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -1157,7 +1124,7 @@
 
 #u3459-4
 {
-	z-index: 164;
+	z-index: 162;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -1198,7 +1165,7 @@
 
 #u3460
 {
-	z-index: 168;
+	z-index: 166;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -1210,7 +1177,7 @@
 
 #u3461-8
 {
-	z-index: 169;
+	z-index: 167;
 	width: 945px;
 	min-height: 69px;
 	background-color: transparent;
@@ -1228,7 +1195,7 @@
 
 #u3446
 {
-	z-index: 177;
+	z-index: 175;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -1236,7 +1203,7 @@
 
 #u3449-4
 {
-	z-index: 178;
+	z-index: 176;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -1277,7 +1244,7 @@
 
 #u3447
 {
-	z-index: 182;
+	z-index: 180;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -1289,7 +1256,7 @@
 
 #u3448-15
 {
-	z-index: 183;
+	z-index: 181;
 	width: 938px;
 	min-height: 134px;
 	background-color: transparent;
@@ -1328,7 +1295,7 @@
 
 #u3438
 {
-	z-index: 198;
+	z-index: 196;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -1336,7 +1303,7 @@
 
 #u3441-4
 {
-	z-index: 199;
+	z-index: 197;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -1377,7 +1344,7 @@
 
 #u3439
 {
-	z-index: 203;
+	z-index: 201;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -1389,7 +1356,7 @@
 
 #u3440-10
 {
-	z-index: 204;
+	z-index: 202;
 	width: 942px;
 	min-height: 74px;
 	border-style: none;
@@ -1420,7 +1387,7 @@
 
 #u3454
 {
-	z-index: 214;
+	z-index: 212;
 	width: 979px;
 	background-color: transparent;
 	position: relative;
@@ -1428,7 +1395,7 @@
 
 #u3457-4
 {
-	z-index: 215;
+	z-index: 213;
 	width: 967px;
 	min-height: 24px;
 	border-width: 1px;
@@ -1485,7 +1452,7 @@
 
 #u3455
 {
-	z-index: 219;
+	z-index: 217;
 	width: 977px;
 	border-width: 1px;
 	border-style: solid;
@@ -1497,7 +1464,7 @@
 
 #u3456-7
 {
-	z-index: 220;
+	z-index: 218;
 	width: 942px;
 	min-height: 44px;
 	border-style: none;

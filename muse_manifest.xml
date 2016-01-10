@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1452424629899">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1452430313114">
   <folder name="css">
     <file name="site_global.css" crc="3796249610"/>
-    <file name="csc447.css" crc="180849955" ref="csc447"/>
-    <file name="index.css" crc="178887061" ref="index"/>
+    <file name="csc447.css" crc="3862765002" ref="csc447"/>
+    <file name="index.css" crc="4257766642" ref="index"/>
     <file name="haidar.css" crc="144466834" ref="haidar"/>
-    <file name="csc322.css" crc="3953053829" ref="csc322"/>
-    <file name="csc320.css" crc="3761772616" ref="csc320"/>
-    <file name="csc688c.css" crc="42402199" ref="csc688c"/>
+    <file name="csc322.css" crc="482364421" ref="csc322"/>
+    <file name="csc320.css" crc="4054578799" ref="csc320"/>
+    <file name="csc688c.css" crc="381571030" ref="csc688c"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
@@ -33,7 +33,7 @@
     <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
     <file name="boat.jpg" crc="113555575" seo="true" ref="index"/>
     <file name="129-960x623.jpg" crc="287340160" ref="index"/>
-    <file name="tianhe 2 corridor.jpg" crc="3918209598" ref="index"/>
+    <file name="tianhe 2 corridor.jpg" crc="127348594" ref="index"/>
     <file name="computer-engineering01_web.jpg" crc="456046129" ref="index"/>
     <file name="672x372xwhatis-672x372jpgpagespeedicokremyjz2j.jpg" crc="3939542481" ref="index"/>
     <file name="dsc_0228.jpg" crc="4001980211" ref="index"/>
@@ -52,18 +52,24 @@
     <file name="g.png" crc="235849606" ref="haidar"/>
     <file name="rg.png" crc="217970158" ref="haidar"/>
     <file name="img_1903-crop-u2150.jpg" crc="58901511" ref="haidar"/>
-    <file name="tianhe 2 corridor-u2694-fr.jpg" crc="11819479" ref="csc447:csc320:csc322:csc688c"/>
-    <file name="riboions-u2692-fr.jpg" crc="3917646522" ref="csc447:csc320:csc322:csc688c"/>
-    <file name="0_0_0_0_70__news_titan x money.jpg" crc="4183415606" ref="csc447:csc320:csc322:csc688c"/>
+    <file name="tianhe 2 corridor-u2694-fr.jpg" crc="11819479" ref="csc447"/>
+    <file name="riboions-u2692-fr.jpg" crc="3917646522" ref="csc447"/>
+    <file name="0_0_0_0_70__news_titan x money.jpg" crc="4183415606" ref="csc447"/>
     <file name="boat96x68.jpg" crc="522624604" seo="true" ref="csc447"/>
     <file name="cropped-programmingoop_wallpaper_black_by_hexeno.jpg" crc="151910392" ref="index"/>
-    <file name="binary-hole-hd-desktop-wallpaper-u2863-fr.jpg" crc="3769032755" ref="index"/>
-    <file name="galimg3-u2861-fr.jpg" crc="515410361" ref="index"/>
+    <file name="lung-on-chip-u2862-fr.jpg" crc="251782823" ref="index"/>
+    <file name="shutterstock_148957235.jpg" crc="250707624" ref="index:csc320:csc322"/>
+    <file name="120327043014-computer-chip-super-flops-horizontal-large-gallery.jpg" crc="4265755615" ref="index:csc320"/>
+    <file name="36.jpg" crc="4200218160" ref="index"/>
+    <file name="chip.jpg" crc="4036690932" ref="csc322"/>
+    <file name="air-traffic-over-europe.jpg" crc="4025943466" ref="csc688c"/>
+    <file name="data_visualization_navegacoes.jpg" crc="3793746128" ref="csc688c"/>
+    <file name="carbon_emissions_03.jpg" crc="449463173" ref="csc688c"/>
   </folder>
-  <file name="index.html" crc="4196472399" seo="true" mt="1452413911708" redirect="true"/>
+  <file name="index.html" crc="4220430048" seo="true" mt="1452429940104" redirect="true"/>
   <file name="haidar.html" crc="3982485875" seo="true" mt="1450955558481" redirect="true"/>
-  <file name="csc447.html" crc="4255437208" seo="true" mt="1452416671683" redirect="true"/>
-  <file name="csc320.html" crc="13388985" seo="true" mt="1452419210330" redirect="true"/>
-  <file name="csc322.html" crc="4068785926" seo="true" mt="1452418934835" redirect="true"/>
-  <file name="csc688c.html" crc="529338416" seo="true" mt="1452416461867" redirect="true"/>
+  <file name="csc447.html" crc="4234798514" seo="true" mt="1452428687292" redirect="true"/>
+  <file name="csc320.html" crc="3857372795" seo="true" mt="1452429940103" redirect="true"/>
+  <file name="csc322.html" crc="4253083087" seo="true" mt="1452429940034" redirect="true"/>
+  <file name="csc688c.html" crc="4281386420" seo="true" mt="1452429711832" redirect="true"/>
 </manifest>

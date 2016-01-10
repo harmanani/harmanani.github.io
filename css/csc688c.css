@@ -1,7 +1,7 @@
 .version.csc688c /* version checker */
 {
-	color: #000002;
-	background-color: #870197;
+	color: #000016;
+	background-color: #BE4FD6;
 }
 
 .html
@@ -25,7 +25,7 @@
 #page_position_content
 {
 	padding-top: 18px;
-	padding-bottom: 319px;
+	padding-bottom: 422px;
 	width: 0.01px;
 }
 
@@ -403,7 +403,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/tianhe%202%20corridor-u2694-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/air-traffic-over-europe.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -416,7 +416,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/riboions-u2692-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/data_visualization_navegacoes.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -429,7 +429,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/0_0_0_0_70__news_titan%20x%20money.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/carbon_emissions_03.jpg") no-repeat center center;
 	background-size: cover;
 }
 
