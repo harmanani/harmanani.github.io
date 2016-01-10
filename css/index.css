@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000007;
-	background-color: #0ED983;
+	color: #00000A;
+	background-color: #A99995;
 }
 
 .html
@@ -74,10 +74,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -128,10 +128,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -182,10 +182,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -228,10 +228,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -290,10 +290,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 20px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -597,8 +597,8 @@
 	min-height: 33px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-bottom: -2px;
@@ -626,8 +626,8 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -726,8 +726,8 @@
 	min-height: 29px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 13px;
@@ -760,8 +760,8 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -913,8 +913,8 @@
 	min-height: 33px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -943,8 +943,8 @@
 	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -984,7 +984,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/dsc_0228.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/cropped-programmingoop_wallpaper_black_by_hexeno.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -997,7 +997,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/dsc_0250.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/binary-hole-hd-desktop-wallpaper-u2863-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1010,7 +1010,7 @@
 	border-color: #999999;
 	margin-right: -10000px;
 	position: relative;
-	background: #DEDEDE url("../images/403150_290183501033602_149867701_n.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/galimg3-u2861-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1098,7 +1098,7 @@
 	z-index: 194;
 	width: 315px;
 	border-color: #000000;
-	padding-bottom: 1px;
+	padding-bottom: 8px;
 	margin-left: 665px;
 	top: -316px;
 	margin-bottom: -102px;
@@ -1107,20 +1107,20 @@
 	background-size: cover;
 }
 
-#u2873-4
+#u3306-4
 {
-	z-index: 195;
+	z-index: 205;
 	width: 302px;
-	min-height: 34px;
+	min-height: 31px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 67px;
+	margin-top: 46px;
 	left: 9px;
 }
 
@@ -1144,13 +1144,37 @@
 	min-height: 33px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 69px;
+	left: 9px;
+}
+
+#pu2873-4
+{
+	width: 0.01px;
+	margin-left: 665px;
+	margin-top: -103px;
+}
+
+#u2873-4
+{
+	z-index: 195;
+	width: 302px;
+	min-height: 34px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 63px;
 	left: 9px;
 }
 
@@ -1159,35 +1183,33 @@
 	z-index: 204;
 	width: 315px;
 	border-color: #000000;
-	padding-bottom: 2px;
-	margin-left: 665px;
-	top: -103px;
-	margin-bottom: -102px;
+	padding-bottom: 6px;
 	position: relative;
+	margin-right: -10000px;
 	background: #FFFFFF url("../images/us__en_us__ibm100__sci_research_lab__fractal_geometry__620x350.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u2877-4
+#u3307-4
 {
-	z-index: 205;
+	z-index: 209;
 	width: 302px;
-	min-height: 31px;
+	min-height: 33px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 69px;
+	margin-top: 63px;
 	left: 9px;
 }
 
 #bio
 {
-	margin-top: 70px;
+	margin-top: 87px;
 	position: relative;
 }
 
@@ -1311,8 +1333,8 @@
 	background-color: transparent;
 	color: #FFFFFF;
 	text-align: left;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1353,8 +1375,8 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #00172C;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1405,10 +1427,10 @@
 	min-height: 25px;
 	border-color: #999999;
 	background-color: transparent;
+	line-height: 25px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 18px;
-	line-height: 25px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1445,10 +1467,10 @@
 	min-height: 25px;
 	border-color: #999999;
 	background-color: transparent;
+	line-height: 25px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 18px;
-	line-height: 25px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1538,8 +1560,8 @@
 	width: 134px;
 	min-height: 93px;
 	background-color: transparent;
-	font-size: 17px;
 	line-height: 22px;
+	font-size: 17px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1551,8 +1573,8 @@
 	width: 134px;
 	min-height: 93px;
 	background-color: transparent;
-	font-size: 17px;
 	line-height: 22px;
+	font-size: 17px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-top: 25px;
@@ -1584,8 +1606,8 @@
 	width: 134px;
 	min-height: 93px;
 	background-color: transparent;
-	font-size: 17px;
 	line-height: 22px;
+	font-size: 17px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1597,8 +1619,8 @@
 	width: 134px;
 	min-height: 93px;
 	background-color: transparent;
-	font-size: 17px;
 	line-height: 22px;
+	font-size: 17px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-top: 25px;

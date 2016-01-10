@@ -1,33 +1,36 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1451132780300">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1452424629899">
   <folder name="css">
-    <file name="site_global.css" crc="373313838"/>
-    <file name="csc447.css" crc="432050275" ref="csc447"/>
-    <file name="index.css" crc="118413699" ref="index"/>
+    <file name="site_global.css" crc="3796249610"/>
+    <file name="csc447.css" crc="180849955" ref="csc447"/>
+    <file name="index.css" crc="178887061" ref="index"/>
     <file name="haidar.css" crc="144466834" ref="haidar"/>
+    <file name="csc322.css" crc="3953053829" ref="csc322"/>
+    <file name="csc320.css" crc="3761772616" ref="csc320"/>
+    <file name="csc688c.css" crc="42402199" ref="csc688c"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:haidar:csc447"/>
-    <file name="museutils.js" crc="275725342" ref="index:haidar:csc447"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:haidar:csc447"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:haidar:csc447"/>
-    <file name="webpro.js" crc="3883484123" ref="index:haidar:csc447"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="index:haidar:csc447"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="index:haidar:csc447"/>
-    <file name="touchswipe.js" crc="4218319045" ref="index:haidar:csc447"/>
-    <file name="pie.js" crc="3827607177" ref="index:haidar:csc447"/>
-    <file name="musewpdisclosure.js" crc="404074387" ref="index:csc447"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:haidar:csc447"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc447"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="museutils.js" crc="275725342" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="webpro.js" crc="3883484123" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="pie.js" crc="3827607177" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="index:csc447:csc320:csc322:csc688c"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="374453737" ref="index"/>
-    <file name="facebook.png" crc="317936629" ref="index"/>
-    <file name="twitter.png" crc="4102706121" ref="index"/>
-    <file name="rss.png" crc="3858264630" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index:csc447:csc320:csc322:csc688c"/>
+    <file name="twitter.png" crc="4102706121" ref="index:csc447:csc320:csc322:csc688c"/>
+    <file name="rss.png" crc="3858264630" ref="index:csc447:csc320:csc322:csc688c"/>
     <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar"/>
     <file name="dsc_0367.jpg" crc="3809102535" ref="index:haidar"/>
     <file name="byblos.jpg" crc="3908857989" ref="index:haidar"/>
-    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc447"/>
+    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc447:csc320:csc322:csc688c"/>
     <file name="boat.jpg" crc="113555575" seo="true" ref="index"/>
     <file name="129-960x623.jpg" crc="287340160" ref="index"/>
     <file name="tianhe 2 corridor.jpg" crc="3918209598" ref="index"/>
@@ -49,12 +52,18 @@
     <file name="g.png" crc="235849606" ref="haidar"/>
     <file name="rg.png" crc="217970158" ref="haidar"/>
     <file name="img_1903-crop-u2150.jpg" crc="58901511" ref="haidar"/>
-    <file name="tianhe 2 corridor-u2694-fr.jpg" crc="11819479" ref="csc447"/>
-    <file name="riboions-u2692-fr.jpg" crc="3917646522" ref="csc447"/>
-    <file name="0_0_0_0_70__news_titan x money.jpg" crc="4183415606" ref="csc447"/>
+    <file name="tianhe 2 corridor-u2694-fr.jpg" crc="11819479" ref="csc447:csc320:csc322:csc688c"/>
+    <file name="riboions-u2692-fr.jpg" crc="3917646522" ref="csc447:csc320:csc322:csc688c"/>
+    <file name="0_0_0_0_70__news_titan x money.jpg" crc="4183415606" ref="csc447:csc320:csc322:csc688c"/>
     <file name="boat96x68.jpg" crc="522624604" seo="true" ref="csc447"/>
+    <file name="cropped-programmingoop_wallpaper_black_by_hexeno.jpg" crc="151910392" ref="index"/>
+    <file name="binary-hole-hd-desktop-wallpaper-u2863-fr.jpg" crc="3769032755" ref="index"/>
+    <file name="galimg3-u2861-fr.jpg" crc="515410361" ref="index"/>
   </folder>
-  <file name="index.html" crc="3944606290" seo="true" mt="1450955558533" redirect="true"/>
+  <file name="index.html" crc="4196472399" seo="true" mt="1452413911708" redirect="true"/>
   <file name="haidar.html" crc="3982485875" seo="true" mt="1450955558481" redirect="true"/>
-  <file name="csc447.html" crc="515124844" seo="true" mt="1451041341146" redirect="true"/>
+  <file name="csc447.html" crc="4255437208" seo="true" mt="1452416671683" redirect="true"/>
+  <file name="csc320.html" crc="13388985" seo="true" mt="1452419210330" redirect="true"/>
+  <file name="csc322.html" crc="4068785926" seo="true" mt="1452418934835" redirect="true"/>
+  <file name="csc688c.html" crc="529338416" seo="true" mt="1452416461867" redirect="true"/>
 </manifest>
