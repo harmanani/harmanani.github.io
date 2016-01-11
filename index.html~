@@ -33,7 +33,7 @@ var __adobewebfontsappname__ = "muse";
     <div class="clearfix colelem" id="pmenuu421"><!-- group -->
      <nav class="MenuBar clearfix grpelem" id="menuu421"><!-- horizontal box -->
       <div class="MenuItemContainer clearfix grpelem" id="u429"><!-- vertical box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u432" href="http://harmanani.github.io/"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u433-4"><!-- content --><p>HOME</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u432" href="http://vlsi.byblos.lau.edu.lb/"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u433-4"><!-- content --><p>HOME</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix grpelem" id="u436"><!-- vertical box -->
        <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix colelem" id="u439" href="index.html#bio"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u441-4"><!-- content --><p>Biography</p></div></a>
@@ -83,17 +83,17 @@ var __adobewebfontsappname__ = "muse";
       </div>
      </div>
      <div class="Name clearfix grpelem" id="u2311-4"><!-- content -->
-      <p>harmanani.github.io</p>
+      <p>vlsi.byblos.lau.edu.lb</p>
      </div>
     </div>
     <a class="anchor_item colelem" id="teaching"></a>
     <div class="clearfix colelem" id="ppu1732"><!-- group -->
      <div class="clearfix grpelem" id="pu1732"><!-- column -->
       <div class="museBGSize clearfix colelem" id="u1732"><!-- group -->
-       <a class="nonblock nontext clearfix grpelem" id="u1733-4" href="http://harmanani.github.io/csc320.html"><!-- content --><p>CSC 320: Computer Organization</p></a>
+       <a class="nonblock nontext clearfix grpelem" id="u1733-4" href="http://vlsi.byblos.lau.edu.lb/csc320.html"><!-- content --><p>CSC 320: Computer Organization</p></a>
       </div>
       <div class="museBGSize clearfix colelem" id="u1750"><!-- group -->
-       <a class="nonblock nontext clearfix grpelem" id="u1752-4" href="http://harmanani.github.io/csc322.html"><!-- content --><p>CSC 322: Computer Organization Lab</p></a>
+       <a class="nonblock nontext clearfix grpelem" id="u1752-4" href="http://vlsi.byblos.lau.edu.lb/csc322.html"><!-- content --><p>CSC 322: Computer Organization Lab</p></a>
       </div>
      </div>
      <div class="clearfix grpelem" id="u523"><!-- group -->
@@ -103,12 +103,12 @@ var __adobewebfontsappname__ = "muse";
       </div>
      </div>
      <div class="museBGSize clearfix grpelem" id="u1688"><!-- group -->
-      <a class="nonblock nontext clearfix grpelem" id="u1693-4" href="http://harmanani.github.io/csc447.html"><!-- content --><p>CSC 447: Parallel Programming for Multicore and Clustered Systems</p></a>
+      <a class="nonblock nontext clearfix grpelem" id="u1693-4" href="http://vlsi.byblos.lau.edu.lb/csc447.html"><!-- content --><p>CSC 447: Parallel Programming for Multicore and Clustered Systems</p></a>
      </div>
     </div>
     <div class="clearfix colelem" id="pu2851"><!-- group -->
      <div class="museBGSize clearfix grpelem" id="u2851"><!-- group -->
-      <a class="nonblock nontext clearfix grpelem" id="u2852-4" href="http://harmanani.github.io/csc375.html"><!-- content --><p>CSC 375: Datatbase Mangement Sys</p></a>
+      <a class="nonblock nontext clearfix grpelem" id="u2852-4" href="http://vlsi.byblos.lau.edu.lb/csc375.html"><!-- content --><p>CSC 375: Datatbase Mangement Sys</p></a>
      </div>
      <div class="PamphletWidget clearfix grpelem" id="pamphletu2830"><!-- none box -->
       <div class="popup_anchor" id="u2833popup">
@@ -132,10 +132,10 @@ var __adobewebfontsappname__ = "muse";
      </div>
     </div>
     <div class="museBGSize clearfix colelem" id="u2853"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u2854-4" href="http://harmanani.github.io/csc443.html"><!-- content --><p>CSC 443: Web Programming</p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u2854-4" href="http://vlsi.byblos.lau.edu.lb/csc443.html"><!-- content --><p>CSC 443: Web Programming</p></a>
     </div>
     <div class="museBGSize clearfix colelem" id="u2855"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u2856-4" href="http://harmanani.github.io/csc688c.html"><!-- content --><p>CSC 688: Data Science &amp; Visualization</p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u2856-4" href="http://vlsi.byblos.lau.edu.lb/csc688c.html"><!-- content --><p>CSC 688: Data Science &amp; Visualization</p></a>
     </div>
     <div class="PamphletWidget clearfix colelem" id="pamphletu2857"><!-- none box -->
      <div class="popup_anchor" id="u2860popup">
@@ -158,15 +158,15 @@ var __adobewebfontsappname__ = "muse";
      </div>
     </div>
     <div class="museBGSize clearfix colelem" id="u2872"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u3306-4" href="http://harmanani.github.io/classes/csc711/csc711.html"><!-- content --><p>CSC 611: Design and Analysis of Algorithms</p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u3306-4" href="http://vlsi.byblos.lau.edu.lb/classes/csc711/csc711.html"><!-- content --><p>CSC 611: Design and Analysis of Algorithms</p></a>
     </div>
     <div class="museBGSize clearfix colelem" id="u2874"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u2875-4" href="http://harmanani.github.io/classes/csc732/csc732.html"><!-- content --><p>CSC 632: ULSI Testing</p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u2875-4" href="http://vlsi.byblos.lau.edu.lb/classes/csc732/csc732.html"><!-- content --><p>CSC 632: ULSI Testing</p></a>
     </div>
     <div class="clearfix colelem" id="pu2873-4"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u2873-4" href="http://harmanani.github.io/classes/csc375/csc375.html"><!-- content --><p>CSC 375: Datatbase Mangement Sys</p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u2873-4" href="http://vlsi.byblos.lau.edu.lb/classes/csc375/csc375.html"><!-- content --><p>CSC 375: Datatbase Mangement Sys</p></a>
      <div class="museBGSize clearfix grpelem" id="u2876"><!-- group -->
-      <a class="nonblock nontext clearfix grpelem" id="u3307-4" href="http://harmanani.github.io/classes/csc788/csc788.html"><!-- content --><p>CSC 688N: VLSI Design Automation</p></a>
+      <a class="nonblock nontext clearfix grpelem" id="u3307-4" href="http://vlsi.byblos.lau.edu.lb/classes/csc788/csc788.html"><!-- content --><p>CSC 688N: VLSI Design Automation</p></a>
      </div>
     </div>
     <a class="anchor_item colelem" id="bio"></a>

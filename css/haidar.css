@@ -1,7 +1,7 @@
 .version.haidar /* version checker */
 {
-	color: #000008;
-	background-color: #9C6392;
+	color: #00001B;
+	background-color: #B4F131;
 }
 
 .html
@@ -649,8 +649,8 @@
 	min-height: 17px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -678,9 +678,9 @@
 	min-height: 223px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 28px;
 	text-align: left;
 	font-size: 24px;
-	line-height: 28px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -723,8 +723,8 @@
 	min-height: 17px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -796,8 +796,8 @@
 	min-height: 17px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;

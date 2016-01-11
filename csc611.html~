@@ -33,7 +33,7 @@ var __adobewebfontsappname__ = "muse";
     <div class="clearfix colelem" id="pmenuu4132"><!-- group -->
      <nav class="MenuBar clearfix grpelem" id="menuu4132"><!-- horizontal box -->
       <div class="MenuItemContainer clearfix grpelem" id="u4147"><!-- vertical box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4150" href="http://harmanani.github.io/"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4151-4"><!-- content --><p>HOME</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u4150" href="http://vlsi.byblos.lau.edu.lb/"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4151-4"><!-- content --><p>HOME</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix grpelem" id="u4154"><!-- vertical box -->
        <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix colelem" id="u4157" href="csc611.html#csc688c"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u4158-4"><!-- content --><p>CSC 688C</p></div></a>
