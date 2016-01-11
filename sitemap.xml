@@ -90,4 +90,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc688a.html</loc>
+    <lastmod>2016-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

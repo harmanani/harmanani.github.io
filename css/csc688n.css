@@ -1,7 +1,7 @@
 .version.csc688n /* version checker */
 {
-	color: #0000FD;
-	background-color: #16E633;
+	color: #000013;
+	background-color: #1D7A47;
 }
 
 .html
@@ -79,9 +79,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -133,9 +133,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -187,9 +187,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -233,9 +233,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -295,9 +295,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -626,7 +626,7 @@
 {
 	z-index: 25;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -635,8 +635,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -648,7 +648,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -658,7 +658,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -684,8 +684,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 17px;
 	text-align: left;
+	line-height: 17px;
 	font-size: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -707,7 +707,7 @@
 {
 	z-index: 35;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -716,8 +716,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -729,7 +729,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -739,7 +739,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -765,8 +765,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 17px;
 	text-align: left;
+	line-height: 17px;
 	font-size: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -788,7 +788,7 @@
 {
 	z-index: 54;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -797,8 +797,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -810,7 +810,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -820,7 +820,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -866,7 +866,7 @@
 {
 	z-index: 73;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -875,8 +875,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -888,7 +888,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -898,7 +898,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -922,8 +922,8 @@
 	min-height: 223px;
 	background-color: transparent;
 	text-align: left;
-	font-size: 14px;
 	line-height: 21px;
+	font-size: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -954,7 +954,7 @@
 {
 	z-index: 181;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -963,8 +963,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -976,7 +976,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -986,7 +986,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1010,9 +1010,9 @@
 	min-height: 122px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 21px;
 	text-align: left;
 	font-size: 14px;
-	line-height: 21px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1132,7 +1132,7 @@
 {
 	z-index: 200;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -1141,8 +1141,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1154,7 +1154,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1164,7 +1164,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1233,7 +1233,7 @@
 {
 	z-index: 223;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -1242,8 +1242,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1255,7 +1255,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1265,7 +1265,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1289,9 +1289,9 @@
 	min-height: 69px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 21px;
 	text-align: left;
 	font-size: 14px;
-	line-height: 21px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1312,7 +1312,7 @@
 {
 	z-index: 237;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -1321,8 +1321,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1334,7 +1334,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1344,7 +1344,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1423,7 +1423,7 @@
 {
 	z-index: 391;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -1432,8 +1432,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1445,7 +1445,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1455,7 +1455,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1515,7 +1515,7 @@
 {
 	z-index: 407;
 	width: 967px;
-	min-height: 23px;
+	min-height: 24px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
@@ -1524,8 +1524,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1537,7 +1537,7 @@
 	background-color: #010101;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1547,7 +1547,7 @@
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1557,7 +1557,7 @@
 	background-color: #F43A6D;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 967px;
 	margin: 0px;
 }
@@ -1589,8 +1589,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 17px;
 	text-align: left;
+	line-height: 17px;
 	font-size: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
