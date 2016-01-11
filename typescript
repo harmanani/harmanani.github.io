@@ -1,0 +1,1248 @@
+Script started on Mon Jan 11 12:01:24 2016
+[?1034hbash-3.2$ !scp
+bash: !scp: event not found
+bash-3.2$ clear[3Plssudo gem install rails[C[C[C[C[C[C[C[C[C[Crails[Kuby --version[Kny[K[K[K[Kscp -r * root@vlsi.byblos.lau.edu.lb:/srv/www/htdocs
+Password: 
+csc320.html                                     0%    0     0.0KB/s   --:-- ETAcsc320.html                                   100%   21KB  21.3KB/s   00:00    
+csc322.html                                     0%    0     0.0KB/s   --:-- ETAcsc322.html                                   100%   23KB  22.9KB/s   00:00    
+csc375.html                                     0%    0     0.0KB/s   --:-- ETAcsc375.html                                   100%   28KB  28.0KB/s   00:00    
+csc443.html                                     0%    0     0.0KB/s   --:-- ETAcsc443.html                                   100%   26KB  26.1KB/s   00:00    
+csc447.html                                     0%    0     0.0KB/s   --:-- ETAcsc447.html                                   100%   23KB  22.6KB/s   00:00    
+csc611.html                                     0%    0     0.0KB/s   --:-- ETAcsc611.html                                   100%   28KB  27.8KB/s   00:00    
+csc632.html                                     0%    0     0.0KB/s   --:-- ETAcsc632.html                                   100%   28KB  27.8KB/s   00:00    
+csc688c.html                                    0%    0     0.0KB/s   --:-- ETAcsc688c.html                                  100%   28KB  27.8KB/s   00:00    
+csc688n.html                                    0%    0     0.0KB/s   --:-- ETAcsc688n.html                                  100%   28KB  27.8KB/s   00:00    
+csc320.css                                      0%    0     0.0KB/s   --:-- ETAcsc320.css                                    100%   25KB  24.8KB/s   00:00    
+csc322.css                                      0%    0     0.0KB/s   --:-- ETAcsc322.css                                    100%   24KB  23.9KB/s   00:00    
+csc375.css                                      0%    0     0.0KB/s   --:-- ETAcsc375.css                                    100%   26KB  26.4KB/s   00:00    
+csc443.css                                      0%    0     0.0KB/s   --:-- ETAcsc443.css                                    100%   27KB  27.0KB/s   00:00    
+csc447.css                                      0%    0     0.0KB/s   --:-- ETAcsc447.css                                    100%   25KB  25.0KB/s   00:00    
+csc611.css                                      0%    0     0.0KB/s   --:-- ETAcsc611.css                                    100%   26KB  25.6KB/s   00:00    
+csc632.css                                      0%    0     0.0KB/s   --:-- ETAcsc632.css                                    100%   26KB  25.6KB/s   00:00    
+csc688c.css                                     0%    0     0.0KB/s   --:-- ETAcsc688c.css                                   100%   26KB  25.6KB/s   00:00    
+csc688n.css                                     0%    0     0.0KB/s   --:-- ETAcsc688n.css                                   100%   26KB  25.6KB/s   00:00    
+haidar.css                                      0%    0     0.0KB/s   --:-- ETAhaidar.css                                    100%   14KB  14.4KB/s   00:00    
+index.css                                       0%    0     0.0KB/s   --:-- ETAindex.css                                     100%   25KB  25.4KB/s   00:00    
+site_global.css                                 0%    0     0.0KB/s   --:-- ETAsite_global.css                               100%   10KB   9.8KB/s   00:00    
+haidar.html                                     0%    0     0.0KB/s   --:-- ETAhaidar.html                                   100%   29KB  28.7KB/s   00:00    
+0_0_0_0_70__news_titan x money.jpg              0%    0     0.0KB/s   --:-- ETA0_0_0_0_70__news_titan x money.jpg            100%   46KB  46.1KB/s   00:00    
+1-onesmallchip-u3380-fr.jpg                     0%    0     0.0KB/s   --:-- ETA1-onesmallchip-u3380-fr.jpg                   100%   64KB  64.4KB/s   00:00    
+120327043014-computer-chip-super-flops-horizo   0%    0     0.0KB/s   --:-- ETA120327043014-computer-chip-super-flops-horizo 100%  103KB 103.5KB/s   00:00    
+129-960x623.jpg                                 0%    0     0.0KB/s   --:-- ETA129-960x623.jpg                               100%   29KB  28.8KB/s   00:00    
+36.jpg                                          0%    0     0.0KB/s   --:-- ETA36.jpg                                        100%   41KB  41.2KB/s   00:00    
+403150_290183501033602_149867701_n.jpg          0%    0     0.0KB/s   --:-- ETA403150_290183501033602_149867701_n.jpg        100%   62KB  62.1KB/s   00:00    
+672x372xwhatis-672x372jpgpagespeedicokremyjz2   0%    0     0.0KB/s   --:-- ETA672x372xwhatis-672x372jpgpagespeedicokremyjz2 100%   27KB  27.0KB/s   00:00    
+air-traffic-over-europe.jpg                     0%    0     0.0KB/s   --:-- ETAair-traffic-over-europe.jpg                   100%  110KB 109.7KB/s   00:00    
+boat.jpg                                        0%    0     0.0KB/s   --:-- ETAboat.jpg                                      100%   11KB  10.6KB/s   00:00    
+boat96x68.jpg                                   0%    0     0.0KB/s   --:-- ETAboat96x68.jpg                                 100% 7462     7.3KB/s   00:00    
+byblos.jpg                                      0%    0     0.0KB/s   --:-- ETAbyblos.jpg                                    100%   97KB  97.4KB/s   00:00    
+cactus-crop-u2216.jpg                           0%    0     0.0KB/s   --:-- ETAcactus-crop-u2216.jpg                         100% 7856     7.7KB/s   00:00    
+carbon_emissions_03.jpg                         0%    0     0.0KB/s   --:-- ETAcarbon_emissions_03.jpg                       100%  159KB 159.2KB/s   00:00    
+chip.jpg                                        0%    0     0.0KB/s   --:-- ETAchip.jpg                                      100%   88KB  88.0KB/s   00:00    
+codeeval2015001.jpg                             0%    0     0.0KB/s   --:-- ETAcodeeval2015001.jpg                           100%   59KB  59.4KB/s   00:00    
+combined-web-languages-u2694-fr.png             0%    0     0.0KB/s   --:-- ETAcombined-web-languages-u2694-fr.png           100%   53KB  53.0KB/s   00:00    
+computer-engineering01_web.jpg                  0%    0     0.0KB/s   --:-- ETAcomputer-engineering01_web.jpg                100%   59KB  58.9KB/s   00:00    
+cropped-programmingoop_wallpaper_black_by_hex   0%    0     0.0KB/s   --:-- ETAcropped-programmingoop_wallpaper_black_by_hex 100%   53KB  52.6KB/s   00:00    
+data_visualization_navegacoes.jpg               0%    0     0.0KB/s   --:-- ETAdata_visualization_navegacoes.jpg             100%   88KB  87.6KB/s   00:00    
+dollarfinger-istock_000070391179_medium.jpg     0%    0     0.0KB/s   --:-- ETAdollarfinger-istock_000070391179_medium.jpg   100% 5027     4.9KB/s   00:00    
+dsc_0228.jpg                                    0%    0     0.0KB/s   --:-- ETAdsc_0228.jpg                                  100%   82KB  81.9KB/s   00:00    
+dsc_0250.jpg                                    0%    0     0.0KB/s   --:-- ETAdsc_0250.jpg                                  100%   83KB  83.3KB/s   00:00    
+dsc_0367.jpg                                    0%    0     0.0KB/s   --:-- ETAdsc_0367.jpg                                  100%   81KB  81.3KB/s   00:00    
+facebook.png                                    0%    0     0.0KB/s   --:-- ETAfacebook.png                                  100%   33KB  33.1KB/s   00:00    
+favicon.ico                                     0%    0     0.0KB/s   --:-- ETAfavicon.ico                                   100% 4414     4.3KB/s   00:00    
+g.png                                           0%    0     0.0KB/s   --:-- ETAg.png                                         100% 2036     2.0KB/s   00:00    
+img_1903-crop-u2150.jpg                         0%    0     0.0KB/s   --:-- ETAimg_1903-crop-u2150.jpg                       100% 7017     6.9KB/s   00:00    
+img_1903-crop-u2199.jpg                         0%    0     0.0KB/s   --:-- ETAimg_1903-crop-u2199.jpg                       100% 7017     6.9KB/s   00:00    
+inversion-1-u2693-fr.jpg                        0%    0     0.0KB/s   --:-- ETAinversion-1-u2693-fr.jpg                      100%   43KB  42.7KB/s   00:00    
+lung-on-chip-u2862-fr.jpg                       0%    0     0.0KB/s   --:-- ETAlung-on-chip-u2862-fr.jpg                     100%   59KB  58.9KB/s   00:00    
+machinelearninganddataminingwordle-u4347-fr.j   0%    0     0.0KB/s   --:-- ETAmachinelearninganddataminingwordle-u4347-fr.j 100%   89KB  89.5KB/s   00:00    
+maxresdefault-u2692-fr.jpg                      0%    0     0.0KB/s   --:-- ETAmaxresdefault-u2692-fr.jpg                    100%   36KB  36.2KB/s   00:00    
+memnet-mit-csail_0-crop-u2211.jpg               0%    0     0.0KB/s   --:-- ETAmemnet-mit-csail_0-crop-u2211.jpg             100% 8609     8.4KB/s   00:00    
+msdatacenter12513-u4348-fr.jpg                  0%    0     0.0KB/s   --:-- ETAmsdatacenter12513-u4348-fr.jpg                100%  115KB 114.6KB/s   00:00    
+obama-science.jpg                               0%    0     0.0KB/s   --:-- ETAobama-science.jpg                             100%   27KB  27.2KB/s   00:00    
+pic-18.jpg                                      0%    0     0.0KB/s   --:-- ETApic-18.jpg                                    100%   30KB  29.6KB/s   00:00    
+pic030-300dpi.jpg                               0%    0     0.0KB/s   --:-- ETApic030-300dpi.jpg                             100%  163KB 163.0KB/s   00:00    
+rg.png                                          0%    0     0.0KB/s   --:-- ETArg.png                                        100%   16KB  16.1KB/s   00:00    
+riboions-u3916-fr.jpg                           0%    0     0.0KB/s   --:-- ETAriboions-u3916-fr.jpg                         100%  205KB 204.8KB/s   00:00    
+road.jpg                                        0%    0     0.0KB/s   --:-- ETAroad.jpg                                      100% 6101     6.0KB/s   00:00    
+rss.png                                         0%    0     0.0KB/s   --:-- ETArss.png                                       100%   34KB  33.5KB/s   00:00    
+shutterstock_148957235.jpg                      0%    0     0.0KB/s   --:-- ETAshutterstock_148957235.jpg                    100%   74KB  74.1KB/s   00:00    
+sw.png                                          0%    0     0.0KB/s   --:-- ETAsw.png                                        100%   18KB  18.4KB/s   00:00    
+tianhe 2 corridor-u3917-fr.jpg                  0%    0     0.0KB/s   --:-- ETAtianhe 2 corridor-u3917-fr.jpg                100%   66KB  66.3KB/s   00:00    
+tianhe 2 corridor.jpg                           0%    0     0.0KB/s   --:-- ETAtianhe 2 corridor.jpg                         100%  131KB 131.2KB/s   00:00    
+tweeter.png                                     0%    0     0.0KB/s   --:-- ETAtweeter.png                                   100% 1154     1.1KB/s   00:00    
+twitter.png                                     0%    0     0.0KB/s   --:-- ETAtwitter.png                                   100%   33KB  33.5KB/s   00:00    
+us__en_us__ibm100__sci_research_lab__fractal_   0%    0     0.0KB/s   --:-- ETAus__en_us__ibm100__sci_research_lab__fractal_ 100%   11KB  11.3KB/s   00:00    
+what-is-aws-and-how-did-it-bring-down-instagr   0%    0     0.0KB/s   --:-- ETAwhat-is-aws-and-how-did-it-bring-down-instagr 100%   71KB  70.6KB/s   00:00    
+index.html                                      0%    0     0.0KB/s   --:-- ETAindex.html                                    100%   22KB  21.5KB/s   00:00    
+scale.fix.js                                    0%    0     0.0KB/s   --:-- ETAscale.fix.js                                  100%  536     0.5KB/s   00:00    
+muse_manifest.xml                               0%    0     0.0KB/s   --:-- ETAmuse_manifest.xml                             100% 7685     7.5KB/s   00:00    
+html5shiv.js                                    0%    0     0.0KB/s   --:-- ETAhtml5shiv.js                                  100% 2388     2.3KB/s   00:00    
+jquery-1.8.3.min.js                             0%    0     0.0KB/s   --:-- ETAjquery-1.8.3.min.js                           100%   92KB  91.9KB/s   00:00    
+jquery.musemenu.js                              0%    0     0.0KB/s   --:-- ETAjquery.musemenu.js                            100% 5803     5.7KB/s   00:00    
+jquery.museoverlay.js                           0%    0     0.0KB/s   --:-- ETAjquery.museoverlay.js                         100% 4284     4.2KB/s   00:00    
+jquery.musepolyfill.bgsize.js                   0%    0     0.0KB/s   --:-- ETAjquery.musepolyfill.bgsize.js                 100% 5561     5.4KB/s   00:00    
+jquery.watch.js                                 0%    0     0.0KB/s   --:-- ETAjquery.watch.js                               100% 1295     1.3KB/s   00:00    
+museutils.js                                    0%    0     0.0KB/s   --:-- ETAmuseutils.js                                  100%   34KB  34.2KB/s   00:00    
+musewpdisclosure.js                             0%    0     0.0KB/s   --:-- ETAmusewpdisclosure.js                           100% 3928     3.8KB/s   00:00    
+musewpslideshow.js                              0%    0     0.0KB/s   --:-- ETAmusewpslideshow.js                            100%   17KB  17.0KB/s   00:00    
+pie.js                                          0%    0     0.0KB/s   --:-- ETApie.js                                        100%   50KB  50.2KB/s   00:00    
+touchswipe.js                                   0%    0     0.0KB/s   --:-- ETAtouchswipe.js                                 100% 9735     9.5KB/s   00:00    
+webpro.js                                       0%    0     0.0KB/s   --:-- ETAwebpro.js                                     100%   43KB  43.4KB/s   00:00    
+sitemap.xml                                     0%    0     0.0KB/s   --:-- ETAsitemap.xml                                   100% 2804     2.7KB/s   00:00    
+github-light.css                                0%    0     0.0KB/s   --:-- ETAgithub-light.css                              100% 2721     2.7KB/s   00:00    
+styles.css                                      0%    0     0.0KB/s   --:-- ETAstyles.css                                    100% 3526     3.4KB/s   00:00    
+typescript                                      0%    0     0.0KB/s   --:-- ETAtypescript                                    100%   14KB  13.6KB/s   00:00    
+bash-3.2$ more typescript 
+[?1h=Script started on Mon Jan 11 12:01:24 2016
+[7mESC[27m[?1034hbash-3.2$ !scp
+bash: !scp: event not found
+bash-3.2$ [7mESC[27m[3Psudo gem install rails[7m^MESC[27m[C[7mESC[27m[C[7mESC[27m[C[7mESC[27m[C[7mESC[27m[C[7mESC[27m[C[7mESC[27m[C[7mESC[27m[C [7mESC[27m[C[7mESC[27m[Crails[7mESC^H^H[27muby[7mESC[27mn[7mESC[27m[[7mESC[27m[[7mESC[27m[[7mESC[27m[K[7m^G[27mscp -r * root@vlsi.byblos.lau.ed u.lb:/srv/www/htdocs
+Password: 
+[7m^M[27mcsc320.html                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc320.html                                   100%   21KB  21.3KB/s   00:00     
+[7m^M[27mcsc322.html                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc322.html                                   100%   23KB  22.9KB/s   00:00     
+[7m^M[27mcsc375.html                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc375.html                                   100%   28KB  28.0KB/s   00:00     
+[7m^M[27mcsc443.html                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc443.html                                   100%   26KB  26.1KB/s   00:00     
+[7m^M[27mcsc447.html                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc447.html                                   100%   23KB  22.6KB/s   00:00     
+[7m^M[27mcsc611.html                                     0%    0     0.0KB/s   --:-- ET [7mtypescript[27m[K[KA[7m^M[27mcsc611.html                                   100%   28KB  27.8KB/s   00:00     
+[7m^M[27mcsc632.html                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc632.html                                   100%   28KB  27.8KB/s   00:00     
+[7m^M[27mcsc688c.html                                    0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc688c.html                                  100%   28KB  27.8KB/s   00:00     
+[7m^M[27mcsc688n.html                                    0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc688n.html                                  100%   28KB  27.8KB/s   00:00     
+[7m^M[27mcsc320.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc320.css                                    100%   25KB  24.8KB/s   00:00     
+[7m^M[27mcsc322.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc322.css                                    100%   24KB  23.9KB/s   00:00     
+[7m^M[27mcsc375.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc375.css                                    100%   26KB  26.4KB/s   00:00     
+[7m^M[27mcsc443.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc443.css                                    100%   27KB  27.0KB/s   00:00     
+:[K[K[7m^M[27mcsc447.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc447.css                                    100%   25KB  25.0KB/s   00:00     
+[7m^M[27mcsc611.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc611.css                                    100%   26KB  25.6KB/s   00:00     
+[7m^M[27mcsc632.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc632.css                                    100%   26KB  25.6KB/s   00:00     
+[7m^M[27mcsc688c.css                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc688c.css                                   100%   26KB  25.6KB/s   00:00     
+[7m^M[27mcsc688n.css                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mcsc688n.css                                   100%   26KB  25.6KB/s   00:00     
+[7m^M[27mhaidar.css                                      0%    0     0.0KB/s   --:-- ET A[7m^M[27mhaidar.css                                    100%   14KB  14.4KB/s   00:00     
+[7m^M[27mindex.css                                       0%    0     0.0KB/s   --:-- ET A[7m^M[27mindex.css                                     100%   25KB  25.4KB/s   00:00     
+[7m^M[27msite_global.css                                 0%    0     0.0KB/s   --:-- ET A[7m^M[27msite_global.css                               100%   10KB   9.8KB/s   00:00   :[K[K  
+[7m^M[27mhaidar.html                                     0%    0     0.0KB/s   --:-- ET A[7m^M[27mhaidar.html                                   100%   29KB  28.7KB/s   00:00     
+[7m^M[27m0_0_0_0_70__news_titan x money.jpg              0%    0     0.0KB/s   --:-- ET A[7m^M[27m0_0_0_0_70__news_titan x money.jpg            100%   46KB  46.1KB/s   00:00     
+[7m^M[27m1-onesmallchip-u3380-fr.jpg                     0%    0     0.0KB/s   --:-- ET A[7m^M[27m1-onesmallchip-u3380-fr.jpg                   100%   64KB  64.4KB/s   00:00     
+[7m^M[27m120327043014-computer-chip-super-flops-horizo   0%    0     0.0KB/s   --:-- ET A[7m^M[27m120327043014-computer-chip-super-flops-horizo 100%  103KB 103.5KB/s   00:00     
+[7m^M[27m129-960x623.jpg                                 0%    0     0.0KB/s   --:-- ET A[7m^M[27m129-960x623.jpg                               100%   29KB  28.8KB/s   00:00     
+[7m^M[27m36.jpg                                          0%    0     0.0KB/s   --:-- ET A[7m^M[27m36.jpg                                        100%   41KB  41.2KB/s   00:00     
+[7m^M[27m403150_290183501033602_149867701_n.jpg          0%    0     0.0KB/s   --:-- ET A[7m^M[27m403150_290183501033602_149867701_n.jpg        100%   62KB  62.1KB/s   00:00     
+[7m^M[27m672x372xwhatis-672x372jpgpagespeedicokremyjz2   0%    0     0.0KB/s   --:-- ET :[K[K[?1l>bash-3.2$ ls
+csc320.html		csc688c.html		muse_manifest.xml
+csc322.html		csc688n.html		scripts
+csc375.html		css			sitemap.xml
+csc443.html		haidar.html		stylesheets
+csc447.html		images			typescript
+csc611.html		index.html
+csc632.html		javascripts
+bash-3.2$ emacs index.html 
+[?1049h[?12;25h[?1h=[23;1H[?25l----:---F1  [1m*scratch*   [0m   All L1     (Fundamental)-----------------------------
+[A[H[?12l[?25h[?12;25h[H[2J[24d[?25lLoading encoded-kb...[K[H[?12l[?25h[?12;25h[24;22H[?25ldone[H[?12l[?25h[?12;25h[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[24;1H[?25lFor information about the GNU Project and its goals, type C-h C-p.[K[H
+[?12l[?25h[?12;25h[24d[?25lLoading image...[K[H
+[?12l[?25h[?12;25h[24;17H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lsgml-mode...[H
+[?12l[?25h[?12;25h[24;21H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lregexp-opt...[K[H
+[?12l[?25h[?12;25h[24;22H[?25ldone[H
+[?12l[?25h[?12;25h[24d[?25lLoading regexp-opt...done[K[H<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>[K
+[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K
+   if(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m\
+[A
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m\
+[A
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m\
+[A
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"index.css"[39;49m], [38;5;138m"ou[39;49m\
+[A
+[38;5;138mtOfDate"[39;49m:[]};[K
+</[38;5;21mscript[39;49m>[K
+[K
+  <[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>[K
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[K
+  <[38;5;21mtitle[39;49m>[1m[4mVLSI[0m</[38;5;21mtitle[39;49m>[K
+  [38;5;124m<!-- CSS -->[39;49m[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+[A
+>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/index.css?4257766642"[39;49m [38;5;136mid[39;49m=[38;5;138m"pa[39;49m\
+[A
+[38;5;138mgesheet"[39;49m/>[K
+  [38;5;124m<!-- Other scripts -->[39;49m[K
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mindex.html  [0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[A[H[?12l[?25h[?12;25h[24d[K[H[24d[?25l[38;5;20mM-x [39;49m[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lace-[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ling[?12l[?25h[?12;25h[?25l[38;5;20mReplace string: [39;49m[K[?12l[?25h[?12;25h[?25lv[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25lb[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25lb[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ld[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lb[?12l[?25h[?12;25h		[?25l[38;5;20m vlsi.byblos.lau.edu.lb with: [39;49m[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25lm[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25ln[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25lg[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25lu[?12l[?25h[?12;25h[?25lb[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25lo[?12l[?25h[?12;25h[?25lMark set[K[H[?12l[?25h[?12;25h[24d[?25lReplaced 0 occurrences[H[?12l[?25h[?12;25h[24d[K[H[24d[?25l[38;5;20mM-x [39;49m[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lace-[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ling[?12l[?25h[?12;25h[?25l[38;5;20mReplace string (default vlsi.byblos.lau.edu.lb -> harmanani.github.io): [39;49m[?12l[?25h[?12;25h[?25lv[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[K[K[K[K[?25lText is read-only[K[?12l[?25h[?12;25h[?25l[38;5;20mReplace string (default vlsi.byblos.lau.edu.lb -> harmanani.github.io): [39;49m[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h		[?25l[38;5;20myes with: [39;49m[K[?12l[?25h[?12;25h[?25lESC C-M-g is undefined[K[?12l[?25h[?12;25h[?25lQuit[K[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lv[?12l[?25h[?12;25h[H[5;24H[?25l[38;5;153m[45mv[39;49m[23;33H[30m[48;5;250m5[39;49m[5;25H[?12l[?25h[?12;25h[24;12H[?25ll[?12l[?25h[?12;25h[5;25H[?25l[38;5;138mv[39;49m[16;10H[1m[4m[38;5;153m[45mVL[0m[39;49m[23;33H[30m[48;5;250m12[39;49m[16;12H[?12l[?25h[?12;25h[24;13H[?25ls[?12l[?25h[?12;25h[16;12H[?25l[1m[4m[38;5;153m[45mS[0m[39;49m[?12l[?25h[?12;25h[24;14H[?25li[?12l[?25h[?12;25h[16;13H[?25l[1m[4m[38;5;153m[45mI[0m[39;49m[?12l[?25h[?12;25h[24;15H[16;14H[H[?25l    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"museBGSize clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2874"[39;49m>[38;5;124m<!-- group -->[39;49m
+     <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2875-4"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://har[39;49m\
+[38;5;138mmanani.github.io/classes/csc443/csc443.html"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CSC 632: ULSI T\
+esting</[38;5;21mp[39;49m></[38;5;21ma[39;49m>[5;3H  </[38;5;21mdiv[39;49m>[K[6;4H <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pu2873-4"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2873-4"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://har[39;49m
+[38;5;138mmanani.github.io/classes/csc375/csc375.html"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CSC 375: Datatb
+ase Mangement Sys</[38;5;21mp[39;49m></[38;5;21ma[39;49m>[K
+     <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"museBGSize clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2876"[39;49m>[38;5;124m<!-- group -->[39;49m
+      <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3307-4"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://ha[39;49m\
+[38;5;138mrmanani.github.io/classes/csc443/csc443.html"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CSC 688N: [38;5;153m[45mVLSI[39;49m\
+[CDesign Automation</[38;5;21mp[39;49m></[38;5;21ma[39;49m>[K[14;3H   </[38;5;21mdiv[39;49m>[K[15;3H  </[38;5;21mdiv[39;49m>[K[16;3H  <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"anchor_item colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"bio"[39;49m></[38;5;21ma[39;49m>[17;3H  <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pu2194"[39;49m>[38;5;124m<!-- group -->[39;49m[18;3H   <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2194"[39;49m>[38;5;124m<!-- simple frame -->[39;49m</[38;5;21mdiv[39;49m>[K
+     <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2195-3"[39;49m>[38;5;124m<!-- content -->[39;49m[20;3H    <[38;5;21mp[39;49m>[38;5;136m&nbsp;[39;49m</[38;5;21mp[39;49m>[K
+     </[38;5;21mdiv[39;49m>[22;3H   <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Name clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2196-4"[39;49m>[38;5;124m<!-- content -->[39;49m[23;28H[30m[48;5;250m46% L169[39;49m[13;1H[?12l[?25h[?12;25h[24;15H[?25l[8@[38;5;20mFailing [39;49m[13;1H[?12l[?25h[?12;25h[24d[K[13d[24d[?25lESC[13;1H[?12l[?25h[?12;25h[24;4H[?25l-[13;1H[?12l[?25h[?12;25h[24;4H[?25l C-x[13;1H[?12l[?25h[?12;25h[24d[?25lMark saved where search started[13;1H[?12l[?25h[?12;25h[12;76H[?25lVLSI[23;44H[30m[48;5;250m)--------[39;49m[13;1H[?12l[?25h[?12;25h[24d[?25lC-M-x C-s is undefined[K[13;1H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[K[13;1H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[13;1H[?12l[?25h[?12;25h[24d[?25lQuit[K[23;44H[30m[48;5;250m)--------[39;49m[13;1H[?12l[?25h[?12;25h[24d[K[13d[24d[?25l(No changes need to be saved)[13;1H[?12l[?25h[?12;25h[24d[K[13d[24d[?25l(No changes need to be saved)[13;1H[?12l[?25h[?12;25h[24d[K[13d[24d[?25l(No changes need to be saved)[13;1H[?12l[?25h[?12;25h[24d[K[13d[24d[?25l(No changes need to be saved)[13;1H[?12l[?25h[?12;25h[24d[K[13d[24d[?25lC-x[13;1H[?12l[?25h[?12;25h[24;4H[?25l-[13;1H[?12l[?25h[?12;25h[24;4H[?25l C-x[13;1H[?12l[?25h[?12;25h[H[?25l<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>[K
+[K[5;3H<[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[6;4Hif(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m\
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"index.css"[39;49m], [38;5;138m"ou[39;49m\
+[38;5;138mtOfDate"[39;49m:[]};[K
+</[38;5;21mscript[39;49m>[K
+[K
+[C <[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>[14;3H<[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>[15;3H<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[16;3H<[38;5;21mtitle[39;49m>[1m[4mVLSI[0m</[38;5;21mtitle[39;49m>[K[17;3H[38;5;124m<!-- CSS -->[39;49m[K[18;3H<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+>[K
+[C<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/index.css?4257766642"[39;49m [38;5;136mid[39;49m=[38;5;138m"pa[39;49m\
+[38;5;138mgesheet"[39;49m/>[K[22;3H[38;5;124m<!-- Other scripts -->[39;49m[K[23;28H[30m[48;5;250mTop L1  [39;49m[H[?12l[?25h[?12;25h[24d[K[H[24d[?25lESC[H[?12l[?25h[?12;25h[24;4H[?25l-[H[?12l[?25h[?12;25h[24;4H[?25l C-x[H[?12l[?25h[?12;25h[24;8H[?25l-[H[?12l[?25h[?12;25h[24;8H[?25l C-s[H[?12l[?25h[?12;25h[24d[?25lC-M-x C-s is undefined[H[?12l[?25h[?12;25h[24d[K[H[24d[?25lESC[H[?12l[?25h[?12;25h[24;4H[?25l-[H[?12l[?25h[?12;25h[24;4H[?25l ESC[H[?12l[?25h[?12;25h[24;8H[?25l-[H[?12l[?25h[?12;25h[24;8H[?25l x[H[?12l[?25h[?12;25h[24;5H[?25lM-x is undefined[H[?12l[?25h[?12;25h[24d[K[H[24d[?25lESC[H[?12l[?25h[?12;25h[24;4H[?25l-[H[?12l[?25h[?12;25h[24d[?25lC-M-g is undefined[H[?12l[?25h[?12;25h[24d[?25lQuit[K[H[?12l[?25h[?12;25h[24d[K[H[24d[?25lC-x[H[?12l[?25h[?12;25h[24;4H[?25l-[H[?12l[?25h[?12;25h[24;4H[?25l C-x[H[?12l[?25h[?12;25h[?25l    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"museBGSize clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2874"[39;49m>[38;5;124m<!-- group -->[39;49m
+     <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2875-4"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://har[39;49m\
+[38;5;138mmanani.github.io/classes/csc443/csc443.html"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CSC 632: ULSI T\
+esting</[38;5;21mp[39;49m></[38;5;21ma[39;49m>[5;3H  </[38;5;21mdiv[39;49m>[K[6;4H <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pu2873-4"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2873-4"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://har[39;49m
+[38;5;138mmanani.github.io/classes/csc375/csc375.html"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CSC 375: Datatb
+ase Mangement Sys</[38;5;21mp[39;49m></[38;5;21ma[39;49m>[K
+     <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"museBGSize clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2876"[39;49m>[38;5;124m<!-- group -->[39;49m
+      <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3307-4"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://ha[39;49m\
+[38;5;138mrmanani.github.io/classes/csc443/csc443.html"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CSC 688N: VLSI\
+[CDesign Automation</[38;5;21mp[39;49m></[38;5;21ma[39;49m>[K[14;3H   </[38;5;21mdiv[39;49m>[K[15;3H  </[38;5;21mdiv[39;49m>[K[16;3H  <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"anchor_item colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"bio"[39;49m></[38;5;21ma[39;49m>[17;3H  <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pu2194"[39;49m>[38;5;124m<!-- group -->[39;49m[18;3H   <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2194"[39;49m>[38;5;124m<!-- simple frame -->[39;49m</[38;5;21mdiv[39;49m>[K
+     <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2195-3"[39;49m>[38;5;124m<!-- content -->[39;49m[20;3H    <[38;5;21mp[39;49m>[38;5;136m&nbsp;[39;49m</[38;5;21mp[39;49m>[K
+     </[38;5;21mdiv[39;49m>[22;3H   <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Name clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2196-4"[39;49m>[38;5;124m<!-- content -->[39;49m[23;28H[30m[48;5;250m46% L169[39;49m[13;1H[?12l[?25h[?12;25h[24d[K[13d[24d[?25l(No files need saving)[13;1H[?12l[?25h[?12;25h[24d[K[?1l>[?12l[?25h[?1049l[39;49mbash-3.2$ ls
+csc320.html		csc688c.html		muse_manifest.xml
+csc322.html		csc688n.html		scripts
+csc375.html		css			sitemap.xml
+csc443.html		haidar.html		stylesheets
+csc447.html		images			typescript
+csc611.html		index.html
+csc632.html		javascripts
+bash-3.2$ e[Kemacs csc320.html 
+[?1049h[?12;25h[?1h=[23;1H[?25l----:---F1  [1m*scratch*   [0m   All L1     (Fundamental)-----------------------------
+[A[H[?12l[?25h[?12;25h[H[2J[24d[?25lLoading encoded-kb...[K[H[?12l[?25h[?12;25h[24;22H[?25ldone[H[?12l[?25h[?12;25h[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[24;1H[?25lFor information about the GNU Project and its goals, type C-h C-p.[K[H
+[?12l[?25h[?12;25h[24d[?25lLoading image...[K[H
+[?12l[?25h[?12;25h[24;17H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lsgml-mode...[H
+[?12l[?25h[?12;25h[24;21H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lregexp-opt...[K[H
+[?12l[?25h[?12;25h[24;22H[?25ldone[H
+[?12l[?25h[?12;25h[24d[?25lLoading regexp-opt...done[K[H<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>[K
+[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K
+   if(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m\
+[A
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m\
+[A
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m\
+[A
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc320.css"[39;49m], [38;5;138m"o[39;49m\
+[A
+[38;5;138mutOfDate"[39;49m:[]};[K
+</[38;5;21mscript[39;49m>[K
+[K
+  <[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>[K
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[K
+  <[38;5;21mtitle[39;49m>[1m[4mCSC320[0m</[38;5;21mtitle[39;49m>[K
+  [38;5;124m<!-- CSS -->[39;49m[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+[A
+>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc320.css?121478203"[39;49m [38;5;136mid[39;49m=[38;5;138m"pa[39;49m\
+[A
+[38;5;138mgesheet"[39;49m/>[K
+  [38;5;124m<!-- Other scripts -->[39;49m[K
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc320.html [0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[A[H[?12l[?25h[?12;25h[24d[K[H[24d[?25l[38;5;20mM-x [39;49m[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25le[?12l[?25h[?12;25h[?25lp[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25lace-[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lt[?12l[?25h[?12;25h[?25lr[?12l[?25h[?12;25h[?25ling[?12l[?25h[?12;25h[?25l[38;5;20mReplace string: [39;49m[K[?12l[?25h[?12;25h[?25lESC C-M-g is undefined[?12l[?25h[?12;25h[?25l[38;5;20mI-search: [39;49m[K[?12l[?25h[?12;25h[?25lv[?12l[?25h[?12;25h[?25l[8@[38;5;20mFailing [39;49m[24;20H[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25l[38;5;20mReplace string: [39;49m[K[?12l[?25h[?12;25h[?25lC-M-g is undefined[?12l[?25h[?12;25h[?25l[38;5;20mI-search: [39;49m[K[?12l[?25h[?12;25h[?25lv[?12l[?25h[?12;25h[?25l[8@[38;5;20mFailing [39;49m[24;20H[?12l[?25h[?12;25h[?25ll[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25l.[?12l[?25h[?12;25h[?25lb[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25l[38;5;20mReplace string: [39;49m[K[?12l[?25h[?12;25h		[?25l[38;5;20m  with: [39;49m[?12l[?25h[?12;25h[?25lESC C-M-g is undefined[?12l[?25h[?12;25h[?25lQuit[K[H[?12l[?25h[?12;25h[24d[K[A				[?25l[30m[48;5;250m2[39;49m[H
+[?12l[?25h[?12;25h[23;33H[?25l[30m[48;5;250m3[39;49m[H
+
+[?12l[?25h[?12;25h[23;33H[?25l[30m[48;5;250m4[39;49m[4;1H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[4;1H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[4;1H[?12l[?25h[?12;25h[24;11H[?25lv[?12l[?25h[?12;25h[4;1H
+			[?25l[38;5;153m[45mv[39;49m[23;33H[30m[48;5;250m5[39;49m[5;25H[?12l[?25h[?12;25h[24;12H[?25ll[?12l[?25h[?12;25h[5;25H[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3392"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3392"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3393"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3394"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvl[39;49m[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3407"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3410"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc320.html#csc320"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3411-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CS\
+C 320</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 7% L36[39;49m[13;29H[?12l[?25h[?12;25h[24;13H[?25ls[?12l[?25h[?12;25h[13;29H[?25l[38;5;153m[45ms[39;49m[?12l[?25h[?12;25h[24;14H[?25li[?12l[?25h[?12;25h[13;30H[?25l[38;5;153m[45mi[39;49m[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13;31H[?12l[?25h[?12;25h[24;1H[K[13;27H[?25l[38;5;138mvlsi[39;49m[23;34H[30m[48;5;250m7    (HTML)--------[39;49m[16;13H[?12l[?25h[?12;25h[23;34H[?25l[30m[48;5;250m6[39;49m[13;31H[?12l[?25h[?12;25h[?25l[38;5;138mlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HO
+[1P[23;6H[30m[48;5;250m**[39;49m[13;27H[?12l[?25h[?12;25h[?25l[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138m.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclas[39;49m
+[C=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME<
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclas[39;49m
+=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138myblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=
+[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"[39;49m
+[38;5;138mMenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m>
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mlos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"M[39;49m
+[38;5;138menuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m><
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Me[39;49m
+[38;5;138mnuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></
+[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138ms.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Men[39;49m
+[38;5;138muItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21md[39;49m
+[38;5;21miv[39;49m></[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138m.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Menu[39;49m
+[38;5;138mItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdi[39;49m
+[38;5;21mv[39;49m></[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mlau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuI[39;49m
+[38;5;138mtemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m
+></[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuIt[39;49m
+[38;5;138memLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m>
+</[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mu.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuIte[39;49m
+[38;5;138mmLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m><
+/[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138m.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItem[39;49m
+[38;5;138mLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></
+[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138medu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemL[39;49m
+[38;5;138mabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m
+>[K[13;27H[?12l[?25h[?12;25h[1;22r[16;1H[1M[1;24r[13;27H[?25l[38;5;138mdu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLa[39;49m
+[38;5;138mbel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K
+      </[38;5;21mdiv[39;49m>[22;1H      </[38;5;21mdiv[39;49m>[K[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLab[39;49m
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138m.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabe[39;49m
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mlb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel[39;49m
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel [39;49m
+[1P[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mhb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel[39;49m
+[1@[38;5;138m [39;49m[13;28H[?12l[?25h[?12;25h[?25l[38;5;138mab/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabe[39;49m
+[1@[38;5;138ml[39;49m[13;29H[?12l[?25h[?12;25h[?25l[38;5;138mrb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLab[39;49m
+[1@[38;5;138me[39;49m[13;30H[?12l[?25h[?12;25h[?25l[38;5;138mmb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLa[39;49m
+[1@[38;5;138mb[39;49m[13;31H[?12l[?25h[?12;25h[1;22r[16;1H[1L[1;24r[13;31H[?25l[38;5;138mab/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemL[39;49m
+[38;5;138mabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m\
+>[K
+      </[38;5;21mdiv[39;49m>[K[13;32H[?12l[?25h[?12;25h[?25l[38;5;138mnb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItem[39;49m
+[38;5;138mLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></
+[38;5;21ma[39;49m>[13;33H[?12l[?25h[?12;25h[?25l[38;5;138mab/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuIte[39;49m
+[38;5;138mmLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m><
+/[38;5;21ma[39;49m>[13;34H[?12l[?25h[?12;25h[?25l[38;5;138mnb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuIt[39;49m
+[38;5;138memLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m>
+</[38;5;21ma[39;49m>[13;35H[?12l[?25h[?12;25h[?25l[38;5;138mib/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuI[39;49m
+[38;5;138mtemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m
+></[38;5;21ma[39;49m>[13;36H[?12l[?25h[?12;25h[?25l[38;5;138m.b/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Menu[39;49m
+[38;5;138mItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdi[39;49m
+[38;5;21mv[39;49m></[38;5;21ma[39;49m>[13;37H[?12l[?25h[?12;25h[?25l[38;5;138mgb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Men[39;49m
+[38;5;138muItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21md[39;49m
+[38;5;21miv[39;49m></[38;5;21ma[39;49m>[13;38H[?12l[?25h[?12;25h[?25l[38;5;138mib/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"Me[39;49m
+[38;5;138mnuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></
+[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[13;39H[?12l[?25h[?12;25h[?25l[38;5;138mtb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"M[39;49m
+[38;5;138menuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m><
+/[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[13;40H[?12l[?25h[?12;25h[?25l[38;5;138mhb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"[39;49m
+[38;5;138mMenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m>
+[1@<[13;41H[?12l[?25h[?12;25h[?25l[38;5;138mub/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=
+[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m
+[1@>[13;42H[?12l[?25h[?12;25h[C[?25l[38;5;138mb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m
+=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</
+[1@[38;5;21mp[39;49m[13;43H[?12l[?25h[?12;25h[?25l[38;5;138m.b/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136ms[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME<
+[1@/[13;44H[?12l[?25h[?12;25h[?25l[38;5;138mib/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[C[38;5;136ms[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1@<[13;45H[?12l[?25h[?12;25h[?25l[38;5;138mob/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1@E[13;46H[?12l[?25h[?12;25h[C[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;46H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[24;1H[K[13;28H[C[C[C		[C[C[C[C[C[C		[C[C[C[C[C[1;22r[16;1H[1M[1;24r[13;27H[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel N[39;49m
+[38;5;138moWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K
+      </[38;5;21mdiv[39;49m>[K[22;1H      </[38;5;21mdiv[39;49m>[K[13;27H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[1;22r[16;1H[1L[1;24r[13;27H[?25l[38;5;138mharmanani.github.io/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3397-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME\
+</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>
+      </[38;5;21mdiv[39;49m>[K[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25lWrote /Users/haidar/harmanani.github.io/csc320.html[13;46H[?12l[?25h[?12;25h[23;6H[?25l[30m[48;5;250m--[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25l(No files need saving)[13;46H[?12l[?25h[?12;25h[24;1H[K[?1l>[?12l[?25h[?1049l[39;49mbash-3.2$ emacs csc322.html 
+[?1049h[?12;25h[?1h=[23;1H[?25l----:---F1  [1m*scratch*   [0m   All L1     (Fundamental)-----------------------------
+[A[H[?12l[?25h[?12;25h[H[2J[24d[?25lLoading encoded-kb...[K[H[?12l[?25h[?12;25h[24;22H[?25ldone[H[?12l[?25h[?12;25h[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[24;1H[?25lFor information about the GNU Project and its goals, type C-h C-p.[K[H
+[?12l[?25h[?12;25h[24d[?25lLoading image...[K[H
+[?12l[?25h[?12;25h[24;17H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lsgml-mode...[H
+[?12l[?25h[?12;25h[24;21H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lregexp-opt...[K[H
+[?12l[?25h[?12;25h[24;22H[?25ldone[H
+[?12l[?25h[?12;25h[24d[?25lLoading regexp-opt...done[K[H<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>[K
+[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K
+   if(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m\
+[A
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m\
+[A
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m\
+[A
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc322.css"[39;49m], [38;5;138m"o[39;49m\
+[A
+[38;5;138mutOfDate"[39;49m:[]};[K
+</[38;5;21mscript[39;49m>[K
+[K
+  <[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>[K
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[K
+  <[38;5;21mtitle[39;49m>[1m[4mCSC322[0m</[38;5;21mtitle[39;49m>[K
+  [38;5;124m<!-- CSS -->[39;49m[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+[A
+>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc322.css?307890235"[39;49m [38;5;136mid[39;49m=[38;5;138m"pa[39;49m\
+[A
+[38;5;138mgesheet"[39;49m/>[K
+  [38;5;124m<!-- Other scripts -->[39;49m[K
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc322.html [0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[A[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[K[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lv[?12l[?25h[?12;25h[H[5;24H[?25l[38;5;153m[45mv[39;49m[23;33H[30m[48;5;250m5[39;49m[5;25H[?12l[?25h[?12;25h[24;12H[?25ll[?12l[?25h[?12;25h[5;25H[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3475"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3475"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3497"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3498"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvl[39;49m[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3504"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3505"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc322.html#csc322"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3508-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CS\
+C 322</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 6% L36[39;49m[13;29H[?12l[?25h[?12;25h[24;13H[?25ls[?12l[?25h[?12;25h[13;29H[?25l[38;5;153m[45ms[39;49m[?12l[?25h[?12;25h[24;14H[?25li[?12l[?25h[?12;25h[13;30H[?25l[38;5;153m[45mi[39;49m[?12l[?25h[?12;25h[24;15H[?25l.[?12l[?25h[?12;25h[13;31H[?25l[38;5;153m[45m.[39;49m[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13d[?12l[?25h[?12;25h[?25l[38;5;138mvlsi.[39;49m[23;44H[30m[48;5;250m)--------[39;49m[13;32H[?12l[?25h[?12;25h[24;1H[K[13;31H[1;22r[4;1H[13M[1;24r[1;1H[?25lvlsi.byblos.lau.edu.lb/[38;5;138m"><!-- horizontal box --><div class="[39;49mMenuItemLabel NoWra\
+p clearfix grpelem[38;5;138m" id="[39;49mu3500-4[38;5;138m"><!-- content --><p>HOME</p></div></a>          [39;49m
+[38;5;138m      </div>                                                                    [39;49m
+[10d[38;5;138m      </div>                                                                    [39;49m
+[A
+[38;5;138m      <div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3476[38;5;138m"><!-- vertical [39;49m\
+[A
+[38;5;138mbox -->                                                                         [39;49m
+[A
+[38;5;138m       <a class="[39;49mnonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem\
+[A
+[38;5;138m" id="[39;49mu3479[38;5;138m" href="[39;49mindex.html#teaching[38;5;138m"><!-- horizontal box --><div class="[39;49mMenu\
+[A
+ItemLabel NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3481-4[38;5;138m"><!-- content --><p>Teaching</p>[39;49m\
+[A
+[38;5;138m</div></a>                                                                      [39;49m
+[A
+[38;5;138m      </div>                                                                    [39;49m
+[A
+[38;5;138m      <div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3483[38;5;138m"><!-- vertical [39;49m\
+[A
+[38;5;138mbox -->                                                                         [39;49m
+[A
+[38;5;138m       <a class="[39;49mnonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem\
+[A
+[38;5;138m" id="[39;49mu3486[38;5;138m" href="[39;49mhaidar.html[38;5;138m"><!-- horizontal box --><div class="[39;49mMenuItemLabe\
+[A
+l NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3488-4[38;5;138m"><!-- content --><p>Research</p></div></[39;49m\
+[A[23;6H[30m[48;5;250m**-F1  [39;49m[1m[30m[48;5;250mcsc322.html [0m[39;49m[30m[48;5;250m   Top L1 [39;49m[H[?12l[?25h[?12;25h
+
+
+[?25l[38;5;138m      <div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3504[38;5;138m"><!-- vertical [39;49m
+[38;5;138mbox -->                                                                         [39;49m
+[38;5;138m       <a class="[39;49mnonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear
+fix colelem[38;5;138m" id="[39;49mu3505[38;5;138m" href="[39;49mcsc322.html#csc322[38;5;138m"><!-- horizontal box --><div c[39;49m
+[38;5;138mlass="[39;49mMenuItemLabel NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3508-4[38;5;138m"><!-- content --><p>CS[39;49m
+[38;5;138mC 322</p></div></a>                                                             [39;49m
+[H[?12l[?25h[?12;25h[24d[?25lUndo![H[?12l[?25h[?12;25h[1;22r[3;1H[13L[1;24r[1;1H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K
+ <[38;5;21mbody[39;49m>[K
+[K
+  <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[K
+   <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3475"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3475"[39;49m>[38;5;124m<!-- horizontal box -[39;49m\
+[A
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3497"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[A
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[A
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3498"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://vlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[A
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+[A
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;6H[30m[48;5;250m---F1  [39;49m[1m[30m[48;5;250mcsc322.html [0m[39;49m[30m[48;5;250m    6% L36[39;49m[13;27H[?12l[?25h[?12;25h
+
+
+[?25l      </[38;5;21mdiv[39;49m>[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3504"[39;49m>[38;5;124m<!-- vertical [39;49m
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3505"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc322.html#csc322"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3508-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CS
+C 322</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[13;27H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[H[?25l[38;5;138m  <![endif]-->                                                                  [39;49m
+[38;5;138m   </head>                                                                      [39;49m
+[38;5;138m <body>                                                                         [39;49m
+[38;5;138m                                                                                [39;49m
+[38;5;138m  <div class="[39;49mclearfix[38;5;138m" id="[39;49mpage[38;5;138m"><!-- column -->                               [39;49m
+[38;5;138m   <div class="[39;49mposition_content[38;5;138m" id="[39;49mpage_position_content[38;5;138m">                    [39;49m
+[38;5;138m    <div class="[39;49mclearfix colelem[38;5;138m" id="[39;49mpmenuu3475[38;5;138m"><!-- group -->                [39;49m
+[38;5;138m     <nav class="[39;49mMenuBar clearfix grpelem[38;5;138m" id="[39;49mmenuu3475[38;5;138m"><!-- horizontal box -[39;49m
+[38;5;138m->                                                                              [39;49m
+[38;5;138m      <div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3497[38;5;138m"><!-- vertical [39;49m
+[38;5;138mbox -->                                                                         [39;49m
+[38;5;138m       <a class="[39;49mnonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem
+[C[38;5;138m id="[39;49mu3498[38;5;138m" href="[39;49mhttp://vlsi.byblos.lau.edu.lb/[38;5;138m"><!-- horizontal box --><div [39;49m
+[38;5;138mclass="[39;49mMenuItemLabel NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3500-4[38;5;138m"><!-- content --><p>H[39;49m
+[38;5;138mOME</p></div></a>                                                               [39;49m
+[38;5;138m      </div>                                                                    [39;49m
+[23;6H[30m[48;5;250m**-F1  [39;49m[1m[30m[48;5;250mcsc322.html [0m[39;49m[30m[48;5;250m   13% L71[39;49m[13;27H[?12l[?25h[?12;25h
+
+
+
+[?25l[38;5;138m      <div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3504[38;5;138m"><!-- vertical [39;49m
+[38;5;138mbox -->                                                                         [39;49m
+[38;5;138m       <a class="[39;49mnonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear
+fix colelem[38;5;138m" id="[39;49mu3505[38;5;138m" href="[39;49mcsc322.html#csc322[38;5;138m"><!-- horizontal box --><div c[39;49m
+[38;5;138mlass="[39;49mMenuItemLabel NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3508-4[38;5;138m"><!-- content --><p>CS[39;49m
+[38;5;138mC 322</p></div></a>                                                             [39;49m
+[13;27H[?12l[?25h[?12;25h[1;19r[18;1H[1L[1;13r[11;1H[1L[1;24r[24;1H[K[H[?25l[38;5;138mlass="[39;49mMenuItemLabel NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3508-4[38;5;138m"><!-- content --><p>CS[39;49m\
+[38;5;138mC 322</p></div></a>[39;49m
+[C[38;5;138m     </div>[39;49m[4;7H[38;5;138m<div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3476[38;5;138m"><!-- vertical [39;49m\
+[38;5;138mbox -->                                          [39;49m[6;4H[38;5;138m    <a class="[39;49mnonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem\
+[38;5;138m" id="[39;49mu3479[38;5;138m" href="[39;49mindex.html#teaching[38;5;138m"><!-- horizontal box --><div class="[39;49mMenu\
+ItemLabel NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3481-4[38;5;138m"><!-- content --><p>Teaching</p>[39;49m
+[38;5;138m</div></a>[39;49m
+[38;5;138m/div>                                                                    [39;49m
+[38;5;138m      <div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3483[38;5;138m"><!-- vertical [39;49m\
+[A
+
+
+[38;5;138m" id="[39;49mu3486[38;5;138m" href="[39;49mhaidar.html[38;5;138m"><!-- horizontal box --><div class="[39;49mMenuItemLabe
+l NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3488-4[38;5;138m"><!-- content --><p>Research</p></div></[39;49m\
+[38;5;138ma>          [39;49m
+	[38;5;138m/div>                                                                    [39;49m
+[38;5;138m      <div class="[39;49mMenuItemContainer clearfix grpelem[38;5;138m" id="[39;49mu3490[38;5;138m"><!-- vertical [39;49m\
+[A
+
+[38;5;138m       <a class="[39;49mnonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem
+[38;5;138m" id="[39;49mu3491[38;5;138m" href="[39;49mindex.html#news[38;5;138m"><!-- horizontal box --><div class="[39;49mMenuItem
+Label NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3492-4[38;5;138m"><!-- content --><p>News</p></div></[39;49m\
+[23;29H[30m[48;5;250m7% L74[39;49m[H[?12l[?25h[?12;25h[1;23r[22;1H[1M[1;24r[24;1H[?25l[38;5;20m or C-h) [39;49m[A[38;5;20mSave file /Users/haidar/harmanani.github.io/csc322.html? (y, n, !, ., q, C-r, d[39;49m\
+[A[24;10H[?12l[?25h[?12;25h[?25l or C-h) n[ASave file /Users/haidar/harmanani.github.io/csc322.html? (y, n, !, ., q, C-r, d[24;11H[?12l[?25h[?12;25h[1;23r[22;1H[1L[1;24r[24;1H[K[22d[?25lLabel NoWrap clearfix grpelem[38;5;138m" id="[39;49mu3492-4[38;5;138m"><!-- content --><p>News</p></div></[39;49m\
+[A[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mModified buffers exist; exit anyway? (yes or no) [39;49m[?12l[?25h[?12;25h[?25ly[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[K[?25le[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[K[?1l>[?12l[?25h[?1049l[39;49mbash-3.2$ emacs csc322.html 
+[?1049h[?12;25h[?1h=[23;1H[?25l----:---F1  [1m*scratch*   [0m   All L1     (Fundamental)-----------------------------
+[A[H[?12l[?25h[?12;25h[H[2J[24d[?25lLoading encoded-kb...[K[H[?12l[?25h[?12;25h[24;22H[?25ldone[H[?12l[?25h[?12;25h[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m[?1049h[?12;25h[?1h=[24;1H[?25lFor information about the GNU Project and its goals, type C-h C-p.[K[H
+[?12l[?25h[?12;25h[24d[?25lcsc322.html has auto save data; consider M-x recover-this-file[K[H
+[?12l[?25h[?12;25h[24d[?25lcsc322.html has auto save data; consider M-x recover-this-file[K[H[7mFile Edit Options Buffers Tools Help                                            [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction)------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading image...[K[H
+[?12l[?25h[?12;25h[24;17H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lsgml-mode...[H
+[?12l[?25h[?12;25h[24;21H[?25ldone[H
+[?12l[?25h[?12;25h[24;9H[?25lregexp-opt...[K[H
+[?12l[?25h[?12;25h[24;22H[?25ldone[H
+[?12l[?25h[?12;25h[24d[?25lLoading regexp-opt...done[K[H<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>[K
+[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K
+   if(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m\
+[A
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m\
+[A
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m\
+[A
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc322.css"[39;49m], [38;5;138m"o[39;49m\
+[A
+[38;5;138mutOfDate"[39;49m:[]};[K
+</[38;5;21mscript[39;49m>[K
+[K
+  <[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>[K
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[K
+  <[38;5;21mtitle[39;49m>[1m[4mCSC322[0m</[38;5;21mtitle[39;49m>[K
+  [38;5;124m<!-- CSS -->[39;49m[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+[A
+>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc322.css?307890235"[39;49m [38;5;136mid[39;49m=[38;5;138m"pa[39;49m\
+[A
+[38;5;138mgesheet"[39;49m/>[K
+  [38;5;124m<!-- Other scripts -->[39;49m[K
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc322.html [0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[A[H[?12l[?25h[?12;25h[24d[K[A				[?25l[30m[48;5;250m2[39;49m[H
+[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H
+[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H
+[?12l[?25h[?12;25h[24;11H[?25lv[?12l[?25h[?12;25h[H
+[5;24H[?25l[38;5;153m[45mv[39;49m[23;33H[30m[48;5;250m5[39;49m[5;25H[?12l[?25h[?12;25h[24;12H[?25ll[?12l[?25h[?12;25h[5;25H[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3475"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3475"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3497"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3498"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvl[39;49m[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3504"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3505"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc322.html#csc322"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3508-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CS\
+C 322</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 6% L36[39;49m[13;29H[?12l[?25h[?12;25h[24;13H[?25ls[?12l[?25h[?12;25h[13;29H[?25l[38;5;153m[45ms[39;49m[?12l[?25h[?12;25h[24;14H[?25li[?12l[?25h[?12;25h[13;30H[?25l[38;5;153m[45mi[39;49m[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13;31H[?12l[?25h[?12;25h[24;1H[K[13;27H[?25l[38;5;138mvlsi[39;49m[23;44H[30m[48;5;250m)--------[39;49m[13;30H[?12l[?25h[?12;25h[?25l[38;5;138mhvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+[1@[14;80H\
+[1@H[23;6H[30m[48;5;250m**[39;49m[13;28H[?12l[?25h[?12;25h[?25l[38;5;138mavlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdi[39;49m
+[38;5;21mv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m
+[1@>[13;29H[?12l[?25h[?12;25h[?25l[38;5;138mrvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21md[39;49m
+[38;5;21miv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<
+[1@[38;5;21mp[39;49m[13;30H[?12l[?25h[?12;25h[?25l[38;5;138mmvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+[1@<[13;31H[?12l[?25h[?12;25h[?25l[38;5;138mavlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m
+<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content --[39;49m
+[1@[38;5;124m>[39;49m[13;32H[?12l[?25h[?12;25h[?25l[38;5;138mnvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box --[39;49m
+[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content [39;49m
+[1@[38;5;124m-[39;49m[13;33H[?12l[?25h[?12;25h[?25l[38;5;138mavlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[38;5;124m->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content [39;49m
+[C[1@[38;5;124m-[39;49m[13;34H[?12l[?25h[?12;25h[?25l[38;5;138mnvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[C[38;5;124m->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content[39;49m
+[1@[38;5;124m [39;49m[13;35H[?12l[?25h[?12;25h[?25l[38;5;138mivlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box[39;49m
+[38;5;124m -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- conten[39;49m
+[1@[38;5;124mt[39;49m[13;36H[?12l[?25h[?12;25h[?25l[38;5;138m.vlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal bo[39;49m
+[38;5;124mx -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- conte[39;49m
+[1@[38;5;124mn[39;49m[13;37H[?12l[?25h[?12;25h[?25l[38;5;138mgvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal b[39;49m
+[38;5;124mox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- cont[39;49m
+[1@[38;5;124me[39;49m[13;38H[?12l[?25h[?12;25h[?25l[38;5;138mivlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal [39;49m
+[38;5;124mbox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- con[39;49m
+[1@[38;5;124mt[39;49m[13;39H[?12l[?25h[?12;25h[?25l[38;5;138mtvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal[39;49m
+[38;5;124m box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- co[39;49m
+[1@[38;5;124mn[39;49m[13;40H[?12l[?25h[?12;25h[?25l[38;5;138mhvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizonta[39;49m
+[38;5;124ml box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- c[39;49m
+[1@[38;5;124mo[39;49m[13;41H[?12l[?25h[?12;25h[?25l[38;5;138muvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizont[39;49m
+[38;5;124mal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- [39;49m
+[1@[38;5;124mc[39;49m[13;42H[?12l[?25h[?12;25h[?25l[38;5;138mbvlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizon[39;49m
+[38;5;124mtal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!--[39;49m
+[1@[38;5;124m [39;49m[13;43H[?12l[?25h[?12;25h[?25l[38;5;138m.vlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizo[39;49m
+[38;5;124mntal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<![39;49m
+[1@[38;5;124m-[39;49m[13;44H[?12l[?25h[?12;25h[?25l[38;5;138mivlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horiz[39;49m
+[38;5;124montal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<![39;49m
+[C[1@[38;5;124m-[39;49m[13;45H[?12l[?25h[?12;25h[?25l[38;5;138movlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- hori[39;49m
+[38;5;124mzontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<[39;49m
+[1@[38;5;124m![39;49m[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horiz[39;49m
+[38;5;124montal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<![39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizo[39;49m
+[38;5;124mntal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizon[39;49m
+[38;5;124mtal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizont[39;49m
+[38;5;124mal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizonta[39;49m
+[38;5;124ml box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- c[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138myblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal[39;49m
+[38;5;124m box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- co[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal [39;49m
+[38;5;124mbox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- con[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal b[39;49m
+[38;5;124mox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- cont[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal bo[39;49m
+[38;5;124mx -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- conte[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138ms.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box[39;49m
+[38;5;124m -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- conten[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[38;5;124m-->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[C[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m
+<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138medu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21md[39;49m
+[38;5;21miv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mdu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdi[39;49m
+[38;5;21mv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+ [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m 
+[1P[14;79HH\
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HO
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;46H[?12l[?25h[?12;25h[24;1H[?25lWrote /Users/haidar/harmanani.github.io/csc322.html[13;46H[?12l[?25h[?12;25h[23;6H[?25l[30m[48;5;250m--[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;45H[?25l[38;5;138m harmanani.github.io/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1@E[23;6H[30m[48;5;250m**[39;49m[13;28H[?12l[?25h[?12;25h[?25l[38;5;138mharmanani.github.io/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;27H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[24;1H[K[13;28H[C[C[C		[C[C[C[C[C[C		[C[C[C[C[C[1;22r[16;1H[1M[1;24r[13;27H[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel N[39;49m
+[38;5;138moWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K
+      </[38;5;21mdiv[39;49m>[K[22;1H      </[38;5;21mdiv[39;49m>[K[13;27H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[1;22r[16;1H[1L[1;24r[13;27H[?25l[38;5;138mharmanani.github.io/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME\
+</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>
+      </[38;5;21mdiv[39;49m>[K[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25lWrote /Users/haidar/harmanani.github.io/csc322.html[13;46H[?12l[?25h[?12;25h[23;6H[?25l[30m[48;5;250m--[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25lMaking completion list...[K[?12l[?25h[?12;25h[?25lLoading help-mode...[K[?12l[?25h[?12;25h[?25ldone[?12l[?25h[?12;25h[?25lLoading help-mode...done[K[H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3475"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3475"[39;49m>[38;5;124m<!-- horizontal box -[39;49m\
+[A
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3497"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[A
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[A
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3498"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://harmanani.github.io/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m\
+[A
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3500-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME\
+[A
+</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K
+      </[38;5;21mdiv[39;49m>[K
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc322.html [0m[39;49m[30m[48;5;250m    7% L36    (HTML)------------------------------------[39;49m
+[A
+In this buffer, type RET to select the completion near point.[K
+[K
+Possible completions are:[K
+csc[1m3[0m20.html                        csc[1m3[0m20.html~[K
+csc[1m3[0m22.html                        csc[1m3[0m22.html~[K
+csc[1m3[0m75.html                        csc[1m4[0m43.html[K
+csc[1m4[0m47.html                        csc[1m6[0m11.html[K
+csc[1m6[0m32.html                        csc[1m6[0m88c.html[K
+csc[1m6[0m88n.html[K
+[K
+[K
+[38;5;236m[47m-uuu:%%-F1  [0m[39;49m[1m[38;5;236m[47m*Completions*[0m[39;49m[38;5;236m[47m   All L1     (Completion List)------------------------[0m[39;49m
+[A
+			[?12l[?25h[?12;25h[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/csc4[?12l[?25h[?12;25h[?25l4[?12l[?25h[?12;25h[?25lMaking completion list...[K[?12l[?25h[?12;25h[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/csc44[15;4H44[1m3[0m.html                        csc44[1m7[0m.html[K
+[K
+[K
+[K
+[K
+[K[24;39H[?12l[?25h[?12;25h[?25l3[?12l[?25h[?12;25h[?25l.html[?12l[?25h[?12;25h[K[H[?25l<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>
+[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[6;4Hif(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc443.css"[39;49m], [38;5;138m"o[39;49m\
+[38;5;138mutOfDate"[39;49m:[]};
+</[38;5;21mscript[39;49m>[K
+[K[13;3H<[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[16;3H<[38;5;21mtitle[39;49m>[1m[4mCSC443[0m</[38;5;21mtitle[39;49m>[17;3H[38;5;124m<!-- CSS -->[39;49m[18;3H<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+>
+[C<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc443.css?3819830156"[39;49m [38;5;136mid[39;49m=[38;5;138m"p[39;49m\
+[38;5;138magesheet"[39;49m/>[22;3H[38;5;124m<!-- Other scripts -->[39;49m
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc443.html [0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lv[?12l[?25h[?12;25h[H[5;24H[?25l[38;5;153m[45mv[39;49m[23;33H[30m[48;5;250m5[39;49m[5;25H[?12l[?25h[?12;25h[24;12H[?25ll[?12l[?25h[?12;25h[5;25H[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3270"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3270"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3292"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3293"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvl[39;49m[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3285"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3288"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc443.html#csc443"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3291-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CS\
+C 443</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 6% L36[39;49m[13;29H[?12l[?25h[?12;25h[24;13H[?25ls[?12l[?25h[?12;25h[13;29H[?25l[38;5;153m[45ms[39;49m[?12l[?25h[?12;25h[24;14H[?25li[?12l[?25h[?12;25h[13;30H[?25l[38;5;153m[45mi[39;49m[?12l[?25h[?12;25h[24;15H[?25l.[?12l[?25h[?12;25h[13;31H[?25l[38;5;153m[45m.[39;49m[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13d[?12l[?25h[?12;25h[24;1H[K[13;27H[?25l[38;5;138mvlsi.[39;49m[23;44H[30m[48;5;250m)--------[39;49m[13;31H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mharmanani.github.iovlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- hori[39;49m
+[38;5;124mzontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<[39;49m
+[19@[38;5;124m!-- content -->[39;49m<[38;5;21mp[39;49m>H[23;6H[30m[48;5;250m**[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[?25l[38;5;138mlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horiz[39;49m
+[38;5;124montal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<![39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizo[39;49m
+[38;5;124mntal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizon[39;49m
+[38;5;124mtal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizont[39;49m
+[38;5;124mal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizonta[39;49m
+[38;5;124ml box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- c[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138myblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal[39;49m
+[38;5;124m box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- co[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal [39;49m
+[38;5;124mbox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- con[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal b[39;49m
+[38;5;124mox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- cont[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal bo[39;49m
+[38;5;124mx -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- conte[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138ms.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box[39;49m
+[38;5;124m -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- conten[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[38;5;124m-->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[C[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m
+<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138medu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21md[39;49m
+[38;5;21miv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m<
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mdu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdi[39;49m
+[38;5;21mv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+ [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m 
+[1P[14;79HH\
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HO
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3294-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;46H[?12l[?25h[?12;25h[24;1H[?25lWrote /Users/haidar/harmanani.github.io/csc443.html[13;46H[?12l[?25h[?12;25h[23;6H[?25l[30m[48;5;250m--[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25l4[?12l[?25h[?12;25h[?25l4[?12l[?25h[?12;25h[?25l3[?12l[?25h[?12;25h[K[?25l7[?12l[?25h[?12;25h[?25l.html[?12l[?25h[?12;25h[K[H[?25l<[38;5;129m!DOCTYPE[39;49m html>
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[3;3H[38;5;21mhead[39;49m
+
+[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K[6;4Hif(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m\
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m\
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc447.css"[39;49m], [38;5;138m"o[39;49m\
+[38;5;138mutOfDate"[39;49m:[]};[K
+</[38;5;21mscript[39;49m>
+[K
+  <[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>[K
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[16;3H<[38;5;21mtitle[39;49m>[1m[4mCSC447[0m</[38;5;21mtitle[39;49m>[17;3H[38;5;124m<!-- CSS -->[39;49m[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc447.css?3830469973"[39;49m [38;5;136mid[39;49m=[38;5;138m"p[39;49m
+[38;5;138magesheet"[39;49m/>[K
+  [38;5;124m<!-- Other scripts -->[39;49m[23;18H[1m[30m[48;5;250m7.html [0m[39;49m[30m[48;5;250m   Top L1 [39;49m[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lvlsi.[?12l[?25h[?12;25h[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3929"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3929"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3937"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3940"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvlsi.[39;49m[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3944"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3947"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc447.html#csc447"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3950-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CS\
+C 447</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 6% L36[39;49m[13;32H[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13d[?12l[?25h[?12;25h[24;1H[K[13;27H[?25l[38;5;138mvlsi.[39;49m[23;44H[30m[48;5;250m)--------[39;49m[13;33H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mharmanani.github.iovlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- hori[39;49m
+[38;5;124mzontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<[39;49m
+[19@[38;5;124m!-- content -->[39;49m<[38;5;21mp[39;49m>H[23;6H[30m[48;5;250m**[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[?25l[38;5;138mlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horiz[39;49m
+[38;5;124montal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<![39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizo[39;49m
+[38;5;124mntal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizon[39;49m
+[38;5;124mtal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizont[39;49m
+[38;5;124mal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizonta[39;49m
+[38;5;124ml box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- c[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138myblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal[39;49m
+[38;5;124m box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- co[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal [39;49m
+[38;5;124mbox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- con[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal b[39;49m
+[38;5;124mox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- cont[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal bo[39;49m
+[38;5;124mx -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- conte[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138ms.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box[39;49m
+[38;5;124m -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- conten[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[38;5;124m-->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[C[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m
+<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138medu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21md[39;49m
+[38;5;21miv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m<
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mdu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdi[39;49m
+[38;5;21mv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+ [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m 
+[1P[14;79HH\
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HO
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3943-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;46H[?12l[?25h[?12;25h[24;1H[?25lWrote /Users/haidar/harmanani.github.io/csc447.html[13;46H[?12l[?25h[?12;25h[23;6H[?25l[30m[48;5;250m--[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25l6[?12l[?25h[?12;25h[?25l8[?12l[?25h[?12;25h[?25l8[?12l[?25h[?12;25h[?25lMaking completion list...[K[?12l[?25h[?12;25h[1;16r[1;1H[6M[1;24r[24;1H[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/csc688[11;1H[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc447.html [0m[39;49m[30m[48;5;250m    7% L36    (HTML)------------------------------------[39;49m
+[A
+In this buffer, type RET to select the completion near point.[K
+[K
+Possible completions are:[K
+csc688[1mc[0m.html                       csc688[1mn[0m.html[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[38;5;236m[47m-uuu:%%-F1  [0m[39;49m[1m[38;5;236m[47m*Completions*[0m[39;49m[38;5;236m[47m   All L1     (Completion List)------------------------[0m[39;49m
+					[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25l.html[?12l[?25h[?12;25h[K[H[?25l<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>
+[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[6;4Hif(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc688c.css"[39;49m], [38;5;138m"[39;49m\
+[38;5;138moutOfDate"[39;49m:[]};
+</[38;5;21mscript[39;49m>[K
+[K[13;3H<[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[16;3H<[38;5;21mtitle[39;49m>[1m[4mCSC688C[0m</[38;5;21mtitle[39;49m>[17;3H[38;5;124m<!-- CSS -->[39;49m[18;3H<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+>
+[C<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc688c.css?277975283"[39;49m [38;5;136mid[39;49m=[38;5;138m"p[39;49m\
+[38;5;138magesheet"[39;49m/>[22;3H[38;5;124m<!-- Other scripts -->[39;49m
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc688c.html[0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lvlsi.[?12l[?25h[?12;25h[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu3580"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu3580"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3581"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3582"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvlsi.[39;49m[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3595"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3596"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc688c.html#csc688c"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+ [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3597-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>\
+CSC 688C</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 5% L36[39;49m[13;32H[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13d[?12l[?25h[?12;25h[24;1H[K[13;27H[?25l[38;5;138mvlsi.[39;49m[23;44H[30m[48;5;250m)--------[39;49m[13;31H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mharmanani.github.iovlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- hori[39;49m
+[38;5;124mzontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<[39;49m
+[19@[38;5;124m!-- content -->[39;49m<[38;5;21mp[39;49m>H[23;6H[30m[48;5;250m**[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[?25l[38;5;138mlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horiz[39;49m
+[38;5;124montal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<![39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizo[39;49m
+[38;5;124mntal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizon[39;49m
+[38;5;124mtal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizont[39;49m
+[38;5;124mal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizonta[39;49m
+[38;5;124ml box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- c[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138myblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal[39;49m
+[38;5;124m box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- co[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal [39;49m
+[38;5;124mbox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- con[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal b[39;49m
+[38;5;124mox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- cont[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal bo[39;49m
+[38;5;124mx -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- conte[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138ms.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box[39;49m
+[38;5;124m -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- conten[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[38;5;124m-->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[C[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m
+<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138medu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21md[39;49m
+[38;5;21miv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m<
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mdu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdi[39;49m
+[38;5;21mv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+ [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m 
+[1P[14;79HH\
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HO
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u3584-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;46H[?12l[?25h[?12;25h[24;1H[?25lWrote /Users/haidar/harmanani.github.io/csc688c.html[13;46H[?12l[?25h[?12;25h[23;6H[?25l[30m[48;5;250m--[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/[?12l[?25h[?12;25h[C[?25l[Complete, but not unique][24;34H[?12l[?25h[?12;25h[?25lMaking completion list...[K[?12l[?25h[?12;25h[1;16r[1;1H[6M[1;24r[24;1H[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/ [Complete, but not unique][11;1H[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc688c.html[0m[39;49m[30m[48;5;250m    6% L36    (HTML)------------------------------------[39;49m
+[A
+In this buffer, type RET to select the completion near point.[K
+[K
+Possible completions are:[K
+[1m#[0mcsc322.html#                      [1m.[0m./[K
+[1m.[0m/                                 [1m.[0mDS_Store[K
+[1m.[0mgit/                              [1mc[0msc320.html[K
+[1mc[0msc320.html~                       [1mc[0msc322.html
+[1mc[0msc322.html~                       [1mc[0msc375.html[K
+[1mc[0msc443.html                        [1mc[0msc443.html~[K
+[1mc[0msc447.html                        [1mc[0msc447.html~[K
+[1mc[0msc611.html                        [1mc[0msc632.html
+[38;5;236m[47m-uuu:%%-F1  [0m[39;49m[1m[38;5;236m[47m*Completions*[0m[39;49m[38;5;236m[47m   Top L1     (Completion List)------------------------[0m[39;49m
+[24;34H[?12l[?25h[?12;25h[K[?25lc[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25l3[?12l[?25h[?12;25h[?25l7[?12l[?25h[?12;25h[?25l5[?12l[?25h[?12;25h[?25l.html[?12l[?25h[?12;25h[K[H[?25l<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[K
+ <[38;5;21mhead[39;49m>
+[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[6;4Hif(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc375.css"[39;49m], [38;5;138m"o[39;49m\
+[38;5;138mutOfDate"[39;49m:[]};
+</[38;5;21mscript[39;49m>[K
+[K[13;3H<[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>
+  <[38;5;21mtitle[39;49m>[1m[4mCSC375[0m</[38;5;21mtitle[39;49m>[K
+  [38;5;124m<!-- CSS -->[39;49m[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc375.css?4137029528"[39;49m [38;5;136mid[39;49m=[38;5;138m"p[39;49m\
+[38;5;138magesheet"[39;49m/>[K
+  [38;5;124m<!-- Other scripts -->[39;49m[K
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc375.html [0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lvlsi.[?12l[?25h[?12;25h[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu4361"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu4361"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4369"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4372"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvlsi.[39;49m[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4376"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4379"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc375.html#csc375"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4382-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>CS\
+C 375</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 5% L36[39;49m[13;32H[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13d[?12l[?25h[?12;25h[24;1H[K[13;27H[?25l[38;5;138mvlsi.[39;49m[23;44H[30m[48;5;250m)--------[39;49m[13;31H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mharmanani.github.iovlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- hori[39;49m
+[38;5;124mzontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<[39;49m
+[19@[38;5;124m!-- content -->[39;49m<[38;5;21mp[39;49m>H[23;6H[30m[48;5;250m**[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[?25l[38;5;138mlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horiz[39;49m
+[38;5;124montal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<![39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizo[39;49m
+[38;5;124mntal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizon[39;49m
+[38;5;124mtal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizont[39;49m
+[38;5;124mal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizonta[39;49m
+[38;5;124ml box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- c[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138myblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal[39;49m
+[38;5;124m box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- co[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal [39;49m
+[38;5;124mbox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- con[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal b[39;49m
+[38;5;124mox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- cont[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal bo[39;49m
+[38;5;124mx -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- conte[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138ms.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box[39;49m
+[38;5;124m -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- conten[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[38;5;124m-->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[C[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m
+<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138medu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21md[39;49m
+[38;5;21miv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m<
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mdu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdi[39;49m
+[38;5;21mv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+ [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m 
+[1P[14;79HH\
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HO
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcl[39;49m
+[38;5;136mass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOM
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mcla[39;49m
+[38;5;136mss[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4375-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>HOME
+[1P[13;46H[?12l[?25h[?12;25h[24;1H[?25lWrote /Users/haidar/harmanani.github.io/csc375.html[13;46H[?12l[?25h[?12;25h[23;6H[?25l[30m[48;5;250m--[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[24;1H[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/[?12l[?25h[?12;25h[?25lh[?12l[?25h[?12;25h[?25la[?12l[?25h[?12;25h[?25li[?12l[?25h[?12;25h[?25ldar.html[?12l[?25h[?12;25h[K[H[?25l<[38;5;129m!DOCTYPE[39;49m html>
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>[3;3H[38;5;21mhead[39;49m
+
+[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K[6;4Hif(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m\
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m\
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"haidar.css"[39;49m], [38;5;138m"outOfDate"[39;49m:[]};
+</[38;5;21mscript[39;49m>[K
+[K[12;3H<[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>[K
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>[K
+  <[38;5;21mtitle[39;49m>[1m[4mhaidar[0m</[38;5;21mtitle[39;49m>[16;3H[38;5;124m<!-- CSS -->[39;49m[17;3H<[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?373313838"[39;49m/>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/haidar.css?144466834"[39;49m [38;5;136mid[39;49m=[38;5;138m"pa[39;49m\
+[38;5;138mgesheet"[39;49m/>[K
+  [38;5;124m<!-- Other scripts -->[39;49m[K
+  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K
+   document.documentElement.className += ' js';[23;13H[1m[30m[48;5;250mhaidar.html [0m[39;49m[30m[48;5;250m   Top L1 [39;49m[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lvlsi.[?12l[?25h[?12;25h[?25l[8@[38;5;20mFailing [39;49m[H[?12l[?25h[?12;25h[24d[K[A				[?25l[30m[48;5;250m2     (HTML)--------[39;49m[H
+[?12l[?25h[?12;25h[23;33H[?25l[30m[48;5;250m3[39;49m[H
+
+[?12l[?25h[?12;25h[23;33H[?25l[30m[48;5;250m4[39;49m[4;1H[?12l[?25h[?12;25h[H[?25l  <[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>
+   document.documentElement.className += ' js';
+var __adobewebfontsappname__ = [38;5;138m"muse"[39;49m;
+</[38;5;21mscript[39;49m>[5;3H[38;5;124m<!-- JS includes -->[39;49m[K[6;3H<[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K
+   document.write('\x3Cscript [38;5;136msrc[39;49m=[38;5;138m"' + (document.location.protocol == 'https:' [39;49m
+[38;5;138m? 'https:' : 'http:') + '//webfonts.creativecloud.com/abel:n4:all.js"[39;49m [38;5;136mtype[39;49m=[38;5;138m"tex[39;49m
+[38;5;138mt/javascript"[39;49m>\x3C/script>');[K[11;3H[38;5;124m<!--[if lt IE 9]>                                                             [39;49m
+[38;5;124m  <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script[39;49m\
+[38;5;124m>                                                                               [39;49m
+[38;5;124m  <![endif]-->[39;49m[K[15;3H </[38;5;21mhead[39;49m>[K
+[C<[38;5;21mbody[39;49m>[K
+[K[18;4H[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[K
+   <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[20;3H  <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu2054"[39;49m>[38;5;124m<!-- group -->[39;49m[21;3H   <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu2054"[39;49m>[38;5;124m<!-- horizontal box -[39;49m\
+[38;5;124m->[39;49m[K[23;28H[30m[48;5;250m 3% L17[39;49m[H[?12l[?25h[?12;25h[1;3H[?25l   <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu2054"[39;49m>[38;5;124m<!-- horizontal box -[39;49m\
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2055"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K[5;3H     <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2056"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://http://harmanani.github.io/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<\
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2058-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+<[38;5;21mp[39;49m>HOME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K
+      </[38;5;21mdiv[39;49m>[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2062"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2063"[39;49m [38;5;136mhref[39;49m=[38;5;138m"haidar.html#bio"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclas[39;49m\
+[38;5;136ms[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2066-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>Biogr\
+aphy</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>
+[C     </[38;5;21mdiv[39;49m>[17;7H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2083"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+    <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2084"[39;49m [38;5;136mhref[39;49m=[38;5;138m"haidar.html#articles"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m\
+[C[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u2087-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>
+Journals</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[23;29H[30m[48;5;250m6% L34[39;49m[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lv[?12l[?25h[?12;25h[H	[?25l[38;5;153m[45mv[39;49m[?12l[?25h[?12;25h[24;12H[?25ll[?12l[?25h[?12;25h[?25l[8@[38;5;20mFailing [39;49m[1;10H[?12l[?25h[?12;25h[24;21H[?25ls[1;10H[?12l[?25h[?12;25h[24;22H[?25li[1;10H[?12l[?25h[?12;25h[24;23H[?25l.[1;10H[?12l[?25h[?12;25h[24;1H[K[1;10H[24;1H[?25lQuit[H	[38;5;21mv[39;49m[23;44H[30m[48;5;250m)--------[39;49m[H[?12l[?25h[?12;25h[24d[K[23;34H[?25l[30m[48;5;250m5[39;49m[H
+
+[?12l[?25h[?12;25h[23;34H[?25l[30m[48;5;250m6[39;49m[5;1H[?12l[?25h[?12;25h[23;34H[?25l[30m[48;5;250m7[39;49m[9;1H[?12l[?25h[?12;25h[24d[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/[?12l[?25h[?12;25h[C[?25l[Complete, but not unique][24;34H[?12l[?25h[?12;25h[?25lMaking completion list...[K[?12l[?25h[?12;25h[?25l[38;5;20mFind file: [39;49m~/harmanani.github.io/ [Complete, but not unique][11;1H[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mhaidar.html [0m[39;49m[30m[48;5;250m    6% L37    (HTML)------------------------------------[39;49m
+In this buffer, type RET to select the completion near point.[K
+[K
+Possible completions are:[K
+[1m#[0mcsc322.html#                      [1m.[0m./
+[1m.[0m/                                 [1m.[0mDS_Store
+[1m.[0mgit/                              [1mc[0msc320.html[K
+[1mc[0msc320.html~                       [1mc[0msc322.html
+[1mc[0msc322.html~                       [1mc[0msc375.html[K
+[1mc[0msc375.html~                       [1mc[0msc443.html[K
+[1mc[0msc443.html~                       [1mc[0msc447.html[K
+[1mc[0msc447.html~                       [1mc[0msc611.html
+[38;5;236m[47m-uuu:%%-F1  [0m[39;49m[1m[38;5;236m[47m*Completions*[0m[39;49m[38;5;236m[47m   Top L1     (Completion List)------------------------[0m[39;49m
+[24;34H[?12l[?25h[?12;25h[K[12;1H[?25l[1mc[0msc443.html~                       [1mc[0msc447.html[K
+[1mc[0msc447.html~                       [1mc[0msc611.html
+[1mc[0msc632.html                        [1mc[0msc688c.html
+[1mc[0msc688c.html~                      [1mc[0msc688n.html
+[1mc[0mss/                               [1mh[0maidar.html
+[1mi[0mmages/                            [1mi[0mndex.html[K
+[1mj[0mavascripts/                       [1mm[0muse_manifest.xml
+[1ms[0mcripts/                           [1ms[0mitemap.x
+[1ms[0mtylesheets/                       [1mt[0mypescript[K
+[K
+[K[23;29H[38;5;236m[47mBot L10[0m[39;49m
+[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25ls[?12l[?25h[?12;25h[?25lc[?12l[?25h[?12;25h[?25l6[?12l[?25h[?12;25h[?25l3[?12l[?25h[?12;25h[?25l2[?12l[?25h[?12;25h[?25l.html[?12l[?25h[?12;25h[K[H[?25l<[38;5;129m!DOCTYPE[39;49m html>[K
+<[38;5;21mhtml[39;49m [38;5;136mclass[39;49m=[38;5;138m"html"[39;49m [38;5;136mlang[39;49m=[38;5;138m"en-US"[39;49m>
+[C<[38;5;21mhead[39;49m>[K
+[K[5;3H<[38;5;21mscript[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/javascript"[39;49m>[K
+   if(typeof Muse == [38;5;138m"undefined"[39;49m) window.Muse = {}; window.Muse.assets = {[38;5;138m"requ[39;49m
+[38;5;138mired"[39;49m:[[38;5;138m"jquery-1.8.3.min.js"[39;49m, [38;5;138m"museutils.js"[39;49m, [38;5;138m"jquery.musemenu.js"[39;49m, [38;5;138m"jquery.mus[39;49m
+[38;5;138mepolyfill.bgsize.js"[39;49m, [38;5;138m"webpro.js"[39;49m, [38;5;138m"musewpslideshow.js"[39;49m, [38;5;138m"jquery.museoverlay.js[39;49m\
+[38;5;138m"[39;49m, [38;5;138m"touchswipe.js"[39;49m, [38;5;138m"musewpdisclosure.js"[39;49m, [38;5;138m"jquery.watch.js"[39;49m, [38;5;138m"csc632.css"[39;49m], [38;5;138m"o[39;49m\
+[38;5;138mutOfDate"[39;49m:[]};[K
+</[38;5;21mscript[39;49m>[K
+[K
+  <[38;5;21mmeta[39;49m [38;5;136mhttp-equiv[39;49m=[38;5;138m"Content-type"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"text/html;charset=UTF-8"[39;49m/>
+  <[38;5;21mmeta[39;49m [38;5;136mname[39;49m=[38;5;138m"generator"[39;49m [38;5;136mcontent[39;49m=[38;5;138m"2015.0.2.310"[39;49m/>
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"shortcut icon"[39;49m [38;5;136mhref[39;49m=[38;5;138m"images/favicon.ico?374453737"[39;49m/>
+  <[38;5;21mtitle[39;49m>[1m[4mCSC632[0m</[38;5;21mtitle[39;49m>[K
+  [38;5;124m<!-- CSS -->[39;49m[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/site_global.css?3796249610"[39;49m/\
+>[K
+  <[38;5;21mlink[39;49m [38;5;136mrel[39;49m=[38;5;138m"stylesheet"[39;49m [38;5;136mtype[39;49m=[38;5;138m"text/css"[39;49m [38;5;136mhref[39;49m=[38;5;138m"css/csc632.css?273449871"[39;49m [38;5;136mid[39;49m=[38;5;138m"pa[39;49m\
+[38;5;138mgesheet"[39;49m/>[22;3H[38;5;124m<!-- Other scripts -->[39;49m
+[30m[48;5;250m-uuu:---F1  [39;49m[1m[30m[48;5;250mcsc632.html [0m[39;49m[30m[48;5;250m   Top L1     (HTML)------------------------------------[39;49m
+[H[?12l[?25h[?12;25h[24d[?25l[38;5;20mI-search: [39;49m[H[?12l[?25h[?12;25h[23;44H[?25l[30m[48;5;250m Isearch)[39;49m[H[?12l[?25h[?12;25h[24;11H[?25lvlsi.[?12l[?25h[?12;25h[H[?25l[38;5;124m  <![endif]-->[39;49m[K
+   </[38;5;21mhead[39;49m>[K[3;3H[38;5;21mbody[39;49m
+
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix"[39;49m [38;5;136mid[39;49m=[38;5;138m"page"[39;49m>[38;5;124m<!-- column -->[39;49m[6;4H<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"position_content"[39;49m [38;5;136mid[39;49m=[38;5;138m"page_position_content"[39;49m>[K
+    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"clearfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"pmenuu4024"[39;49m>[38;5;124m<!-- group -->[39;49m[K
+     <[38;5;21mnav[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuBar clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"menuu4024"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m->[39;49m[K
+      <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4039"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+<[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem[39;49m\
+[38;5;138m"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4042"[39;49m [38;5;136mhref[39;49m=[38;5;138m"http://[39;49m[38;5;153m[45mvlsi.[39;49m[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m \
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>H\
+OME</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[16;3H    </[38;5;21mdiv[39;49m>[K[17;3H    <[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemContainer clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4046"[39;49m>[38;5;124m<!-- vertical [39;49m\
+[38;5;124mbox -->[39;49m[K
+       <[38;5;21ma[39;49m [38;5;136mclass[39;49m=[38;5;138m"nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clear[39;49m\
+[38;5;138mfix colelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4049"[39;49m [38;5;136mhref[39;49m=[38;5;138m"csc632.html#csc688c"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m 
+[38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4050-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>C\
+SC 688C</[38;5;21mp[39;49m></[38;5;21mdiv[39;49m></[38;5;21ma[39;49m>[K[23;28H[30m[48;5;250m 5% L36[39;49m[13;32H[?12l[?25h[?12;25h[24;1H[?25lMark saved where search started[13d[?12l[?25h[?12;25h[24;1H[K[13;27H[?25l[38;5;138mvlsi.[39;49m[23;44H[30m[48;5;250m)--------[39;49m[13;31H[?12l[?25h[?12;25h[24;1H[?25lMark set[13;27H[?12l[?25h[?12;25h[?25l[38;5;138mharmanani.github.iovlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- hori[39;49m
+[38;5;124mzontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<[39;49m
+[19@[38;5;124m!-- content -->[39;49m<[38;5;21mp[39;49m>H[23;6H[30m[48;5;250m**[39;49m[13;46H[?12l[?25h[?12;25h[24;1H[K[13;46H[?25l[38;5;138mlsi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horiz[39;49m
+[38;5;124montal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<![39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138msi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizo[39;49m
+[38;5;124mntal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mi.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizon[39;49m
+[38;5;124mtal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.byblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizont[39;49m
+[38;5;124mal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mbyblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizonta[39;49m
+[38;5;124ml box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- c[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138myblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal[39;49m
+[38;5;124m box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- co[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mblos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal [39;49m
+[38;5;124mbox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- con[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal b[39;49m
+[38;5;124mox -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- cont[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mos.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal bo[39;49m
+[38;5;124mx -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- conte[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138ms.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box[39;49m
+[38;5;124m -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- conten[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box [39;49m
+[38;5;124m-->[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[C[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content [39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mau.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -[39;49m
+[38;5;124m>[39;49m<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[C[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m
+<[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.edu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<
+[38;5;21mdiv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -->[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138medu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21md[39;49m
+[38;5;21miv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -->[39;49m<
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mdu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdi[39;49m
+[38;5;21mv[39;49m [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mu.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m
+ [38;5;136mclass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp[39;49m>
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138m.lb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m 
+[1P[14;79HH\
+[1P[13;46H[?12l[?25h[?12;25h[?25l[38;5;138mlb/"[39;49m>[38;5;124m<!-- horizontal box -->[39;49m<[38;5;21mdiv[39;49m [38;5;136mc[39;49m
+[38;5;136mlass[39;49m=[38;5;138m"MenuItemLabel NoWrap clearfix grpelem"[39;49m [38;5;136mid[39;49m=[38;5;138m"u4043-4"[39;49m>[38;5;124m<!-- content -->[39;49m<[38;5;21mp

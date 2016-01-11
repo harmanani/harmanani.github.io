@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/images/road.jpg</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/images/dollarfinger-istock_000070391179_medium.jpg</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/images/boat96x68.jpg</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,25 +38,55 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc447.html</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc320.html</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc322.html</loc>
-    <lastmod>2016-01-10</lastmod>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc688c.html</loc>
     <lastmod>2016-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc443.html</loc>
+    <lastmod>2016-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc632.html</loc>
+    <lastmod>2016-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc611.html</loc>
+    <lastmod>2016-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc688n.html</loc>
+    <lastmod>2016-01-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc375.html</loc>
+    <lastmod>2016-01-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
