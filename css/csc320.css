@@ -1,7 +1,7 @@
 .version.csc320 /* version checker */
 {
-	color: #000007;
-	background-color: #3D9C3B;
+	color: #0000F9;
+	background-color: #FA5A07;
 }
 
 .html
@@ -79,9 +79,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -133,9 +133,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -187,9 +187,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -233,9 +233,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -295,9 +295,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 20px;
 	text-align: center;
 	font-size: 17px;
-	line-height: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -635,8 +635,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -684,8 +684,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 17px;
 	text-align: left;
+	line-height: 17px;
 	font-size: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -716,8 +716,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -765,8 +765,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	line-height: 17px;
 	text-align: left;
+	line-height: 17px;
 	font-size: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -896,8 +896,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -974,8 +974,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1056,8 +1056,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1103,9 +1103,9 @@
 	min-height: 110px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 21px;
 	text-align: left;
 	font-size: 14px;
-	line-height: 21px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1135,8 +1135,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1246,8 +1246,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1293,9 +1293,9 @@
 	min-height: 69px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 21px;
 	text-align: left;
 	font-size: 14px;
-	line-height: 21px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1325,8 +1325,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1420,8 +1420,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
@@ -1512,8 +1512,8 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #FFFFFF;
-	line-height: 24px;
 	text-align: left;
+	line-height: 24px;
 	font-size: 20px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
