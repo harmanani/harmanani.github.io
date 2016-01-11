@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1452507393239">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1452539120407">
   <folder name="css">
     <file name="site_global.css" crc="3796249610"/>
     <file name="csc447.css" crc="3830469973" ref="csc447"/>
@@ -10,8 +10,8 @@
     <file name="csc611.css" crc="4077718866" ref="csc611"/>
     <file name="csc322.css" crc="307890235" ref="csc322"/>
     <file name="haidar.css" crc="464843057" ref="haidar"/>
-    <file name="csc688c.css" crc="277975283" ref="csc688c"/>
-    <file name="index.css" crc="4077314863" ref="index"/>
+    <file name="csc688c.css" crc="3834938281" ref="csc688c"/>
+    <file name="index.css" crc="100111106" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:haidar:csc443:csc320:csc322:csc688c:csc447:csc632:csc611:csc688n:csc375"/>
@@ -28,7 +28,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc443:csc320:csc322:csc688c:csc447:csc632:csc611:csc688n:csc375"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="374453737" ref="index"/>
+    <file name="favicon.ico" crc="374453737" ref="index:csc688c"/>
     <file name="facebook.png" crc="317936629" ref="index:csc443:csc320:csc322:csc688c:csc447:csc632:csc611:csc688n:csc375"/>
     <file name="twitter.png" crc="4102706121" ref="index:csc443:csc320:csc322:csc688c:csc447:csc632:csc611:csc688n:csc375"/>
     <file name="rss.png" crc="3858264630" ref="index:csc443:csc320:csc322:csc688c:csc447:csc632:csc611:csc688n:csc375"/>
@@ -65,7 +65,7 @@
     <file name="combined-web-languages-u2694-fr.png" crc="113655947" ref="csc443"/>
     <file name="maxresdefault-u2692-fr.jpg" crc="419580292" ref="csc443"/>
     <file name="inversion-1-u2693-fr.jpg" crc="449413498" ref="csc443"/>
-    <file name="boat96x68.jpg" crc="522624604" seo="true" ref="csc443"/>
+    <file name="boat96x68.jpg" crc="522624604" seo="true" ref="csc443:csc688c"/>
     <file name="1-onesmallchip-u3380-fr.jpg" crc="362243734" ref="csc320"/>
     <file name="chip.jpg" crc="4036690932" ref="csc322"/>
     <file name="air-traffic-over-europe.jpg" crc="4025943466" ref="csc688c:csc632:csc611:csc688n"/>
@@ -78,12 +78,12 @@
     <file name="msdatacenter12513-u4348-fr.jpg" crc="513372046" ref="csc375"/>
     <file name="machinelearninganddataminingwordle-u4347-fr.jpg" crc="3906181763" ref="csc375"/>
   </folder>
-  <file name="index.html" crc="4200840643" seo="true" mt="1452507345116" redirect="true"/>
+  <file name="index.html" crc="3991492145" seo="true" mt="1452538829153" redirect="true"/>
   <file name="haidar.html" crc="3982485875" seo="true" mt="1450955558481" redirect="true"/>
   <file name="csc443.html" crc="4186220880" seo="true" mt="1452505978794" redirect="true"/>
   <file name="csc320.html" crc="215385494" seo="true" mt="1452506428343" redirect="true"/>
   <file name="csc322.html" crc="43227487" seo="true" mt="1452503089013" redirect="true"/>
-  <file name="csc688c.html" crc="523462799" seo="true" mt="1452461778486" redirect="true"/>
+  <file name="csc688c.html" crc="267022535" seo="true" mt="1452539107689" redirect="true"/>
   <file name="csc447.html" crc="3879864416" seo="true" mt="1452505986481" redirect="true"/>
   <file name="csc632.html" crc="4220235515" seo="true" mt="1452499292114" redirect="true"/>
   <file name="csc611.html" crc="3785470025" seo="true" mt="1452499286274" redirect="true"/>
