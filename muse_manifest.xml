@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1452588762930">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="vlsi.byblos.lau.edu.lb,www.csc.byblos.lau.edu.lb" resolutions="1x" timestamp="1452603204545">
   <folder name="css">
     <file name="site_global.css" crc="3796249610"/>
     <file name="csc447.css" crc="3830469973" ref="csc447"/>
@@ -95,7 +95,7 @@
   <file name="csc443.html" crc="4186220880" seo="true" mt="1452505978794" redirect="true"/>
   <file name="csc320.html" crc="3873564808" seo="true" mt="1452546170411" redirect="true"/>
   <file name="csc322.html" crc="43227487" seo="true" mt="1452503089013" redirect="true"/>
-  <file name="csc688c.html" crc="302435478" seo="true" mt="1452556520017" redirect="true"/>
+  <file name="csc688c.html" crc="3904042421" seo="true" mt="1452603180395" redirect="true"/>
   <file name="csc447.html" crc="3879864416" seo="true" mt="1452505986481" redirect="true"/>
   <file name="csc632.html" crc="4012103402" seo="true" mt="1452557669545" redirect="true"/>
   <file name="csc611.html" crc="187270631" seo="true" mt="1452545846397" redirect="true"/>
