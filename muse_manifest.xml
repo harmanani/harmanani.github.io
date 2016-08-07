@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1470583175452">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1470584071278">
   <folder name="css">
     <file name="site_global.css" crc="104220973"/>
     <file name="csc632.css" crc="473223299" ref="csc632"/>
@@ -7,7 +7,7 @@
     <file name="csc375.css" crc="4052976929" ref="csc375"/>
     <file name="haidar.css" crc="4057246723" ref="haidar"/>
     <file name="csc322.css" crc="4143010519" ref="csc322"/>
-    <file name="csc443.css" crc="35188654" ref="csc443"/>
+    <file name="csc443.css" crc="4254648590" ref="csc443"/>
     <file name="csc688e.css" crc="3881042369" ref="csc688e"/>
     <file name="index.css" crc="123512571" ref="index"/>
     <file name="csc447.css" crc="4010774608" ref="csc447"/>
@@ -79,13 +79,13 @@
     <file name="maxresdefault-u4228-fr.jpg" crc="3987721111" ref="csc611"/>
   </folder>
   <file name="index.html" crc="411844153" seo="true" mt="1470583149865" redirect="true"/>
-  <file name="haidar.html" crc="4061050520" seo="true" mt="1470305549776" redirect="true"/>
-  <file name="csc443.html" crc="4104825386" seo="true" mt="1470579311718" redirect="true"/>
-  <file name="csc375.html" crc="153286129" seo="true" mt="1470318621467" redirect="true"/>
-  <file name="csc688e.html" crc="4091517887" seo="true" mt="1470318648688" redirect="true"/>
-  <file name="csc320.html" crc="533121791" seo="true" mt="1470318436994" redirect="true"/>
-  <file name="csc322.html" crc="383426383" seo="true" mt="1470579225026" redirect="true"/>
-  <file name="csc447.html" crc="3992604937" seo="true" mt="1470579200074" redirect="true"/>
-  <file name="csc611.html" crc="3987931494" seo="true" mt="1470578962295" redirect="true"/>
-  <file name="csc632.html" crc="3834671332" seo="true" mt="1470579273789" redirect="true"/>
+  <file name="haidar.html" crc="3876219980" seo="true" mt="1470583777719" redirect="true"/>
+  <file name="csc443.html" crc="98035787" seo="true" mt="1470583812289" redirect="true"/>
+  <file name="csc375.html" crc="4133824815" seo="true" mt="1470583926262" redirect="true"/>
+  <file name="csc688e.html" crc="342284457" seo="true" mt="1470583967968" redirect="true"/>
+  <file name="csc320.html" crc="512488927" seo="true" mt="1470583619043" redirect="true"/>
+  <file name="csc322.html" crc="433110682" seo="true" mt="1470583599569" redirect="true"/>
+  <file name="csc447.html" crc="4028593252" seo="true" mt="1470583879509" redirect="true"/>
+  <file name="csc611.html" crc="3954245644" seo="true" mt="1470584049766" redirect="true"/>
+  <file name="csc632.html" crc="3971034890" seo="true" mt="1470584008914" redirect="true"/>
 </manifest>
