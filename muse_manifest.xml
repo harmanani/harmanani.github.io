@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1470587796117">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1470591622466">
   <folder name="css">
     <file name="site_global.css" crc="104220973"/>
     <file name="csc632.css" crc="473223299" ref="csc632"/>
@@ -7,7 +7,7 @@
     <file name="csc375.css" crc="4052976929" ref="csc375"/>
     <file name="haidar.css" crc="4057246723" ref="haidar"/>
     <file name="csc322.css" crc="4143010519" ref="csc322"/>
-    <file name="csc443.css" crc="35188654" ref="csc443"/>
+    <file name="csc443.css" crc="298595595" ref="csc443"/>
     <file name="csc688e.css" crc="3881042369" ref="csc688e"/>
     <file name="index.css" crc="214771521" ref="index"/>
     <file name="csc447.css" crc="4010774608" ref="csc447"/>
@@ -80,9 +80,9 @@
   </folder>
   <file name="index.html" crc="513398370" seo="true" mt="1470587775758" redirect="true"/>
   <file name="haidar.html" crc="3876219980" seo="true" mt="1470583777719" redirect="true"/>
-  <file name="csc443.html" crc="3822799612" seo="true" mt="1470584278455" redirect="true"/>
-  <file name="csc375.html" crc="4133824815" seo="true" mt="1470583926262" redirect="true"/>
-  <file name="csc688e.html" crc="342284457" seo="true" mt="1470583967968" redirect="true"/>
+  <file name="csc443.html" crc="128611703" seo="true" mt="1470591589188" redirect="true"/>
+  <file name="csc375.html" crc="3863892651" seo="true" mt="1470591602722" redirect="true"/>
+  <file name="csc688e.html" crc="350562546" seo="true" mt="1470591577922" redirect="true"/>
   <file name="csc320.html" crc="532501846" seo="true" mt="1470584176252" redirect="true"/>
   <file name="csc322.html" crc="433110682" seo="true" mt="1470583599569" redirect="true"/>
   <file name="csc447.html" crc="4028593252" seo="true" mt="1470583879509" redirect="true"/>
