@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1470584295707">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1470587796117">
   <folder name="css">
     <file name="site_global.css" crc="104220973"/>
     <file name="csc632.css" crc="473223299" ref="csc632"/>
@@ -9,7 +9,7 @@
     <file name="csc322.css" crc="4143010519" ref="csc322"/>
     <file name="csc443.css" crc="35188654" ref="csc443"/>
     <file name="csc688e.css" crc="3881042369" ref="csc688e"/>
-    <file name="index.css" crc="123512571" ref="index"/>
+    <file name="index.css" crc="214771521" ref="index"/>
     <file name="csc447.css" crc="4010774608" ref="csc447"/>
   </folder>
   <folder name="scripts">
@@ -78,7 +78,7 @@
     <file name="manageinfo-u4227-fr.jpg" crc="309823025" ref="csc611"/>
     <file name="maxresdefault-u4228-fr.jpg" crc="3987721111" ref="csc611"/>
   </folder>
-  <file name="index.html" crc="411844153" seo="true" mt="1470583149865" redirect="true"/>
+  <file name="index.html" crc="513398370" seo="true" mt="1470587775758" redirect="true"/>
   <file name="haidar.html" crc="3876219980" seo="true" mt="1470583777719" redirect="true"/>
   <file name="csc443.html" crc="3822799612" seo="true" mt="1470584278455" redirect="true"/>
   <file name="csc375.html" crc="4133824815" seo="true" mt="1470583926262" redirect="true"/>
