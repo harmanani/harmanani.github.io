@@ -1,0 +1,339 @@
+Script started on Tue Oct 25 09:06:37 2016
+[?1034hbash-3.2$ scp -r * root@vlsi.byblos.lau.edu.lb:/srv/www/htdocs
+Password: 
+bash-3.2$ scp -r * root@vlsi.byblos.lau.edu.lb:/srv/www/htdocs/classes/csc375/No tes/
+Password: 
+.DS_Store                                       0%    0     0.0KB/s   --:-- ETA.DS_Store                                     100% 8196     8.0KB/s   00:00    
+.DS_Store                                       0%    0     0.0KB/s   --:-- ETA.DS_Store                                     100% 6148     6.0KB/s   00:00    
+Lecture01.pdf                                   0%    0     0.0KB/s   --:-- ETALecture01.pdf                                 100% 7875KB   7.7MB/s   00:00    
+Lecture02.pdf                                   0%    0     0.0KB/s   --:-- ETALecture02.pdf                                 100%  852KB 852.0KB/s   00:00    
+Lecture03.pdf                                   0%    0     0.0KB/s   --:-- ETALecture03.pdf                                 100% 6604KB   6.5MB/s   00:00    
+Lecture04.pdf                                   0%    0     0.0KB/s   --:-- ETALecture04.pdf                                 100% 2270KB   2.2MB/s   00:00    
+Lecture05.pdf                                   0%    0     0.0KB/s   --:-- ETALecture05.pdf                                 100% 1443KB   1.4MB/s   00:00    
+Lecture06.pdf                                   0%    0     0.0KB/s   --:-- ETALecture06.pdf                                 100%  735KB 734.9KB/s   00:00    
+Lecture07.pdf                                   0%    0     0.0KB/s   --:-- ETALecture07.pdf                                 100% 2911KB   2.8MB/s   00:00    
+Lecture08.pdf                                   0%    0     0.0KB/s   --:-- ETALecture08.pdf                                 100% 2712KB   2.7MB/s   00:00    
+Lecture09.pdf                                   0%    0     0.0KB/s   --:-- ETALecture09.pdf                                 100% 2383KB   2.3MB/s   00:00    
+Lecture10.pdf                                   0%    0     0.0KB/s   --:-- ETALecture10.pdf                                 100% 6226KB   6.1MB/s   00:00    
+.DS_Store                                       0%    0     0.0KB/s   --:-- ETA.DS_Store                                     100% 6148     6.0KB/s   00:00    
+.DS_Store                                       0%    0     0.0KB/s   --:-- ETA.DS_Store                                     100% 6148     6.0KB/s   00:00    
+Lecture01.pdf                                   0%    0     0.0KB/s   --:-- ETALecture01.pdf                                 100% 3111KB   3.0MB/s   00:00    
+Lecture02.pdf                                   0%    0     0.0KB/s   --:-- ETALecture02.pdf                                 100%  566KB 566.4KB/s   00:00    
+Lecture03.pdf                                   0%    0     0.0KB/s   --:-- ETALecture03.pdf                                 100%  772KB 771.7KB/s   00:00    
+Lecture04.pdf                                   0%    0     0.0KB/s   --:-- ETALecture04.pdf                                 100% 1740KB   1.7MB/s   00:00    
+Lecture05.pdf                                   0%    0     0.0KB/s   --:-- ETALecture05.pdf                                 100%  911KB 910.8KB/s   00:00    
+Lecture06.pdf                                   0%    0     0.0KB/s   --:-- ETALecture06.pdf                                 100% 1090KB   1.1MB/s   00:00    
+Lecture07.pdf                                   0%    0     0.0KB/s   --:-- ETALecture07.pdf                                 100%  256KB 255.8KB/s   00:00    
+Lecture08.pdf                                   0%    0     0.0KB/s   --:-- ETALecture08.pdf                                 100%  343KB 342.6KB/s   00:00    
+Lecture09.pdf                                   0%    0     0.0KB/s   --:-- ETALecture09.pdf                                 100%  290KB 289.8KB/s   00:00    
+Lecture10.pdf                                   0%    0     0.0KB/s   --:-- ETALecture10.pdf                                 100%  954KB 953.9KB/s   00:00    
+Lecture11.pdf                                   0%    0     0.0KB/s   --:-- ETALecture11.pdf                                 100%  175KB 175.5KB/s   00:00    
+Lecture12.pdf                                   0%    0     0.0KB/s   --:-- ETALecture12.pdf                                 100%  663KB 663.0KB/s   00:00    
+csc320.html                                     0%    0     0.0KB/s   --:-- ETAcsc320.html                                   100%   22KB  21.6KB/s   00:00    
+csc322.html                                     0%    0     0.0KB/s   --:-- ETAcsc322.html                                   100%   24KB  23.5KB/s   00:00    
+csc375.html                                     0%    0     0.0KB/s   --:-- ETAcsc375.html                                   100%   27KB  27.2KB/s   00:00    
+csc443.html                                     0%    0     0.0KB/s   --:-- ETAcsc443.html                                   100%   26KB  26.4KB/s   00:00    
+csc447.html                                     0%    0     0.0KB/s   --:-- ETAcsc447.html                                   100%   24KB  23.8KB/s   00:00    
+csc611.html                                     0%    0     0.0KB/s   --:-- ETAcsc611.html                                   100%   27KB  26.8KB/s   00:00    
+csc632.html                                     0%    0     0.0KB/s   --:-- ETAcsc632.html                                   100%   25KB  25.4KB/s   00:00    
+csc688e.html                                    0%    0     0.0KB/s   --:-- ETAcsc688e.html                                  100%   25KB  25.3KB/s   00:00    
+csc320.css                                      0%    0     0.0KB/s   --:-- ETAcsc320.css                                    100%   21KB  20.7KB/s   00:00    
+csc322.css                                      0%    0     0.0KB/s   --:-- ETAcsc322.css                                    100%   21KB  20.8KB/s   00:00    
+csc375.css                                      0%    0     0.0KB/s   --:-- ETAcsc375.css                                    100%   24KB  23.7KB/s   00:00    
+csc443.css                                      0%    0     0.0KB/s   --:-- ETAcsc443.css                                    100%   24KB  24.2KB/s   00:00    
+csc447.css                                      0%    0     0.0KB/s   --:-- ETAcsc447.css                                    100%   23KB  23.0KB/s   00:00    
+csc611.css                                      0%    0     0.0KB/s   --:-- ETAcsc611.css                                    100%   22KB  22.5KB/s   00:00    
+csc632.css                                      0%    0     0.0KB/s   --:-- ETAcsc632.css                                    100%   22KB  22.0KB/s   00:00    
+csc688e.css                                     0%    0     0.0KB/s   --:-- ETAcsc688e.css                                   100%   22KB  22.0KB/s   00:00    
+haidar.css                                      0%    0     0.0KB/s   --:-- ETAhaidar.css                                    100%   12KB  12.2KB/s   00:00    
+index.css                                       0%    0     0.0KB/s   --:-- ETAindex.css                                     100%   22KB  21.8KB/s   00:00    
+site_global.css                                 0%    0     0.0KB/s   --:-- ETAsite_global.css                               100% 7716     7.5KB/s   00:00    
+haidar.html                                     0%    0     0.0KB/s   --:-- ETAhaidar.html                                   100%   29KB  29.4KB/s   00:00    
+0_0_0_0_70__news_titan x money.jpg              0%    0     0.0KB/s   --:-- ETA0_0_0_0_70__news_titan x money.jpg            100%   46KB  46.1KB/s   00:00    
+1-onesmallchip-u3380-fr.jpg                     0%    0     0.0KB/s   --:-- ETA1-onesmallchip-u3380-fr.jpg                   100%   64KB  64.4KB/s   00:00    
+120327043014-computer-chip-super-flops-horizo   0%    0     0.0KB/s   --:-- ETA120327043014-computer-chip-super-flops-horizo 100%  104KB 103.7KB/s   00:00    
+129-960x623.jpg                                 0%    0     0.0KB/s   --:-- ETA129-960x623.jpg                               100%   29KB  28.8KB/s   00:00    
+1454446752995.png                               0%    0     0.0KB/s   --:-- ETA1454446752995.png                             100%  106KB 106.0KB/s   00:00    
+403150_290183501033602_149867701_n.jpg          0%    0     0.0KB/s   --:-- ETA403150_290183501033602_149867701_n.jpg        100%   62KB  62.1KB/s   00:00    
+672x372xwhatis-672x372jpgpagespeedicokremyjz2   0%    0     0.0KB/s   --:-- ETA672x372xwhatis-672x372jpgpagespeedicokremyjz2 100%   27KB  27.0KB/s   00:00    
+algorithm_of_life_by_azzazian-d5s358u-u4226-f   0%    0     0.0KB/s   --:-- ETAalgorithm_of_life_by_azzazian-d5s358u-u4226-f 100%   40KB  39.7KB/s   00:00    
+boat.jpg                                        0%    0     0.0KB/s   --:-- ETAboat.jpg                                      100%   11KB  10.6KB/s   00:00    
+byblos.jpg                                      0%    0     0.0KB/s   --:-- ETAbyblos.jpg                                    100%   97KB  97.4KB/s   00:00    
+cactus-crop-u1213.jpg                           0%    0     0.0KB/s   --:-- ETAcactus-crop-u1213.jpg                         100% 8064     7.9KB/s   00:00    
+combined-web-languages-u2694-fr.png             0%    0     0.0KB/s   --:-- ETAcombined-web-languages-u2694-fr.png           100%   53KB  53.0KB/s   00:00    
+computer-engineering01_web.jpg                  0%    0     0.0KB/s   --:-- ETAcomputer-engineering01_web.jpg                100%   59KB  59.1KB/s   00:00    
+cropped-programmingoop_wallpaper_black_by_hex   0%    0     0.0KB/s   --:-- ETAcropped-programmingoop_wallpaper_black_by_hex 100%   53KB  52.6KB/s   00:00    
+dollarfinger-istock_000070391179_medium.jpg     0%    0     0.0KB/s   --:-- ETAdollarfinger-istock_000070391179_medium.jpg   100% 5027     4.9KB/s   00:00    
+dsc_0228.jpg                                    0%    0     0.0KB/s   --:-- ETAdsc_0228.jpg                                  100%   82KB  81.9KB/s   00:00    
+dsc_0250.jpg                                    0%    0     0.0KB/s   --:-- ETAdsc_0250.jpg                                  100%   83KB  83.3KB/s   00:00    
+dsc_0367.jpg                                    0%    0     0.0KB/s   --:-- ETAdsc_0367.jpg                                  100%   81KB  81.3KB/s   00:00    
+facebook.png                                    0%    0     0.0KB/s   --:-- ETAfacebook.png                                  100%   33KB  33.1KB/s   00:00    
+failed_transistor.jpg                           0%    0     0.0KB/s   --:-- ETAfailed_transistor.jpg                         100%  198KB 198.3KB/s   00:00    
+g.png                                           0%    0     0.0KB/s   --:-- ETAg.png                                         100% 2036     2.0KB/s   00:00    
+img_1903-crop-u2150-crop-u2459.jpg              0%    0     0.0KB/s   --:-- ETAimg_1903-crop-u2150-crop-u2459.jpg            100% 6376     6.2KB/s   00:00    
+img_1903-crop-u2150.jpg                         0%    0     0.0KB/s   --:-- ETAimg_1903-crop-u2150.jpg                       100% 7017     6.9KB/s   00:00    
+inversion-1-u2693-fr.jpg                        0%    0     0.0KB/s   --:-- ETAinversion-1-u2693-fr.jpg                      100%   43KB  42.7KB/s   00:00    
+lsm_chip.jpg                                    0%    0     0.0KB/s   --:-- ETAlsm_chip.jpg                                  100%   70KB  70.4KB/s   00:00    
+lung-on-chip-u2862-fr.jpg                       0%    0     0.0KB/s   --:-- ETAlung-on-chip-u2862-fr.jpg                     100%   59KB  58.9KB/s   00:00    
+machinelearninganddataminingwordle-u4347-fr.j   0%    0     0.0KB/s   --:-- ETAmachinelearninganddataminingwordle-u4347-fr.j 100%   89KB  89.5KB/s   00:00    
+manageinfo-u4227-fr.jpg                         0%    0     0.0KB/s   --:-- ETAmanageinfo-u4227-fr.jpg                       100%  161KB 160.5KB/s   00:00    
+maxresdefault-u2692-fr.jpg                      0%    0     0.0KB/s   --:-- ETAmaxresdefault-u2692-fr.jpg                    100%   36KB  36.2KB/s   00:00    
+maxresdefault-u4228-fr.jpg                      0%    0     0.0KB/s   --:-- ETAmaxresdefault-u4228-fr.jpg                    100%   44KB  44.0KB/s   00:00    
+memnet-mit-csail_0-crop-u2211.jpg               0%    0     0.0KB/s   --:-- ETAmemnet-mit-csail_0-crop-u2211.jpg             100% 8609     8.4KB/s   00:00    
+msdatacenter12513-u4348-fr.jpg                  0%    0     0.0KB/s   --:-- ETAmsdatacenter12513-u4348-fr.jpg                100%  115KB 114.6KB/s   00:00    
+obama-science.jpg                               0%    0     0.0KB/s   --:-- ETAobama-science.jpg                             100%   27KB  27.2KB/s   00:00    
+pb120046-u4794-fr.jpg                           0%    0     0.0KB/s   --:-- ETApb120046-u4794-fr.jpg                         100%  123KB 123.4KB/s   00:00    
+pic-18.jpg                                      0%    0     0.0KB/s   --:-- ETApic-18.jpg                                    100%   30KB  29.6KB/s   00:00    
+pic030-300dpi.jpg                               0%    0     0.0KB/s   --:-- ETApic030-300dpi.jpg                             100%  163KB 163.0KB/s   00:00    
+rg.png                                          0%    0     0.0KB/s   --:-- ETArg.png                                        100%   16KB  16.1KB/s   00:00    
+road.jpg                                        0%    0     0.0KB/s   --:-- ETAroad.jpg                                      100% 6309     6.2KB/s   00:00    
+rss.png                                         0%    0     0.0KB/s   --:-- ETArss.png                                       100%   34KB  33.5KB/s   00:00    
+shutterstock_148957235.jpg                      0%    0     0.0KB/s   --:-- ETAshutterstock_148957235.jpg                    100%   74KB  74.1KB/s   00:00    
+sw.png                                          0%    0     0.0KB/s   --:-- ETAsw.png                                        100%   18KB  18.4KB/s   00:00    
+tianhe 2 corridor-u3917-fr.jpg                  0%    0     0.0KB/s   --:-- ETAtianhe 2 corridor-u3917-fr.jpg                100%   66KB  66.3KB/s   00:00    
+tianhe 2 corridor.jpg                           0%    0     0.0KB/s   --:-- ETAtianhe 2 corridor.jpg                         100%   51KB  51.1KB/s   00:00    
+tweeter.png                                     0%    0     0.0KB/s   --:-- ETAtweeter.png                                   100% 1154     1.1KB/s   00:00    
+twitter.png                                     0%    0     0.0KB/s   --:-- ETAtwitter.png                                   100%   33KB  33.5KB/s   00:00    
+us__en_us__ibm100__sci_research_lab__fractal_   0%    0     0.0KB/s   --:-- ETAus__en_us__ibm100__sci_research_lab__fractal_ 100%   11KB  11.3KB/s   00:00    
+what-is-aws-and-how-did-it-bring-down-instagr   0%    0     0.0KB/s   --:-- ETAwhat-is-aws-and-how-did-it-bring-down-instagr 100%   71KB  70.8KB/s   00:00    
+index.html                                      0%    0     0.0KB/s   --:-- ETAindex.html                                    100%   21KB  20.9KB/s   00:00    
+muse_manifest.xml                               0%    0     0.0KB/s   --:-- ETAmuse_manifest.xml                             100% 7753     7.6KB/s   00:00    
+.DS_Store                                       0%    0     0.0KB/s   --:-- ETA.DS_Store                                     100% 6148     6.0KB/s   00:00    
+.DS_Store                                       0%    0     0.0KB/s   --:-- ETA.DS_Store                                     100%   10KB  10.0KB/s   00:00    
+00682706.pdf                                    0%    0     0.0KB/s   --:-- ETA00682706.pdf                                  100%  372KB 372.3KB/s   00:00    
+ASM2003.pdf                                     0%    0     0.0KB/s   --:-- ETAASM2003.pdf                                   100%  101KB 101.5KB/s   00:00    
+CATA2011.pdf                                    0%    0     0.0KB/s   --:-- ETACATA2011.pdf                                  100%  571KB 571.3KB/s   00:00    
+CATA2014.pdf                                    0%    0     0.0KB/s   --:-- ETACATA2014.pdf                                  100%  747KB 747.5KB/s   00:00    
+CCECE2011.pdf                                   0%    0     0.0KB/s   --:-- ETACCECE2011.pdf                                 100%  135KB 134.6KB/s   00:00    
+CE2012.pdf                                      0%    0     0.0KB/s   --:-- ETACE2012.pdf                                    100%  341KB 341.0KB/s   00:00    
+CEE2000.pdf                                     0%    0     0.0KB/s   --:-- ETACEE2000.pdf                                   100%  276KB 275.7KB/s   00:00    
+CJECE2000.pdf                                   0%    0     0.0KB/s   --:-- ETACJECE2000.pdf                                 100%  187KB 186.9KB/s   00:00    
+CJECE2007.pdf                                   0%    0     0.0KB/s   --:-- ETACJECE2007.pdf                                 100%  770KB 770.5KB/s   00:00    
+FEC2013.pdf                                     0%    0     0.0KB/s   --:-- ETAFEC2013.pdf                                   100%  238KB 238.5KB/s   00:00    
+HarmananiThesis.pdf                             0%    0     0.0KB/s   --:-- ETAHarmananiThesis.pdf                           100% 4440KB   4.3MB/s   00:00    
+HG2009.pdf                                      0%    0     0.0KB/s   --:-- ETAHG2009.pdf                                    100%  634KB 633.8KB/s   00:00    
+ICCAD1993.pdf                                   0%    0     0.0KB/s   --:-- ETAICCAD1993.pdf                                 100%  621KB 621.3KB/s   00:00    
+ICECS2014.pdf                                   0%    0     0.0KB/s   --:-- ETAICECS2014.pdf                                 100%  416KB 416.3KB/s   00:00    
+IJCA2007.pdf                                    0%    0     0.0KB/s   --:-- ETAIJCA2007.pdf                                  100%  533KB 532.7KB/s   00:00    
+IJCIA2004.pdf                                   0%    0     0.0KB/s   --:-- ETAIJCIA2004.pdf                                 100%  331KB 331.1KB/s   00:00    
+IJCIA2006.pdf                                   0%    0     0.0KB/s   --:-- ETAIJCIA2006.pdf                                 100%  347KB 347.0KB/s   00:00    
+IJE2012.pdf                                     0%    0     0.0KB/s   --:-- ETAIJE2012.pdf                                   100%  648KB 648.5KB/s   00:00    
+IJMS2010.pdf                                    0%    0     0.0KB/s   --:-- ETAIJMS2010.pdf                                  100% 4037KB   3.9MB/s   00:00    
+IRI2011.pdf                                     0%    0     0.0KB/s   --:-- ETAIRI2011.pdf                                   100%  134KB 134.2KB/s   00:00    
+IRI2015.pdf                                     0%    0     0.0KB/s   --:-- ETAIRI2015.pdf                                   100%  856KB 856.1KB/s   00:00    
+IST2009.pdf                                     0%    0     0.0KB/s   --:-- ETAIST2009.pdf                                   100%  923KB 923.0KB/s   00:00    
+ITNG2015.pdf                                    0%    0     0.0KB/s   --:-- ETAITNG2015.pdf                                  100%  549KB 549.1KB/s   00:00    
+ITNG2016.pdf                                    0%    0     0.0KB/s   --:-- ETAITNG2016.pdf                                  100%  564KB 563.5KB/s   00:00    
+IWSOC2005.pdf                                   0%    0     0.0KB/s   --:-- ETAIWSOC2005.pdf                                 100%  612KB 612.2KB/s   00:00    
+JCSC2005.pdf                                    0%    0     0.0KB/s   --:-- ETAJCSC2005.pdf                                  100%  387KB 387.4KB/s   00:00    
+JCSC2006.pdf                                    0%    0     0.0KB/s   --:-- ETAJCSC2006.pdf                                  100%  311KB 311.3KB/s   00:00    
+MS2006.pdf                                      0%    0     0.0KB/s   --:-- ETAMS2006.pdf                                    100%  400KB 400.3KB/s   00:00    
+MWSCAS2012.pdf                                  0%    0     0.0KB/s   --:-- ETAMWSCAS2012.pdf                                100%  173KB 173.4KB/s   00:00    
+NEWCAS2008-1.pdf                                0%    0     0.0KB/s   --:-- ETANEWCAS2008-1.pdf                              100%  411KB 410.8KB/s   00:00    
+NEWCAS2008-2.pdf                                0%    0     0.0KB/s   --:-- ETANEWCAS2008-2.pdf                              100%  289KB 289.4KB/s   00:00    
+PhysicaA2007.pdf                                0%    0     0.0KB/s   --:-- ETAPhysicaA2007.pdf                              100%  350KB 350.2KB/s   00:00    
+SCS2008.pdf                                     0%    0     0.0KB/s   --:-- ETASCS2008.pdf                                   100% 1381KB   1.4MB/s   00:00    
+SOCC2010.pdf                                    0%    0     0.0KB/s   --:-- ETASOCC2010.pdf                                  100%  456KB 455.9KB/s   00:00    
+html5shiv.js                                    0%    0     0.0KB/s   --:-- ETAhtml5shiv.js                                  100% 2388     2.3KB/s   00:00    
+jquery-1.8.3.min.js                             0%    0     0.0KB/s   --:-- ETAjquery-1.8.3.min.js                           100%   92KB  91.9KB/s   00:00    
+jquery.musemenu.js                              0%    0     0.0KB/s   --:-- ETAjquery.musemenu.js                            100% 5808     5.7KB/s   00:00    
+jquery.museoverlay.js                           0%    0     0.0KB/s   --:-- ETAjquery.museoverlay.js                         100% 4853     4.7KB/s   00:00    
+jquery.musepolyfill.bgsize.js                   0%    0     0.0KB/s   --:-- ETAjquery.musepolyfill.bgsize.js                 100% 4997     4.9KB/s   00:00    
+jquery.watch.js                                 0%    0     0.0KB/s   --:-- ETAjquery.watch.js                               100% 1766     1.7KB/s   00:00    
+museconfig.js                                   0%    0     0.0KB/s   --:-- ETAmuseconfig.js                                 100% 2567     2.5KB/s   00:00    
+museutils.js                                    0%    0     0.0KB/s   --:-- ETAmuseutils.js                                  100%   38KB  38.1KB/s   00:00    
+musewpdisclosure.js                             0%    0     0.0KB/s   --:-- ETAmusewpdisclosure.js                           100% 3399     3.3KB/s   00:00    
+musewpslideshow.js                              0%    0     0.0KB/s   --:-- ETAmusewpslideshow.js                            100%   18KB  17.9KB/s   00:00    
+pie.js                                          0%    0     0.0KB/s   --:-- ETApie.js                                        100%   50KB  50.2KB/s   00:00    
+require.js                                      0%    0     0.0KB/s   --:-- ETArequire.js                                    100%   16KB  16.0KB/s   00:00    
+touchswipe.js                                   0%    0     0.0KB/s   --:-- ETAtouchswipe.js                                 100%   10KB   9.9KB/s   00:00    
+webpro.js                                       0%    0     0.0KB/s   --:-- ETAwebpro.js                                     100%   48KB  48.4KB/s   00:00    
+whatinput.js                                    0%    0     0.0KB/s   --:-- ETAwhatinput.js                                  100% 1712     1.7KB/s   00:00    
+sitemap.xml                                     0%    0     0.0KB/s   --:-- ETAsitemap.xml                                   100% 2842     2.8KB/s   00:00    
+typescript                                      0%    0     0.0KB/s   --:-- ETAtypescript                                    100%   20KB  20.2KB/s   00:00    
+bash-3.2$ ls
+classes			csc611.html		index.html
+csc320.html		csc632.html		muse_manifest.xml
+csc322.html		csc688e.html		research
+csc375.html		css			scripts
+csc443.html		haidar.html		sitemap.xml
+csc447.html		images			typescript
+bash-3.2$ ls[K[Kcd classes/
+bash-3.2$ ls
+csc375	csc443
+bash-3.2$ cd csc375/
+bash-3.2$ ls
+Lecture01.pdf	Lecture03.pdf	Lecture05.pdf	Lecture07.pdf	Lecture09.pdf
+Lecture02.pdf	Lecture04.pdf	Lecture06.pdf	Lecture08.pdf	Lecture10.pdf
+bash-3.2$ cd [K[K[Kmkdir Notes
+bash-3.2$ mv * Notes/
+mv: rename Notes to Notes/Notes: Invalid argument
+bash-3.2$ ls
+Notes
+bash-3.2$ !sc
+scp -r * root@vlsi.byblos.lau.edu.lb:/srv/www/htdocs/classes/csc375/Notes/
+Password: 
+Lecture01.pdf                                   0%    0     0.0KB/s   --:-- ETALecture01.pdf                                 100% 7875KB   7.7MB/s   00:01    
+Lecture02.pdf                                   0%    0     0.0KB/s   --:-- ETALecture02.pdf                                 100%  852KB 852.0KB/s   00:00    
+Lecture03.pdf                                   0%    0     0.0KB/s   --:-- ETALecture03.pdf                                 100% 6604KB   6.5MB/s   00:00    
+Lecture04.pdf                                   0%    0     0.0KB/s   --:-- ETALecture04.pdf                                 100% 2270KB   2.2MB/s   00:00    
+Lecture05.pdf                                   0%    0     0.0KB/s   --:-- ETALecture05.pdf                                 100% 1443KB   1.4MB/s   00:00    
+Lecture06.pdf                                   0%    0     0.0KB/s   --:-- ETALecture06.pdf                                 100%  735KB 734.9KB/s   00:00    
+Lecture07.pdf                                   0%    0     0.0KB/s   --:-- ETALecture07.pdf                                 100% 2911KB   2.8MB/s   00:00    
+Lecture08.pdf                                   0%    0     0.0KB/s   --:-- ETALecture08.pdf                                 100% 2712KB   2.7MB/s   00:00    
+Lecture09.pdf                                   0%    0     0.0KB/s   --:-- ETALecture09.pdf                                 100% 2383KB   2.3MB/s   00:00    
+Lecture10.pdf                                   0%    0     0.0KB/s   --:-- ETALecture10.pdf                                 100% 6226KB   6.1MB/s   00:00    
+bash-3.2$ ls
+Notes
+bash-3.2$ ls
+Notes
+bash-3.2$ ls Notes/
+Lecture01.pdf	Lecture03.pdf	Lecture05.pdf	Lecture07.pdf	Lecture09.pdf
+Lecture02.pdf	Lecture04.pdf	Lecture06.pdf	Lecture08.pdf	Lecture10.pdf
+bash-3.2$ clear
+[H[2Jbash-3.2$ ls
+Notes
+bash-3.2$ cd ..\[K
+bash-3.2$ ls
+csc375	csc443
+bash-3.2$ cd csc375/
+bash-3.2$ ls
+Notes
+bash-3.2$ cd Notes/
+bash-3.2$ ls
+Lecture01.pdf	Lecture03.pdf	Lecture05.pdf	Lecture07.pdf	Lecture09.pdf
+Lecture02.pdf	Lecture04.pdf	Lecture06.pdf	Lecture08.pdf	Lecture10.pdf
+bash-3.2$ !sc
+scp -r * root@vlsi.byblos.lau.edu.lb:/srv/www/htdocs/classes/csc375/Notes/
+Password: 
+Lecture01.pdf                                   0%    0     0.0KB/s   --:-- ETALecture01.pdf                                 100% 7875KB   7.7MB/s   00:00    
+Lecture02.pdf                                   0%    0     0.0KB/s   --:-- ETALecture02.pdf                                 100%  852KB 852.0KB/s   00:00    
+Lecture03.pdf                                   0%    0     0.0KB/s   --:-- ETALecture03.pdf                                 100% 6604KB   6.5MB/s   00:00    
+Lecture04.pdf                                   0%    0     0.0KB/s   --:-- ETALecture04.pdf                                 100% 2270KB   2.2MB/s   00:00    
+Lecture05.pdf                                   0%    0     0.0KB/s   --:-- ETALecture05.pdf                                 100% 1443KB   1.4MB/s   00:00    
+Lecture06.pdf                                   0%    0     0.0KB/s   --:-- ETALecture06.pdf                                 100%  735KB 734.9KB/s   00:00    
+Lecture07.pdf                                   0%    0     0.0KB/s   --:-- ETALecture07.pdf                                 100% 2911KB   2.8MB/s   00:00    
+Lecture08.pdf                                   0%    0     0.0KB/s   --:-- ETALecture08.pdf                                 100% 2712KB   2.7MB/s   00:00    
+Lecture09.pdf                                   0%    0     0.0KB/s   --:-- ETALecture09.pdf                                 100% 2383KB   2.3MB/s   00:00    
+Lecture10.pdf                                   0%    0     0.0KB/s   --:-- ETALecture10.pdf                                 100% 6226KB   6.1MB/s   00:01    
+bash-3.2$ ls
+Lecture01.pdf	Lecture03.pdf	Lecture05.pdf	Lecture07.pdf	Lecture09.pdf
+Lecture02.pdf	Lecture04.pdf	Lecture06.pdf	Lecture08.pdf	Lecture10.pdf
+bash-3.2$ cd ..
+bash-3.2$ ls
+Notes
+bash-3.2$ cd ..
+bash-3.2$ ls
+csc375	csc443
+bash-3.2$ cd csc443/
+bash-3.2$ ls
+Notes
+bash-3.2$ ls Notes/
+Lecture01.pdf	Lecture04.pdf	Lecture07.pdf	Lecture10.pdf
+Lecture02.pdf	Lecture05.pdf	Lecture08.pdf	Lecture11.pdf
+Lecture03.pdf	Lecture06.pdf	Lecture09.pdf	Lecture12.pdf
+bash-3.2$ ls
+Notes
+bash-3.2$ cd ..
+bash-3.2$ ls
+csc375	csc443
+bash-3.2$ cd ..
+bash-3.2$ ls
+classes			csc611.html		index.html
+csc320.html		csc632.html		muse_manifest.xml
+csc322.html		csc688e.html		research
+csc375.html		css			scripts
+csc443.html		haidar.html		sitemap.xml
+csc447.html		images			typescript
+bash-3.2$ pwd
+/Users/haidar/harmanani.github.io
+bash-3.2$ c[K!com
+bash: !com: event not found
+bash-3.2$ commit -m }[K"updated path"
+bash: commit: command not found
+bash-3.2$ commit -m "updated path"[C[C[C[C[C[C[C[C[C[C[1@f[1P[1@g[1@i[1@t[1@ 
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	[31mdeleted:    classes/csc375/Lecture01.pdf[m
+	[31mdeleted:    classes/csc375/Lecture02.pdf[m
+	[31mdeleted:    classes/csc375/Lecture03.pdf[m
+	[31mdeleted:    classes/csc375/Lecture04.pdf[m
+	[31mdeleted:    classes/csc375/Lecture05.pdf[m
+	[31mdeleted:    classes/csc375/Lecture06.pdf[m
+	[31mdeleted:    classes/csc375/Lecture07.pdf[m
+	[31mdeleted:    classes/csc375/Lecture08.pdf[m
+	[31mdeleted:    classes/csc375/Lecture09.pdf[m
+	[31mdeleted:    classes/csc375/Lecture10.pdf[m
+
+Untracked files:
+	[31mclasses/csc375/Notes/[m
+	[31mtypescript[m
+
+no changes added to commit
+bash-3.2$ git push -u org[Kigin master
+Branch master set up to track remote branch master from origin.
+Everything up-to-date
+bash-3.2$ pwd
+/Users/haidar/harmanani.github.io
+bash-3.2$ cd cs[K[K[K[K[Kls
+classes			csc611.html		index.html
+csc320.html		csc632.html		muse_manifest.xml
+csc322.html		csc688e.html		research
+csc375.html		css			scripts
+csc443.html		haidar.html		sitemap.xml
+csc447.html		images			typescript
+bash-3.2$ cd csc[K[K[Kclasses/csc375/
+bash-3.2$ ls
+Notes
+bash-3.2$ pwd
+/Users/haidar/harmanani.github.io/classes/csc375
+bash-3.2$ ls -k[Kl
+total 0
+drwxr-xr-x  12 haidar  staff  408 Oct 25 09:08 Notes
+bash-3.2$ cd Notes/
+bash-3.2$ ls
+Lecture01.pdf	Lecture03.pdf	Lecture05.pdf	Lecture07.pdf	Lecture09.pdf
+Lecture02.pdf	Lecture04.pdf	Lecture06.pdf	Lecture08.pdf	Lecture10.pdf
+bash-3.2$ ls -l
+total 68048
+-rw-------@ 1 haidar  staff  8064243 Oct 21 18:22 Lecture01.pdf
+-rw-------@ 1 haidar  staff   872433 Oct 21 18:23 Lecture02.pdf
+-rw-------@ 1 haidar  staff  6762667 Oct 21 18:23 Lecture03.pdf
+-rw-------@ 1 haidar  staff  2324649 Oct 21 18:23 Lecture04.pdf
+-rw-------@ 1 haidar  staff  1477654 Oct 21 18:24 Lecture05.pdf
+-rw-------@ 1 haidar  staff   752525 Oct 21 18:24 Lecture06.pdf
+-rw-------@ 1 haidar  staff  2981084 Oct 21 18:25 Lecture07.pdf
+-rw-------@ 1 haidar  staff  2776756 Oct 25 09:04 Lecture08.pdf
+-rw-------@ 1 haidar  staff  2440351 Oct 21 18:26 Lecture09.pdf
+-rw-------@ 1 haidar  staff  6375523 Oct 21 18:26 Lecture10.pdf
+bash-3.2$ chmod O+r[K[K[Ko+r *
+bash-3.2$ chmod o+r *[1P[1@g
+bash-3.2$ chmod g+r *o[C[C[C[C[6Pls -l[Kcd Notes/[4Pls -l[2Ppwd[1Plscd classes/csc375/[C[C[C[C[C[C[C[C[C[Cls[Kpwdgit push -u origin master[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -m "updated path"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K!sc[K[K[Kpwd
+/Users/haidar/harmanani.github.io/classes/csc375/Notes
+bash-3.2$ !sc
+scp -r * root@vlsi.byblos.lau.edu.lb:/srv/www/htdocs/classes/csc375/Notes/
+Password: 
+Lecture01.pdf                                   0%    0     0.0KB/s   --:-- ETALecture01.pdf                                 100% 7875KB   7.7MB/s   00:00    
+Lecture02.pdf                                   0%    0     0.0KB/s   --:-- ETALecture02.pdf                                 100%  852KB 852.0KB/s   00:00    
+Lecture03.pdf                                   0%    0     0.0KB/s   --:-- ETALecture03.pdf                                 100% 6604KB   6.5MB/s   00:00    
+Lecture04.pdf                                   0%    0     0.0KB/s   --:-- ETALecture04.pdf                                 100% 2270KB   2.2MB/s   00:00    
+Lecture05.pdf                                   0%    0     0.0KB/s   --:-- ETALecture05.pdf                                 100% 1443KB   1.4MB/s   00:00    
+Lecture06.pdf                                   0%    0     0.0KB/s   --:-- ETALecture06.pdf                                 100%  735KB 734.9KB/s   00:00    
+Lecture07.pdf                                   0%    0     0.0KB/s   --:-- ETALecture07.pdf                                 100% 2911KB   2.8MB/s   00:00    
+Lecture08.pdf                                   0%    0     0.0KB/s   --:-- ETALecture08.pdf                                 100% 2712KB   2.7MB/s   00:00    
+Lecture09.pdf                                   0%    0     0.0KB/s   --:-- ETALecture09.pdf                                 100% 2383KB   2.3MB/s   00:00    
+Lecture10.pdf                                   0%    0     0.0KB/s   --:-- ETALecture10.pdf                                 100% 6226KB   6.1MB/s   00:00    
+bash-3.2$ ls -l
+total 68048
+-rw-r--r--@ 1 haidar  staff  8064243 Oct 21 18:22 Lecture01.pdf
+-rw-r--r--@ 1 haidar  staff   872433 Oct 21 18:23 Lecture02.pdf
+-rw-r--r--@ 1 haidar  staff  6762667 Oct 21 18:23 Lecture03.pdf
+-rw-r--r--@ 1 haidar  staff  2324649 Oct 21 18:23 Lecture04.pdf
+-rw-r--r--@ 1 haidar  staff  1477654 Oct 21 18:24 Lecture05.pdf
+-rw-r--r--@ 1 haidar  staff   752525 Oct 21 18:24 Lecture06.pdf
+-rw-r--r--@ 1 haidar  staff  2981084 Oct 21 18:25 Lecture07.pdf
+-rw-r--r--@ 1 haidar  staff  2776756 Oct 25 09:04 Lecture08.pdf
+-rw-r--r--@ 1 haidar  staff  2440351 Oct 21 18:26 Lecture09.pdf
+-rw-r--r--@ 1 haidar  staff  6375523 Oct 21 18:26 Lecture10.pdf
+bash-3.2$ 
