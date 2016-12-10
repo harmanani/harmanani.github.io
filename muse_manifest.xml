@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1481385048621">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1481385391308">
   <folder name="css">
     <file name="site_global.css" crc="195094417"/>
     <file name="csc632.css" crc="3878962370" ref="csc632"/>
@@ -11,7 +11,7 @@
     <file name="haidar.css" crc="380256813" ref="haidar"/>
     <file name="index.css" crc="4192941152" ref="index"/>
     <file name="csc447.css" crc="299179722" ref="csc447"/>
-    <file name="csc631.css" crc="76608160" ref="csc631"/>
+    <file name="csc631.css" crc="85928029" ref="csc631"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
@@ -82,7 +82,7 @@
     <file name="uf2.jpg" crc="318977285" ref="csc631"/>
     <file name="a9-apple-chip.jpg" crc="227330220" ref="csc631"/>
   </folder>
-  <file name="index.html" crc="49724674" seo="true" mt="1481385046894" redirect="true"/>
+  <file name="index.html" crc="49724674" seo="true" mt="1481385389509" redirect="true"/>
   <file name="haidar.html" crc="4239914675" seo="true" mt="1470583777719" redirect="true"/>
   <file name="csc443.html" crc="496781869" seo="true" mt="1477928656372" redirect="true"/>
   <file name="csc375.html" crc="3962706649" seo="true" mt="1477063327925" redirect="true"/>
@@ -92,5 +92,5 @@
   <file name="csc447.html" crc="282240162" seo="true" mt="1470583879509" redirect="true"/>
   <file name="csc611.html" crc="3897738098" seo="true" mt="1470584049766" redirect="true"/>
   <file name="csc632.html" crc="4230854705" seo="true" mt="1470584008914" redirect="true"/>
-  <file name="csc631.html" crc="391641733" seo="true" mt="1481385046892" redirect="true"/>
+  <file name="csc631.html" crc="3987874430" seo="true" mt="1481385389507" redirect="true"/>
 </manifest>
