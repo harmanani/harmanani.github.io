@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1491225659449">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1491226819815">
   <folder name="css">
     <file name="site_global.css" crc="195094417"/>
     <file name="csc632.css" crc="3878962370" ref="csc632"/>
@@ -92,5 +92,5 @@
   <file name="csc447.html" crc="381847615" seo="true" mt="1491225636806" redirect="true"/>
   <file name="csc611.html" crc="3897738098" seo="true" mt="1470584049766" redirect="true"/>
   <file name="csc632.html" crc="4230854705" seo="true" mt="1489595383328" redirect="true"/>
-  <file name="csc631.html" crc="3789004812" seo="true" mt="1491224930985" redirect="true"/>
+  <file name="csc631.html" crc="3789004812" seo="true" mt="1491226787357" redirect="true"/>
 </manifest>
