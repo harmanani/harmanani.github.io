@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1493496826663">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1494060696269">
   <folder name="css">
-    <file name="site_global.css" crc="104220973"/>
+    <file name="site_global.css" crc="195094417"/>
     <file name="csc632.css" crc="3878962370" ref="csc632"/>
     <file name="csc688e.css" crc="68886500" ref="csc688e"/>
     <file name="csc320.css" crc="482617479" ref="csc320"/>
@@ -9,39 +9,40 @@
     <file name="csc611.css" crc="4281465807" ref="csc611"/>
     <file name="csc443.css" crc="344524792" ref="csc443"/>
     <file name="haidar.css" crc="380256813" ref="haidar"/>
-    <file name="index.css" crc="4192941152" ref="index"/>
-    <file name="csc447.css" crc="4237234723" ref="csc447"/>
+    <file name="index.css" crc="4018665087" ref="index"/>
+    <file name="csc447.css" crc="4134606810" ref="csc447"/>
     <file name="csc631.css" crc="260805988" ref="csc631"/>
+    <file name="csc498r.css" crc="4229626589" ref="csc498r"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="museutils.js" crc="4155826306" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="whatinput.js" crc="86476730" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="museconfig.js" crc="483509463" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="jquery.musemenu.js" crc="3765356681" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="webpro.js" crc="4078243563" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="musewpslideshow.js" crc="4115829919" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="jquery.museoverlay.js" crc="3936724022" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="touchswipe.js" crc="157639107" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="pie.js" crc="3827607177" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="musewpdisclosure.js" crc="3802586038" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="jquery.watch.js" crc="117772946" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="require.js" crc="228336483" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="museutils.js" crc="4155826306" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="whatinput.js" crc="86476730" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="museconfig.js" crc="483509463" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="webpro.js" crc="4078243563" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="touchswipe.js" crc="157639107" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="pie.js" crc="3827607177" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="require.js" crc="228336483" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
   </folder>
   <folder name="images">
-    <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
+    <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
     <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar"/>
     <file name="byblos.jpg" crc="3908857989" ref="index:haidar"/>
     <file name="dsc_0367.jpg" crc="3809102535" ref="index:haidar"/>
-    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
-    <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631"/>
+    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
     <file name="129-960x623.jpg" crc="287340160" ref="index"/>
     <file name="computer-engineering01_web.jpg" crc="3908325990" ref="index:csc322"/>
-    <file name="tianhe 2 corridor.jpg" crc="773239" ref="index"/>
+    <file name="tianhe 2 corridor.jpg" crc="3874207461" ref="index"/>
     <file name="what-is-aws-and-how-did-it-bring-down-instagram--6b1ffffa8a-u4349-fr.jpg" crc="3915006487" ref="index:csc375:csc447"/>
     <file name="403150_290183501033602_149867701_n.jpg" crc="457288972" ref="index"/>
     <file name="dsc_0228.jpg" crc="4001980211" ref="index"/>
@@ -81,16 +82,21 @@
     <file name="3161h10.jpg" crc="3915349170" ref="index:csc631"/>
     <file name="uf2.jpg" crc="318977285" ref="csc631"/>
     <file name="a9-apple-chip.jpg" crc="227330220" ref="csc631"/>
+    <file name="arm-dynamiq-contenthero-790x444png-790x444.jpg" crc="4110481057" ref="index"/>
+    <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r"/>
+    <file name="maxresdefault-u6820-fr.jpg" crc="172035509" ref="csc498r"/>
+    <file name="antennaspec.jpg" crc="4294804818" ref="csc498r"/>
   </folder>
-  <file name="index.html" crc="49724674" seo="true" mt="1481385389509" redirect="true"/>
+  <file name="index.html" crc="4219284982" seo="true" mt="1494060692893" redirect="true"/>
   <file name="haidar.html" crc="4239914675" seo="true" mt="1470583777719" redirect="true"/>
   <file name="csc443.html" crc="472970439" seo="true" mt="1485513853531" redirect="true"/>
   <file name="csc375.html" crc="4279414071" seo="true" mt="1485689474078" redirect="true"/>
   <file name="csc688e.html" crc="3899592262" seo="true" mt="1473938605951" redirect="true"/>
   <file name="csc320.html" crc="531001860" seo="true" mt="1493325935163" redirect="true"/>
   <file name="csc322.html" crc="3767349149" seo="true" mt="1485696834297" redirect="true"/>
-  <file name="csc447.html" crc="65486309" seo="true" mt="1493496805869" redirect="true"/>
+  <file name="csc447.html" crc="4176652265" seo="true" mt="1494060679856" redirect="true"/>
   <file name="csc611.html" crc="3897738098" seo="true" mt="1470584049766" redirect="true"/>
   <file name="csc632.html" crc="4230854705" seo="true" mt="1489595383328" redirect="true"/>
   <file name="csc631.html" crc="4059273474" seo="true" mt="1492951064866" redirect="true"/>
+  <file name="csc498r.html" crc="212682633" seo="true" mt="1494021481115" redirect="true"/>
 </manifest>

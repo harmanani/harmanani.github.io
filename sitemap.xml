@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/index.html</loc>
-    <lastmod>2016-12-10</lastmod>
+    <lastmod>2017-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,20 +19,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc632.html</loc>
-    <lastmod>2017-03-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc611.html</loc>
-    <lastmod>2016-08-07</lastmod>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc320.html</loc>
+    <lastmod>2017-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc631.html</loc>
     <lastmod>2017-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc632.html</loc>
+    <lastmod>2017-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -49,12 +49,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc320.html</loc>
-    <lastmod>2017-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc322.html</loc>
     <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,37 +56,49 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc447.html</loc>
-    <lastmod>2017-04-29</lastmod>
+    <lastmod>2017-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/images/road.jpg</loc>
-    <lastmod>2017-04-29</lastmod>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc498r.html</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc611.html</loc>
+    <lastmod>2016-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/images/img_1903-crop-u2150.jpg</loc>
-    <lastmod>2017-04-29</lastmod>
+    <lastmod>2017-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</loc>
-    <lastmod>2017-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/images/memnet-mit-csail_0-crop-u2211.jpg</loc>
-    <lastmod>2017-04-29</lastmod>
+    <lastmod>2017-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/images/dollarfinger-istock_000070391179_medium.jpg</loc>
-    <lastmod>2017-04-29</lastmod>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/images/road.jpg</loc>
+    <lastmod>2017-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/images/memnet-mit-csail_0-crop-u2211.jpg</loc>
+    <lastmod>2017-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
