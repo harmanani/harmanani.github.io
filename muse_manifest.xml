@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1494060696269">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1494225412544">
   <folder name="css">
     <file name="site_global.css" crc="195094417"/>
     <file name="csc632.css" crc="3878962370" ref="csc632"/>
@@ -10,7 +10,7 @@
     <file name="csc443.css" crc="344524792" ref="csc443"/>
     <file name="haidar.css" crc="380256813" ref="haidar"/>
     <file name="index.css" crc="4018665087" ref="index"/>
-    <file name="csc447.css" crc="4134606810" ref="csc447"/>
+    <file name="csc447.css" crc="4237234723" ref="csc447"/>
     <file name="csc631.css" crc="260805988" ref="csc631"/>
     <file name="csc498r.css" crc="4229626589" ref="csc498r"/>
   </folder>
@@ -87,14 +87,14 @@
     <file name="maxresdefault-u6820-fr.jpg" crc="172035509" ref="csc498r"/>
     <file name="antennaspec.jpg" crc="4294804818" ref="csc498r"/>
   </folder>
-  <file name="index.html" crc="4219284982" seo="true" mt="1494060692893" redirect="true"/>
+  <file name="index.html" crc="4219284982" seo="true" mt="1494225410204" redirect="true"/>
   <file name="haidar.html" crc="4239914675" seo="true" mt="1470583777719" redirect="true"/>
   <file name="csc443.html" crc="472970439" seo="true" mt="1485513853531" redirect="true"/>
   <file name="csc375.html" crc="4279414071" seo="true" mt="1485689474078" redirect="true"/>
   <file name="csc688e.html" crc="3899592262" seo="true" mt="1473938605951" redirect="true"/>
   <file name="csc320.html" crc="531001860" seo="true" mt="1493325935163" redirect="true"/>
   <file name="csc322.html" crc="3767349149" seo="true" mt="1485696834297" redirect="true"/>
-  <file name="csc447.html" crc="4176652265" seo="true" mt="1494060679856" redirect="true"/>
+  <file name="csc447.html" crc="4032328631" seo="true" mt="1494225398903" redirect="true"/>
   <file name="csc611.html" crc="3897738098" seo="true" mt="1470584049766" redirect="true"/>
   <file name="csc632.html" crc="4230854705" seo="true" mt="1489595383328" redirect="true"/>
   <file name="csc631.html" crc="4059273474" seo="true" mt="1492951064866" redirect="true"/>
