@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1496145157283">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1497865771152">
   <folder name="css">
     <file name="site_global.css" crc="195094417"/>
     <file name="csc632.css" crc="3878962370" ref="csc632"/>
@@ -12,7 +12,7 @@
     <file name="index.css" crc="4018665087" ref="index"/>
     <file name="csc447.css" crc="342459530" ref="csc447"/>
     <file name="csc631.css" crc="219791751" ref="csc631"/>
-    <file name="csc498r.css" crc="4221980376" ref="csc498r"/>
+    <file name="csc498r.css" crc="378204757" ref="csc498r"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
@@ -98,5 +98,5 @@
   <file name="csc611.html" crc="3897738098" seo="true" mt="1470584049766" redirect="true"/>
   <file name="csc632.html" crc="4230854705" seo="true" mt="1489595383328" redirect="true"/>
   <file name="csc631.html" crc="455523431" seo="true" mt="1495568376965" redirect="true"/>
-  <file name="csc498r.html" crc="514409628" seo="true" mt="1496145143885" redirect="true"/>
+  <file name="csc498r.html" crc="3886207802" seo="true" mt="1497865758848" redirect="true"/>
 </manifest>
