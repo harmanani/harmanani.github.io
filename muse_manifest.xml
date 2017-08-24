@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1497865771152">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1503568024117">
   <folder name="css">
     <file name="site_global.css" crc="195094417"/>
     <file name="csc632.css" crc="3878962370" ref="csc632"/>
     <file name="csc688e.css" crc="68886500" ref="csc688e"/>
     <file name="csc320.css" crc="482617479" ref="csc320"/>
     <file name="csc322.css" crc="512338644" ref="csc322"/>
-    <file name="csc375.css" crc="299834791" ref="csc375"/>
+    <file name="csc375.css" crc="3883173989" ref="csc375"/>
     <file name="csc611.css" crc="4281465807" ref="csc611"/>
-    <file name="csc443.css" crc="344524792" ref="csc443"/>
+    <file name="csc443.css" crc="4174268289" ref="csc443"/>
     <file name="haidar.css" crc="380256813" ref="haidar"/>
     <file name="index.css" crc="4018665087" ref="index"/>
     <file name="csc447.css" crc="342459530" ref="csc447"/>
     <file name="csc631.css" crc="219791751" ref="csc631"/>
-    <file name="csc498r.css" crc="378204757" ref="csc498r"/>
+    <file name="csc498r.css" crc="4232378217" ref="csc498r"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
@@ -84,19 +84,19 @@
     <file name="a9-apple-chip.jpg" crc="227330220" ref="csc631"/>
     <file name="arm-dynamiq-contenthero-790x444png-790x444.jpg" crc="4110481057" ref="index"/>
     <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r"/>
-    <file name="antennaspec.jpg" crc="4294804818" ref="csc498r"/>
     <file name="internet-of-things-powered-by-raspberry-pi-u6820-fr.jpg" crc="306849833" ref="csc498r"/>
+    <file name="2738-05-u6819-fr.jpg" crc="514625693" ref="csc498r"/>
   </folder>
   <file name="index.html" crc="4219284982" seo="true" mt="1494225410204" redirect="true"/>
   <file name="haidar.html" crc="4239914675" seo="true" mt="1470583777719" redirect="true"/>
-  <file name="csc443.html" crc="472970439" seo="true" mt="1485513853531" redirect="true"/>
-  <file name="csc375.html" crc="4279414071" seo="true" mt="1485689474078" redirect="true"/>
+  <file name="csc443.html" crc="148854445" seo="true" mt="1503567881518" redirect="true"/>
+  <file name="csc375.html" crc="183026865" seo="true" mt="1503567998893" redirect="true"/>
   <file name="csc688e.html" crc="3899592262" seo="true" mt="1473938605951" redirect="true"/>
   <file name="csc320.html" crc="531001860" seo="true" mt="1493325935163" redirect="true"/>
   <file name="csc322.html" crc="3767349149" seo="true" mt="1485696834297" redirect="true"/>
   <file name="csc447.html" crc="4060863091" seo="true" mt="1495568352651" redirect="true"/>
   <file name="csc611.html" crc="3897738098" seo="true" mt="1470584049766" redirect="true"/>
-  <file name="csc632.html" crc="4230854705" seo="true" mt="1489595383328" redirect="true"/>
+  <file name="csc632.html" crc="4139834878" seo="true" mt="1498842552738" redirect="true"/>
   <file name="csc631.html" crc="455523431" seo="true" mt="1495568376965" redirect="true"/>
-  <file name="csc498r.html" crc="3886207802" seo="true" mt="1497865758848" redirect="true"/>
+  <file name="csc498r.html" crc="3900623007" seo="true" mt="1503567966017" redirect="true"/>
 </manifest>
