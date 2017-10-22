@@ -1,105 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/index.html</loc>
-    <lastmod>2017-05-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc375.html</loc>
     <lastmod>2017-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc688e.html</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc320.html</loc>
-    <lastmod>2017-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc631.html</loc>
-    <lastmod>2017-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc632.html</loc>
-    <lastmod>2017-06-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/img_1903-crop-u2150.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/dollarfinger-istock_000070391179_medium.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/memnet-mit-csail_0-crop-u2211.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/road.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/cactus-crop-u1213.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/haidar.html</loc>
     <lastmod>2016-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/img_1903-crop-u2150-crop-u2459.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc443.html</loc>
     <lastmod>2017-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc375.html</loc>
+    <lastmod>2017-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc688e.html</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc320.html</loc>
+    <lastmod>2017-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc322.html</loc>
     <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc447.html</loc>
     <lastmod>2017-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/csc498r.html</loc>
-    <lastmod>2017-08-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc611.html</loc>
     <lastmod>2016-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/images/img_1903-crop-u2150.jpg</loc>
-    <lastmod>2017-08-24</lastmod>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc632.html</loc>
+    <lastmod>2017-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</loc>
-    <lastmod>2017-08-24</lastmod>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc631.html</loc>
+    <lastmod>2017-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/images/dollarfinger-istock_000070391179_medium.jpg</loc>
-    <lastmod>2017-08-24</lastmod>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc498r.html</loc>
+    <lastmod>2017-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/images/road.jpg</loc>
-    <lastmod>2017-08-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vlsi.byblos.lau.edu.lb/images/memnet-mit-csail_0-crop-u2211.jpg</loc>
-    <lastmod>2017-08-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

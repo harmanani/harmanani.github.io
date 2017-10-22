@@ -1,102 +1,247 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1503568024117">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1508696863945">
   <folder name="css">
-    <file name="site_global.css" crc="195094417"/>
-    <file name="csc632.css" crc="3878962370" ref="csc632"/>
-    <file name="csc688e.css" crc="68886500" ref="csc688e"/>
-    <file name="csc320.css" crc="482617479" ref="csc320"/>
-    <file name="csc322.css" crc="512338644" ref="csc322"/>
-    <file name="csc375.css" crc="3883173989" ref="csc375"/>
-    <file name="csc611.css" crc="4281465807" ref="csc611"/>
-    <file name="csc443.css" crc="4174268289" ref="csc443"/>
-    <file name="haidar.css" crc="380256813" ref="haidar"/>
-    <file name="index.css" crc="4018665087" ref="index"/>
-    <file name="csc447.css" crc="342459530" ref="csc447"/>
-    <file name="csc631.css" crc="219791751" ref="csc631"/>
-    <file name="csc498r.css" crc="4232378217" ref="csc498r"/>
+    <file name="site_global.css" crc="344266470"/>
+    <file name="index.css" crc="76969336" ref="index"/>
+    <file name="csc322.css" crc="3783044675" ref="csc322"/>
+    <file name="haidar.css" crc="4018054773" ref="haidar"/>
+    <file name="csc498r.css" crc="3958309601" ref="csc498r"/>
+    <file name="csc611.css" crc="4118587798" ref="csc611"/>
+    <file name="csc320.css" crc="394961396" ref="csc320"/>
+    <file name="csc443.css" crc="168195468" ref="csc443"/>
+    <file name="csc632.css" crc="535641404" ref="csc632"/>
+    <file name="csc688e.css" crc="380349769" ref="csc688e"/>
+    <file name="csc631.css" crc="505659262" ref="csc631"/>
+    <file name="csc447.css" crc="4000408357" ref="csc447"/>
+    <file name="csc375.css" crc="337484771" ref="csc375"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="museutils.js" crc="4155826306" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="museutils.js" crc="3803043152" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
     <file name="whatinput.js" crc="86476730" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="museconfig.js" crc="483509463" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="jquery.musemenu.js" crc="3765356681" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="webpro.js" crc="4078243563" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="musewpslideshow.js" crc="4115829919" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="jquery.museoverlay.js" crc="3936724022" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="touchswipe.js" crc="157639107" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="pie.js" crc="3827607177" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="musewpdisclosure.js" crc="3802586038" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="jquery.watch.js" crc="117772946" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="museconfig.js" crc="380897831" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="webpro.js" crc="242022427" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="require.js" crc="228336483" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
+    <file name="require.js" crc="4157109226" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
   </folder>
   <folder name="images">
-    <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar"/>
-    <file name="byblos.jpg" crc="3908857989" ref="index:haidar"/>
-    <file name="dsc_0367.jpg" crc="3809102535" ref="index:haidar"/>
-    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
-    <file name="129-960x623.jpg" crc="287340160" ref="index"/>
-    <file name="computer-engineering01_web.jpg" crc="3908325990" ref="index:csc322"/>
-    <file name="tianhe 2 corridor.jpg" crc="3874207461" ref="index"/>
-    <file name="what-is-aws-and-how-did-it-bring-down-instagram--6b1ffffa8a-u4349-fr.jpg" crc="3915006487" ref="index:csc375:csc447"/>
-    <file name="403150_290183501033602_149867701_n.jpg" crc="457288972" ref="index"/>
-    <file name="dsc_0228.jpg" crc="4001980211" ref="index"/>
-    <file name="dsc_0250.jpg" crc="3983366278" ref="index"/>
-    <file name="obama-science.jpg" crc="3959066347" ref="index"/>
-    <file name="us__en_us__ibm100__sci_research_lab__fractal_geometry__620x350.jpg" crc="4087675172" ref="index"/>
-    <file name="lung-on-chip-u2862-fr.jpg" crc="251782823" ref="index"/>
-    <file name="shutterstock_148957235.jpg" crc="250707624" ref="index:csc688e:csc322:csc632"/>
-    <file name="cropped-programmingoop_wallpaper_black_by_hexeno.jpg" crc="151910392" ref="index"/>
-    <file name="672x372xwhatis-672x372jpgpagespeedicokremyjz2j.jpg" crc="3939542481" ref="index"/>
-    <file name="lsm_chip.jpg" crc="3805901479" ref="index:csc688e:csc320:csc632"/>
-    <file name="120327043014-computer-chip-super-flops-horizontal-large-gallery.jpg" crc="249647586" ref="index:csc320"/>
-    <file name="tweeter.png" crc="192439320" ref="index:haidar"/>
-    <file name="img_1903-crop-u2150.jpg" crc="58901511" seo="true" ref="index"/>
-    <file name="1454446752995.png" crc="3782749083" ref="index"/>
-    <file name="dollarfinger-istock_000070391179_medium.jpg" crc="3899744751" seo="true" ref="index"/>
-    <file name="memnet-mit-csail_0-crop-u2211.jpg" crc="2520848" seo="true" ref="index"/>
-    <file name="road.jpg" crc="4196313430" seo="true" ref="index"/>
-    <file name="cactus-crop-u1213.jpg" crc="4267823104" ref="index"/>
-    <file name="sw.png" crc="302613903" ref="haidar"/>
-    <file name="rg.png" crc="217970158" ref="haidar"/>
-    <file name="g.png" crc="235849606" ref="haidar"/>
-    <file name="img_1903-crop-u2150-crop-u2459.jpg" crc="175176866" ref="haidar"/>
-    <file name="combined-web-languages-u2694-fr.png" crc="113655947" ref="csc443"/>
-    <file name="maxresdefault-u2692-fr.jpg" crc="419580292" ref="csc443"/>
-    <file name="inversion-1-u2693-fr.jpg" crc="449413498" ref="csc443"/>
-    <file name="msdatacenter12513-u4348-fr.jpg" crc="513372046" ref="csc375"/>
-    <file name="machinelearninganddataminingwordle-u4347-fr.jpg" crc="3906181763" ref="csc375"/>
-    <file name="pb120046-u4794-fr.jpg" crc="26338296" ref="csc688e:csc632"/>
-    <file name="1-onesmallchip-u3380-fr.jpg" crc="362243734" ref="csc320"/>
-    <file name="failed_transistor.jpg" crc="4028785144" ref="csc322"/>
-    <file name="0_0_0_0_70__news_titan x money.jpg" crc="4183415606" ref="csc447"/>
-    <file name="tianhe 2 corridor-u3917-fr.jpg" crc="11819479" ref="csc447"/>
-    <file name="algorithm_of_life_by_azzazian-d5s358u-u4226-fr.jpg" crc="3933501583" ref="csc611"/>
-    <file name="manageinfo-u4227-fr.jpg" crc="309823025" ref="csc611"/>
-    <file name="maxresdefault-u4228-fr.jpg" crc="3987721111" ref="csc611"/>
-    <file name="3161h10.jpg" crc="3915349170" ref="index:csc631"/>
-    <file name="uf2.jpg" crc="318977285" ref="csc631"/>
-    <file name="a9-apple-chip.jpg" crc="227330220" ref="csc631"/>
-    <file name="arm-dynamiq-contenthero-790x444png-790x444.jpg" crc="4110481057" ref="index"/>
-    <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r"/>
-    <file name="internet-of-things-powered-by-raspberry-pi-u6820-fr.jpg" crc="306849833" ref="csc498r"/>
-    <file name="2738-05-u6819-fr.jpg" crc="514625693" ref="csc498r"/>
+    <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc631" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc631" alt=""/>
+    </file>
+    <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc631" alt=""/>
+    </file>
+    <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="byblos.jpg" crc="3908857989" ref="index:haidar">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0367.jpg" crc="3809102535" ref="index:haidar">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc631" alt=""/>
+    </file>
+    <file name="129-960x623.jpg" crc="287340160" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="computer-engineering01_web.jpg" crc="3908325990" ref="index:csc322">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3161h10-u1628-fr.jpg" crc="3915599537" ref="index"/>
+    <file name="tianhe 2 corridor.jpg" crc="3874207461" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arm-dynamiq-contenthero-790x444png-790x444-u533-fr.jpg" crc="447840185" ref="index"/>
+    <file name="what-is-aws-and-how-did-it-bring-down-instagram--6b1ffffa8a-u4349-fr-u1659-fr.jpg" crc="83483739" ref="index"/>
+    <file name="obama-science.jpg" crc="3959066347" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="us__en_us__ibm100__sci_research_lab__fractal_geometry__620x350.jpg" crc="4087675172" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="403150_290183501033602_149867701_n.jpg" crc="457288972" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0228.jpg" crc="4001980211" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_0250.jpg" crc="3983366278" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lung-on-chip-u2862-fr.jpg" crc="251782823" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_148957235.jpg" crc="250707624" ref="index:csc688e:csc322:csc632">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cropped-programmingoop_wallpaper_black_by_hexeno.jpg" crc="151910392" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="672x372xwhatis-672x372jpgpagespeedicokremyjz2j.jpg" crc="3939542481" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lsm_chip.jpg" crc="3805901479" ref="index:csc688e:csc320:csc632">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="120327043014-computer-chip-super-flops-horizontal-large-gallery-u1930-fr.jpg" crc="260430695" ref="index"/>
+    <file name="tweeter.png" crc="192439320" ref="index:haidar">
+      <caption webpage="index" alt="@harmanani"/>
+      <caption webpage="haidar" alt="@harmanani"/>
+    </file>
+    <file name="img_1903-crop-u2150.jpg" crc="58901511" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1454446752995.png" crc="3782749083" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dollarfinger-istock_000070391179_medium.jpg" crc="3899744751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="memnet-mit-csail_0-crop-u2211.jpg" crc="2520848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road.jpg" crc="104962627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cactus-crop-u1213.jpg" crc="255365412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sw.png" crc="302613903" ref="haidar">
+      <caption webpage="haidar" alt=""/>
+    </file>
+    <file name="rg.png" crc="217970158" ref="haidar">
+      <caption webpage="haidar" alt=""/>
+    </file>
+    <file name="g.png" crc="235849606" ref="haidar">
+      <caption webpage="haidar" alt=""/>
+    </file>
+    <file name="img_1903-crop-u2150-crop-u2459.jpg" crc="3773741604" seo="true" ref="haidar">
+      <caption webpage="haidar" alt=""/>
+    </file>
+    <file name="combined-web-languages-u2694-fr.png" crc="113655947" ref="csc443">
+      <caption webpage="csc443" alt=""/>
+    </file>
+    <file name="maxresdefault-u2692-fr.jpg" crc="419580292" ref="csc443">
+      <caption webpage="csc443" alt=""/>
+    </file>
+    <file name="inversion-1-u2693-fr.jpg" crc="449413498" ref="csc443">
+      <caption webpage="csc443" alt=""/>
+    </file>
+    <file name="what-is-aws-and-how-did-it-bring-down-instagram--6b1ffffa8a-u4349-fr.jpg" crc="3915006487" ref="csc375:csc447">
+      <caption webpage="csc375" alt=""/>
+    </file>
+    <file name="msdatacenter12513-u4348-fr.jpg" crc="513372046" ref="csc375">
+      <caption webpage="csc375" alt=""/>
+    </file>
+    <file name="machinelearninganddataminingwordle-u4347-fr.jpg" crc="3906181763" ref="csc375">
+      <caption webpage="csc375" alt=""/>
+    </file>
+    <file name="pb120046-u4794-fr.jpg" crc="26338296" ref="csc688e:csc632">
+      <caption webpage="csc688e" alt=""/>
+    </file>
+    <file name="1-onesmallchip-u3380-fr.jpg" crc="362243734" ref="csc320">
+      <caption webpage="csc320" alt=""/>
+    </file>
+    <file name="120327043014-computer-chip-super-flops-horizontal-large-gallery.jpg" crc="249647586" ref="csc320">
+      <caption webpage="csc320" alt=""/>
+    </file>
+    <file name="failed_transistor.jpg" crc="4028785144" ref="csc322">
+      <caption webpage="csc322" alt=""/>
+    </file>
+    <file name="0_0_0_0_70__news_titan x money.jpg" crc="4183415606" ref="csc447">
+      <caption webpage="csc447" alt=""/>
+    </file>
+    <file name="tianhe 2 corridor-u3917-fr.jpg" crc="11819479" ref="csc447">
+      <caption webpage="csc447" alt=""/>
+    </file>
+    <file name="algorithm_of_life_by_azzazian-d5s358u-u4226-fr.jpg" crc="3933501583" ref="csc611">
+      <caption webpage="csc611" alt=""/>
+    </file>
+    <file name="manageinfo-u4227-fr.jpg" crc="309823025" ref="csc611">
+      <caption webpage="csc611" alt=""/>
+    </file>
+    <file name="maxresdefault-u4228-fr.jpg" crc="3987721111" ref="csc611">
+      <caption webpage="csc611" alt=""/>
+    </file>
+    <file name="uf2.jpg" crc="318977285" ref="csc631">
+      <caption webpage="csc631" alt=""/>
+    </file>
+    <file name="3161h10.jpg" crc="3915349170" ref="csc631">
+      <caption webpage="csc631" alt=""/>
+    </file>
+    <file name="a9-apple-chip.jpg" crc="227330220" ref="csc631">
+      <caption webpage="csc631" alt=""/>
+    </file>
+    <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r">
+      <caption webpage="csc498r" alt=""/>
+    </file>
+    <file name="internet-of-things-powered-by-raspberry-pi-u6820-fr.jpg" crc="315224397" ref="csc498r"/>
+    <file name="2738-05-u6819-fr.jpg" crc="3902433011" ref="csc498r"/>
   </folder>
-  <file name="index.html" crc="4219284982" seo="true" mt="1494225410204" redirect="true"/>
-  <file name="haidar.html" crc="4239914675" seo="true" mt="1470583777719" redirect="true"/>
-  <file name="csc443.html" crc="148854445" seo="true" mt="1503567881518" redirect="true"/>
-  <file name="csc375.html" crc="183026865" seo="true" mt="1503567998893" redirect="true"/>
-  <file name="csc688e.html" crc="3899592262" seo="true" mt="1473938605951" redirect="true"/>
-  <file name="csc320.html" crc="531001860" seo="true" mt="1493325935163" redirect="true"/>
-  <file name="csc322.html" crc="3767349149" seo="true" mt="1485696834297" redirect="true"/>
-  <file name="csc447.html" crc="4060863091" seo="true" mt="1495568352651" redirect="true"/>
-  <file name="csc611.html" crc="3897738098" seo="true" mt="1470584049766" redirect="true"/>
-  <file name="csc632.html" crc="4139834878" seo="true" mt="1498842552738" redirect="true"/>
-  <file name="csc631.html" crc="455523431" seo="true" mt="1495568376965" redirect="true"/>
-  <file name="csc498r.html" crc="3900623007" seo="true" mt="1503567966017" redirect="true"/>
+  <file name="index.html" crc="178662393" seo="true" mt="1503568403799" redirect="true"/>
+  <file name="haidar.html" crc="239393738" seo="true" mt="1470583777719" redirect="true"/>
+  <file name="csc443.html" crc="3758264322" seo="true" mt="1503573275017" redirect="true"/>
+  <file name="csc375.html" crc="3999211730" seo="true" mt="1508696763824" redirect="true"/>
+  <file name="csc688e.html" crc="529962336" seo="true" mt="1473938605951" redirect="true"/>
+  <file name="csc320.html" crc="4019678551" seo="true" mt="1493325935163" redirect="true"/>
+  <file name="csc322.html" crc="4091085240" seo="true" mt="1485696834297" redirect="true"/>
+  <file name="csc447.html" crc="3908660766" seo="true" mt="1495568352651" redirect="true"/>
+  <file name="csc611.html" crc="3850927048" seo="true" mt="1470584049766" redirect="true"/>
+  <file name="csc632.html" crc="4157496947" seo="true" mt="1498842552738" redirect="true"/>
+  <file name="csc631.html" crc="133002846" seo="true" mt="1495568376965" redirect="true"/>
+  <file name="csc498r.html" crc="408043206" seo="true" mt="1506248889246" redirect="true"/>
 </manifest>
