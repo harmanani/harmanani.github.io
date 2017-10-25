@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1508935656530">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1508935890338">
   <folder name="css">
     <file name="site_global.css" crc="4199454967"/>
     <file name="index.css" crc="76969336" ref="index"/>
@@ -12,7 +12,7 @@
     <file name="csc688e.css" crc="380349769" ref="csc688e"/>
     <file name="csc631.css" crc="505659262" ref="csc631"/>
     <file name="csc447.css" crc="4000408357" ref="csc447"/>
-    <file name="csc375.css" crc="158298037" ref="csc375"/>
+    <file name="csc375.css" crc="227958264" ref="csc375"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r"/>
@@ -32,43 +32,43 @@
   </folder>
   <folder name="images">
     <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc447" alt=""/>
       <caption webpage="csc320" alt=""/>
       <caption webpage="csc375" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc447" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc632" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc443" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc443" alt=""/>
     </file>
     <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc447" alt=""/>
       <caption webpage="csc320" alt=""/>
       <caption webpage="csc375" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc447" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc632" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc443" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc443" alt=""/>
     </file>
     <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc447" alt=""/>
       <caption webpage="csc320" alt=""/>
       <caption webpage="csc375" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc447" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc632" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc443" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc443" alt=""/>
     </file>
     <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar">
       <caption webpage="index" alt=""/>
@@ -85,17 +85,17 @@
       <caption webpage="csc443" alt=""/>
     </file>
     <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc447" alt=""/>
       <caption webpage="csc320" alt=""/>
       <caption webpage="csc375" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc447" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc632" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc443" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc322" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc443" alt=""/>
     </file>
     <file name="129-960x623.jpg" crc="287340160" ref="index">
       <caption webpage="index" alt=""/>
@@ -237,7 +237,7 @@
   <file name="index.html" crc="178662393" seo="true" mt="1503568403799" redirect="true"/>
   <file name="haidar.html" crc="239393738" seo="true" mt="1470583777719" redirect="true"/>
   <file name="csc443.html" crc="95928853" seo="true" mt="1508935645224" redirect="true"/>
-  <file name="csc375.html" crc="388172676" seo="true" mt="1508935313897" redirect="true"/>
+  <file name="csc375.html" crc="4138924299" seo="true" mt="1508935857968" redirect="true"/>
   <file name="csc688e.html" crc="529962336" seo="true" mt="1473938605951" redirect="true"/>
   <file name="csc320.html" crc="4019678551" seo="true" mt="1493325935163" redirect="true"/>
   <file name="csc322.html" crc="4091085240" seo="true" mt="1485696834297" redirect="true"/>
