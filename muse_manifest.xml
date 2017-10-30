@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1509393210205">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1509397438538">
   <folder name="css">
     <file name="site_global.css" crc="4199454967"/>
     <file name="index.css" crc="76969336" ref="index"/>
@@ -36,12 +36,12 @@
       <caption webpage="csc443" alt=""/>
       <caption webpage="csc447" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc632" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
+      <caption webpage="csc375" alt=""/>
       <caption webpage="csc688e" alt=""/>
-      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc320" alt=""/>
       <caption webpage="csc631" alt=""/>
     </file>
     <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
@@ -49,12 +49,12 @@
       <caption webpage="csc443" alt=""/>
       <caption webpage="csc447" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc632" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
+      <caption webpage="csc375" alt=""/>
       <caption webpage="csc688e" alt=""/>
-      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc320" alt=""/>
       <caption webpage="csc631" alt=""/>
     </file>
     <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
@@ -62,12 +62,12 @@
       <caption webpage="csc443" alt=""/>
       <caption webpage="csc447" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc632" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
+      <caption webpage="csc375" alt=""/>
       <caption webpage="csc688e" alt=""/>
-      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc320" alt=""/>
       <caption webpage="csc631" alt=""/>
     </file>
     <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar">
@@ -83,18 +83,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="csc443" alt=""/>
       <caption webpage="csc375" alt=""/>
+      <caption webpage="csc498r" alt=""/>
     </file>
     <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r">
       <caption webpage="csc611" alt=""/>
       <caption webpage="csc443" alt=""/>
       <caption webpage="csc447" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc632" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
+      <caption webpage="csc375" alt=""/>
       <caption webpage="csc688e" alt=""/>
-      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc320" alt=""/>
       <caption webpage="csc631" alt=""/>
     </file>
     <file name="129-960x623.jpg" crc="287340160" ref="index">
@@ -245,5 +246,5 @@
   <file name="csc611.html" crc="3850927048" seo="true" mt="1470584049766" redirect="true"/>
   <file name="csc632.html" crc="4157496947" seo="true" mt="1498842552738" redirect="true"/>
   <file name="csc631.html" crc="133002846" seo="true" mt="1495568376965" redirect="true"/>
-  <file name="csc498r.html" crc="4145290405" seo="true" mt="1509393196707" redirect="true"/>
+  <file name="csc498r.html" crc="3920798610" seo="true" mt="1509397429476" redirect="true"/>
 </manifest>
