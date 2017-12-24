@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/index.html</loc>
-    <lastmod>2017-08-24</lastmod>
+    <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -107,7 +107,7 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc631.html</loc>
-    <lastmod>2017-05-23</lastmod>
+    <lastmod>2017-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,6 +121,18 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc634.html</loc>
+    <lastmod>2017-12-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/19063123-man-presses-interface-high-resolution-stock-photo-network-virtual-contact10x7.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
