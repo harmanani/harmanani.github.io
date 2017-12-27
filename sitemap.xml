@@ -71,7 +71,7 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc322.html</loc>
-    <lastmod>2017-12-24</lastmod>
+    <lastmod>2017-12-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -133,6 +133,15 @@
     </image:image>
     <image:image>
       <image:loc>http://vlsi.byblos.lau.edu.lb/images/19063123-man-presses-interface-high-resolution-stock-photo-network-virtual-contact10x7.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://vlsi.byblos.lau.edu.lb/csc491.html</loc>
+    <lastmod>2017-12-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/boat.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
