@@ -26,11 +26,14 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/haidar.html</loc>
-    <lastmod>2016-08-07</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://vlsi.byblos.lau.edu.lb/images/img_1903-crop-u2150-crop-u2459.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vlsi.byblos.lau.edu.lb/images/pdf.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -62,7 +65,7 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc320.html</loc>
-    <lastmod>2017-12-24</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -71,7 +74,7 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc322.html</loc>
-    <lastmod>2017-12-27</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -80,7 +83,7 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc447.html</loc>
-    <lastmod>2017-12-24</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,7 +128,7 @@
   </url>
   <url>
     <loc>http://vlsi.byblos.lau.edu.lb/csc634.html</loc>
-    <lastmod>2017-12-24</lastmod>
+    <lastmod>2018-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

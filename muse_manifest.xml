@@ -1,26 +1,26 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1514382390204">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1515937970534">
   <folder name="css">
     <file name="site_global.css" crc="344266470"/>
-    <file name="index.css" crc="4213252696" ref="index"/>
-    <file name="csc322.css" crc="4118749237" ref="csc322"/>
-    <file name="haidar.css" crc="4018054773" ref="haidar"/>
-    <file name="csc498r.css" crc="342257908" ref="csc498r"/>
-    <file name="csc611.css" crc="3801711199" ref="csc611"/>
-    <file name="csc320.css" crc="476916038" ref="csc320"/>
-    <file name="csc443.css" crc="3761757629" ref="csc443"/>
-    <file name="csc632.css" crc="535641404" ref="csc632"/>
-    <file name="csc688e.css" crc="380349769" ref="csc688e"/>
-    <file name="csc631.css" crc="4067909439" ref="csc631"/>
-    <file name="csc447.css" crc="4102757029" ref="csc447"/>
+    <file name="csc631.css" crc="495763039" ref="csc631"/>
     <file name="csc375.css" crc="393502351" ref="csc375"/>
-    <file name="csc634.css" crc="477251243" ref="csc634"/>
-    <file name="csc491.css" crc="3891770219" ref="csc491"/>
+    <file name="csc632.css" crc="4019314089" ref="csc632"/>
+    <file name="csc320.css" crc="366834391" ref="csc320"/>
+    <file name="index.css" crc="4213252696" ref="index"/>
+    <file name="csc611.css" crc="3801711199" ref="csc611"/>
+    <file name="csc322.css" crc="35448611" ref="csc322"/>
+    <file name="csc447.css" crc="4102757029" ref="csc447"/>
+    <file name="csc443.css" crc="3761757629" ref="csc443"/>
+    <file name="haidar.css" crc="226487548" ref="haidar"/>
+    <file name="csc491.css" crc="4171681157" ref="csc491"/>
+    <file name="csc634.css" crc="4227196363" ref="csc634"/>
+    <file name="csc498r.css" crc="3896464453" ref="csc498r"/>
+    <file name="csc688e.css" crc="3872869852" ref="csc688e"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
     <file name="museutils.js" crc="3803043152" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
     <file name="whatinput.js" crc="86476730" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="museconfig.js" crc="380897831" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
     <file name="webpro.js" crc="242022427" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
@@ -34,49 +34,49 @@
   </folder>
   <folder name="images">
     <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc632" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc634" alt=""/>
       <caption webpage="csc447" alt=""/>
-      <caption webpage="csc320" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc491" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc634" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc322" alt=""/>
     </file>
     <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc632" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc634" alt=""/>
       <caption webpage="csc447" alt=""/>
-      <caption webpage="csc320" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc491" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc634" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc322" alt=""/>
     </file>
     <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc632" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc634" alt=""/>
       <caption webpage="csc447" alt=""/>
-      <caption webpage="csc320" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc491" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc634" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc322" alt=""/>
     </file>
     <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar">
       <caption webpage="index" alt=""/>
@@ -88,28 +88,23 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc491" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc634" alt=""/>
+      <caption webpage="csc320" alt=""/>
     </file>
     <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="csc322" alt=""/>
-      <caption webpage="csc632" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc634" alt=""/>
       <caption webpage="csc447" alt=""/>
-      <caption webpage="csc320" alt=""/>
       <caption webpage="csc688e" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="csc611" alt=""/>
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc491" alt=""/>
+      <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc634" alt=""/>
+      <caption webpage="csc632" alt=""/>
+      <caption webpage="csc322" alt=""/>
     </file>
     <file name="129-960x623.jpg" crc="287340160" ref="index">
       <caption webpage="index" alt=""/>
@@ -119,6 +114,12 @@
       <caption webpage="csc322" alt=""/>
     </file>
     <file name="tianhe 2 corridor.jpg" crc="3874207461" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="large-icon.jpg" crc="4079698915" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images-1.jpg" crc="4289269407" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="arm-dynamiq-contenthero-790x444png-790x444-u533-fr.jpg" crc="447840185" ref="index"/>
@@ -153,6 +154,7 @@
     </file>
     <file name="lsm_chip.jpg" crc="3805901479" ref="index:csc688e:csc320:csc632">
       <caption webpage="index" alt=""/>
+      <caption webpage="csc320" alt=""/>
     </file>
     <file name="120327043014-computer-chip-super-flops-horizontal-large-gallery-u1930-fr.jpg" crc="260430695" ref="index"/>
     <file name="tweeter.png" crc="192439320" ref="index:haidar">
@@ -189,6 +191,27 @@
     <file name="img_1903-crop-u2150-crop-u2459.jpg" crc="3773741604" seo="true" ref="haidar">
       <caption webpage="haidar" alt=""/>
     </file>
+    <file name="pdf.png" crc="317687697" seo="true" ref="haidar">
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+      <caption webpage="haidar" alt=""/>
+    </file>
     <file name="combined-web-languages-u2694-fr.png" crc="113655947" ref="csc443">
       <caption webpage="csc443" alt=""/>
     </file>
@@ -199,6 +222,7 @@
       <caption webpage="csc443" alt=""/>
     </file>
     <file name="what-is-aws-and-how-did-it-bring-down-instagram--6b1ffffa8a-u4349-fr.jpg" crc="3915006487" ref="csc375:csc447">
+      <caption webpage="csc447" alt=""/>
       <caption webpage="csc375" alt=""/>
     </file>
     <file name="msdatacenter12513-u4348-fr.jpg" crc="513372046" ref="csc375">
@@ -248,38 +272,32 @@
     </file>
     <file name="internet-of-things-powered-by-raspberry-pi-u6820-fr.jpg" crc="315224397" ref="csc498r"/>
     <file name="2738-05-u6819-fr.jpg" crc="3902433011" ref="csc498r"/>
-    <file name="large-icon.jpg" crc="4079698915" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="images-1.jpg" crc="4289269407" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="19743062465_ae696fe42b_b-u7469-fr.jpg" crc="4218139022" ref="csc634"/>
+    <file name="19063123-man-presses-interface-high-resolution-stock-photo-network-virtual-contact-u7470-fr.jpg" crc="3761002304" ref="csc634"/>
     <file name="images-2.jpg" crc="3798548161" ref="csc634">
       <caption webpage="csc634" alt=""/>
     </file>
     <file name="19063123-man-presses-interface-high-resolution-stock-photo-network-virtual-contact10x7.jpg" crc="215979472" seo="true" ref="csc634">
       <caption webpage="csc634" alt=""/>
     </file>
-    <file name="19743062465_ae696fe42b_b-u7469-fr.jpg" crc="4218139022" ref="csc634"/>
-    <file name="19063123-man-presses-interface-high-resolution-stock-photo-network-virtual-contact-u7470-fr.jpg" crc="3761002304" ref="csc634"/>
     <file name="picture2-u7818-fr.jpg" crc="528087404" ref="csc491"/>
     <file name="picture1-u7816-fr.png" crc="130477913" ref="csc491"/>
     <file name="aiv.jpg" crc="3773047109" ref="csc491">
       <caption webpage="csc491" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4226896814" seo="true" mt="1514117632821" redirect="true"/>
-  <file name="haidar.html" crc="239393738" seo="true" mt="1470583777719" redirect="true"/>
-  <file name="csc443.html" crc="377356857" seo="true" mt="1510586074638" redirect="true"/>
-  <file name="csc375.html" crc="141810120" seo="true" mt="1514118129500" redirect="true"/>
-  <file name="csc688e.html" crc="529962336" seo="true" mt="1473938605951" redirect="true"/>
-  <file name="csc320.html" crc="83623225" seo="true" mt="1514118548842" redirect="true"/>
-  <file name="csc322.html" crc="4182364504" seo="true" mt="1514379388010" redirect="true"/>
-  <file name="csc447.html" crc="534382360" seo="true" mt="1514118578936" redirect="true"/>
-  <file name="csc611.html" crc="4162803321" seo="true" mt="1514118116280" redirect="true"/>
-  <file name="csc632.html" crc="4157496947" seo="true" mt="1498842552738" redirect="true"/>
-  <file name="csc631.html" crc="492118934" seo="true" mt="1514117445429" redirect="true"/>
-  <file name="csc498r.html" crc="151843988" seo="true" mt="1513756799051" redirect="true"/>
-  <file name="csc634.html" crc="204206677" seo="true" mt="1514137164945" redirect="true"/>
-  <file name="csc491.html" crc="11995535" seo="true" mt="1514382379116" redirect="true"/>
+  <file name="index.html" crc="428432476" seo="true" mt="1514117632821" redirect="true"/>
+  <file name="haidar.html" crc="290718422" seo="true" mt="1515914790669" redirect="true"/>
+  <file name="csc443.html" crc="303027690" seo="true" mt="1510586074638" redirect="true"/>
+  <file name="csc375.html" crc="111876795" seo="true" mt="1514118129500" redirect="true"/>
+  <file name="csc688e.html" crc="438374252" seo="true" mt="1473938605951" redirect="true"/>
+  <file name="csc320.html" crc="3015780" seo="true" mt="1515924053916" redirect="true"/>
+  <file name="csc322.html" crc="4022538772" seo="true" mt="1515924062251" redirect="true"/>
+  <file name="csc447.html" crc="3765395889" seo="true" mt="1515924045099" redirect="true"/>
+  <file name="csc611.html" crc="457045294" seo="true" mt="1514118116280" redirect="true"/>
+  <file name="csc632.html" crc="396250385" seo="true" mt="1498842552738" redirect="true"/>
+  <file name="csc631.html" crc="4039061234" seo="true" mt="1514117445429" redirect="true"/>
+  <file name="csc498r.html" crc="3878425212" seo="true" mt="1513756799051" redirect="true"/>
+  <file name="csc634.html" crc="3871047903" seo="true" mt="1515921185867" redirect="true"/>
+  <file name="csc491.html" crc="475969156" seo="true" mt="1514382379116" redirect="true"/>
 </manifest>
