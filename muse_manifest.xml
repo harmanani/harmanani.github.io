@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1535372533271">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1535373145049">
   <folder name="css">
     <file name="site_global.css" crc="344266470"/>
     <file name="csc320.css" crc="368831369" ref="csc320"/>
@@ -15,7 +15,7 @@
     <file name="csc632.css" crc="3807023989" ref="csc632"/>
     <file name="csc443.css" crc="4031189361" ref="csc443"/>
     <file name="csc375.css" crc="4205762428" ref="csc375"/>
-    <file name="csc498u.css" crc="4027864123" ref="csc498u"/>
+    <file name="csc498u.css" crc="233776763" ref="csc498u"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
@@ -93,6 +93,7 @@
     </file>
     <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u">
       <caption webpage="index" alt=""/>
+      <caption webpage="csc498u" alt=""/>
     </file>
     <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u">
       <caption webpage="csc631" alt=""/>
@@ -267,7 +268,7 @@
     <file name="a9-apple-chip.jpg" crc="227330220" ref="csc631">
       <caption webpage="csc631" alt=""/>
     </file>
-    <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r:csc498u">
+    <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r">
       <caption webpage="csc498r" alt=""/>
       <caption webpage="csc498u" alt=""/>
     </file>
@@ -286,8 +287,15 @@
     <file name="aiv.jpg" crc="3773047109" ref="csc491">
       <caption webpage="csc491" alt=""/>
     </file>
-    <file name="internet-of-things-powered-by-raspberry-pi-u8364-fr.jpg" crc="315224397" ref="csc498u"/>
-    <file name="2738-05-u8365-fr.jpg" crc="3902433011" ref="csc498u"/>
+    <file name="fotolia_134476636_subscription_monthly_m-1080x675.jpg" crc="3977420555" ref="csc498u">
+      <caption webpage="csc498u" alt=""/>
+    </file>
+    <file name="codecode.jpg" crc="195004965" ref="csc498u">
+      <caption webpage="csc498u" alt=""/>
+    </file>
+    <file name="attacks-on-computer-systems.jpg" crc="4275755681" ref="csc498u">
+      <caption webpage="csc498u" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="144040247" seo="true" mt="1535372293166" redirect="true"/>
   <file name="haidar.html" crc="494351522" seo="true" mt="1515914790669" redirect="true"/>
@@ -303,5 +311,5 @@
   <file name="csc498r.html" crc="446322435" seo="true" mt="1513756799051" redirect="true"/>
   <file name="csc634.html" crc="106212657" seo="true" mt="1523375864956" redirect="true"/>
   <file name="csc491.html" crc="137278798" seo="true" mt="1516690811799" redirect="true"/>
-  <file name="csc498u.html" crc="184257011" seo="true" mt="1534381882973" redirect="true"/>
+  <file name="csc498u.html" crc="3782476293" seo="true" mt="1535373126747" redirect="true"/>
 </manifest>
