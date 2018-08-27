@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1523376202428">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1535372332353">
   <folder name="css">
     <file name="site_global.css" crc="344266470"/>
     <file name="csc320.css" crc="368831369" ref="csc320"/>
@@ -9,74 +9,78 @@
     <file name="csc631.css" crc="500643622" ref="csc631"/>
     <file name="csc491.css" crc="4158948768" ref="csc491"/>
     <file name="csc322.css" crc="139843239" ref="csc322"/>
-    <file name="index.css" crc="304883918" ref="index"/>
+    <file name="index.css" crc="491609786" ref="index"/>
     <file name="csc611.css" crc="390405229" ref="csc611"/>
     <file name="csc447.css" crc="4250425016" ref="csc447"/>
     <file name="csc632.css" crc="3807023989" ref="csc632"/>
     <file name="csc443.css" crc="4031189361" ref="csc443"/>
-    <file name="csc375.css" crc="474178250" ref="csc375"/>
+    <file name="csc375.css" crc="4205762428" ref="csc375"/>
+    <file name="csc498u.css" crc="4027864123" ref="csc498u"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="museutils.js" crc="340535759" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="whatinput.js" crc="86476730" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="museconfig.js" crc="310584261" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="webpro.js" crc="4059564322" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
-    <file name="require.js" crc="7928878" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="museutils.js" crc="340535759" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="whatinput.js" crc="86476730" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="museconfig.js" crc="310584261" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="webpro.js" crc="4059564322" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
+    <file name="require.js" crc="7928878" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u"/>
   </folder>
   <folder name="images">
-    <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
+    <file name="facebook.png" crc="317936629" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc498u" alt=""/>
+      <caption webpage="csc611" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc634" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc320" alt=""/>
-      <caption webpage="csc634" alt=""/>
-      <caption webpage="csc447" alt=""/>
       <caption webpage="csc632" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc491" alt=""/>
     </file>
-    <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
+    <file name="twitter.png" crc="4102706121" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc498u" alt=""/>
+      <caption webpage="csc611" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc634" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc320" alt=""/>
-      <caption webpage="csc634" alt=""/>
-      <caption webpage="csc447" alt=""/>
       <caption webpage="csc632" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc491" alt=""/>
     </file>
-    <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
+    <file name="rss.png" crc="3858264630" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc498u" alt=""/>
+      <caption webpage="csc611" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc634" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc320" alt=""/>
-      <caption webpage="csc634" alt=""/>
-      <caption webpage="csc447" alt=""/>
       <caption webpage="csc632" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc491" alt=""/>
     </file>
     <file name="pic030-300dpi.jpg" crc="166288233" ref="index:haidar">
       <caption webpage="index" alt=""/>
@@ -87,23 +91,24 @@
     <file name="dsc_0367.jpg" crc="3809102535" ref="index:haidar">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
+    <file name="pic-18.jpg" crc="4217054315" ref="index:haidar:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491">
+    <file name="boat.jpg" crc="113555575" seo="true" ref="index:csc443:csc375:csc688e:csc320:csc322:csc447:csc611:csc632:csc631:csc498r:csc634:csc491:csc498u">
+      <caption webpage="csc631" alt=""/>
+      <caption webpage="csc498u" alt=""/>
+      <caption webpage="csc611" alt=""/>
       <caption webpage="csc498r" alt=""/>
-      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc634" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="csc322" alt=""/>
-      <caption webpage="csc491" alt=""/>
-      <caption webpage="csc611" alt=""/>
-      <caption webpage="csc631" alt=""/>
-      <caption webpage="csc375" alt=""/>
-      <caption webpage="csc443" alt=""/>
-      <caption webpage="csc320" alt=""/>
-      <caption webpage="csc634" alt=""/>
-      <caption webpage="csc447" alt=""/>
       <caption webpage="csc632" alt=""/>
+      <caption webpage="csc375" alt=""/>
+      <caption webpage="csc320" alt=""/>
+      <caption webpage="csc447" alt=""/>
+      <caption webpage="csc688e" alt=""/>
+      <caption webpage="csc443" alt=""/>
+      <caption webpage="csc491" alt=""/>
     </file>
     <file name="129-960x623.jpg" crc="287340160" ref="index">
       <caption webpage="index" alt=""/>
@@ -262,8 +267,9 @@
     <file name="a9-apple-chip.jpg" crc="227330220" ref="csc631">
       <caption webpage="csc631" alt=""/>
     </file>
-    <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r">
+    <file name="pexels-photo-57007-2.jpg" crc="4086835613" ref="csc498r:csc498u">
       <caption webpage="csc498r" alt=""/>
+      <caption webpage="csc498u" alt=""/>
     </file>
     <file name="internet-of-things-powered-by-raspberry-pi-u6820-fr.jpg" crc="315224397" ref="csc498r"/>
     <file name="2738-05-u6819-fr.jpg" crc="3902433011" ref="csc498r"/>
@@ -280,11 +286,13 @@
     <file name="aiv.jpg" crc="3773047109" ref="csc491">
       <caption webpage="csc491" alt=""/>
     </file>
+    <file name="internet-of-things-powered-by-raspberry-pi-u8364-fr.jpg" crc="315224397" ref="csc498u"/>
+    <file name="2738-05-u8365-fr.jpg" crc="3902433011" ref="csc498u"/>
   </folder>
-  <file name="index.html" crc="385187649" seo="true" mt="1514117632821" redirect="true"/>
+  <file name="index.html" crc="144040247" seo="true" mt="1535372293166" redirect="true"/>
   <file name="haidar.html" crc="494351522" seo="true" mt="1515914790669" redirect="true"/>
   <file name="csc443.html" crc="347687737" seo="true" mt="1510586074638" redirect="true"/>
-  <file name="csc375.html" crc="169988757" seo="true" mt="1514118129500" redirect="true"/>
+  <file name="csc375.html" crc="3980006113" seo="true" mt="1534380933064" redirect="true"/>
   <file name="csc688e.html" crc="57056458" seo="true" mt="1473938605951" redirect="true"/>
   <file name="csc320.html" crc="324022781" seo="true" mt="1515924053916" redirect="true"/>
   <file name="csc322.html" crc="342551670" seo="true" mt="1515924062251" redirect="true"/>
@@ -295,4 +303,5 @@
   <file name="csc498r.html" crc="446322435" seo="true" mt="1513756799051" redirect="true"/>
   <file name="csc634.html" crc="106212657" seo="true" mt="1523375864956" redirect="true"/>
   <file name="csc491.html" crc="137278798" seo="true" mt="1516690811799" redirect="true"/>
+  <file name="csc498u.html" crc="184257011" seo="true" mt="1534381882973" redirect="true"/>
 </manifest>
