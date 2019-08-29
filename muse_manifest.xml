@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1543172477355">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vlsi.byblos.lau.edu.lb" resolutions="1x" timestamp="1559922066596">
   <folder name="css">
-    <file name="site_global.css" crc="4199454967"/>
+    <file name="site_global.css" crc="344266470"/>
     <file name="csc320.css" crc="368831369" ref="csc320"/>
     <file name="haidar.css" crc="3835968067" ref="haidar"/>
     <file name="csc634.css" crc="355601053" ref="csc634"/>
